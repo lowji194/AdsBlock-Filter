@@ -35,7 +35,7 @@ Bộ lọc này có thể được sử dụng trên các trình duyệt hỗ tr
   1. Mở **AdGuard** và đi đến phần **Cài đặt bộ lọc**.
   2. Chọn **Thêm bộ lọc** và nhập URL bộ lọc sau vào ô **URL của bộ lọc**:
 ---
-    https://raw.githubusercontent.com/lowji194/linh-tinh/refs/heads/main/filter_ads/Lowji194_Filter_ADS.txt
+    https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/refs/heads/main/Lowji194_Filter_ADS.txt
 
 ### 3. **Kích Hoạt Bộ Lọc**
 
