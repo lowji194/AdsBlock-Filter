@@ -1,4 +1,5 @@
 [![🇻🇳 Tiếng Việt](https://img.shields.io/badge/Ngôn_ngữ-Tiếng_Việt-red?style=for-the-badge&logo=Google%20Translate)](README.md)
+---
     Sure! Here is the translated content:
 
 ```
