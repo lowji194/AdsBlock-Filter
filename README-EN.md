@@ -62,9 +62,3 @@ If you encounter any problems or want to contribute to the project, you can cont
 - **Facebook**: [Lowji194](https://www.facebook.com/Lowji194/)
 
 ---
-
-## 📜 **License**
-
-This project is released under the **MIT License**. You are free to use, change, and distribute the source code of this project as long as you comply with the license.
-
----
