@@ -59,9 +59,3 @@ Nếu bạn gặp phải bất kỳ vấn đề nào hoặc muốn đóng góp v
 - **Facebook**: [Lowji194](https://www.facebook.com/Lowji194/)
 
 ---
-
-## 📜 **Giấy Phép**
-
-Dự án này được phát hành dưới **Giấy phép MIT**. Bạn có thể tự do sử dụng, thay đổi, và phân phối mã nguồn dự án này với điều kiện tuân theo giấy phép.
-
----
