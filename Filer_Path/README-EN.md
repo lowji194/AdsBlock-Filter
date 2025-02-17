@@ -1,6 +1,5 @@
-Sure! Here is the translated content:
-
-```
+[![🇻🇳 Tiếng Việt](https://img.shields.io/badge/Ngôn_ngữ-Tiếng_Việt-red?style=for-the-badge&logo=Google%20Translate)](README.md)
+---
 # **🔥Ad Block Filter By Lợi Nguyễn🔥**
 
 This is an advanced ad filter developed by **Nguyễn Thế Lợi**. This filter is designed to help block ads and improve the browsing experience[...]
@@ -46,6 +45,7 @@ This filter can be used on browsers that support **uBlock Origin** or **AdGuard*
     https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/Filer_Path/Filter_ADS_P3.txt
     https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/Filer_Path/Filter_ADS_P4.txt
 
+
 ### 3. **Activate the Filter**
 
 After adding the filter URL, the filter will automatically block ads while you browse the web. You can enable or disable the filter at any time in the **[...]
@@ -67,4 +67,3 @@ If you encounter any issues or want to contribute to the project, you can contac
 
 ---
 
-```
