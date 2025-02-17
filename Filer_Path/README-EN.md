@@ -2,7 +2,7 @@
 ---
 # **🔥Ad Block Filter By Lợi Nguyễn🔥**
 
-This is an advanced ad filter developed by **Nguyễn Thế Lợi**. This filter is designed to help block ads and improve the browsing experience[...]
+This is an advanced ad filter developed by **Nguyễn Thế Lợi**. This filter is designed to help block ads and improve your web browsing experience.
 
 ---
 
@@ -19,12 +19,12 @@ This is an advanced ad filter developed by **Nguyễn Thế Lợi**. This filter
 
 ## 🚀 **Usage Instructions**
 
-This filter can be used on browsers that support **uBlock Origin** or **AdGuard**. Below are the instructions for easily adding the filter[...]
+This filter can be used on browsers that support **uBlock Origin** or **AdGuard**. Below are the instructions to easily add the filter to your browser.
 
 ### 1. **Install uBlock Origin or AdGuard**
 
-- **uBlock Origin**: Install from [Chrome Web Store](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) or [Firefox Add-ons](https://addons.mozilla.org/fi[...]
-- **AdGuard**: Install from [Chrome Web Store](https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) or [Firefox Add-ons](https://addons.mozilla.org/fire[...]
+- **uBlock Origin**: Install from [Chrome Web Store](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) or [[Firefox Add-ons](https://addons.mozilla.org/firefox/addon/ublock-origin/)
+- **AdGuard**: Install from [Chrome Web Store](https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) or [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/adguard-adblocker/)
 
 ### 2. **Add the Filter to uBlock Origin or AdGuard**
 
@@ -48,13 +48,13 @@ This filter can be used on browsers that support **uBlock Origin** or **AdGuard*
 
 ### 3. **Activate the Filter**
 
-After adding the filter URL, the filter will automatically block ads while you browse the web. You can enable or disable the filter at any time in the **[...]
+After adding the filter URL, the filter will automatically block ads while you browse the web. You can enable or disable the filter at any time in the settings of **uBlock Origin** or **AdGuard**.
 
 ---
 
 ## ⚙️ **Technical Information**
 
-This filter is created to help you block ads, pop-ups, and other unwanted content while browsing the web. The filter is maintained and updated regularly[...]
+This filter is designed to help you block ads, pop-ups, and other unwanted content while browsing the web. The filter is continuously maintained and updated to ensure optimal performance.
 
 ---
 
