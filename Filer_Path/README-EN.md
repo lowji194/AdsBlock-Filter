@@ -1,6 +1,4 @@
-[![🇻🇳 Tiếng Việt](https://img.shields.io/badge/Ngôn_ngữ-Tiếng_Việt-red?style=for-the-badge&logo=Google%20Translate)](README.md)
----
-    Sure! Here is the translated content:
+Sure! Here is the translated content:
 
 ```
 # **🔥Ad Block Filter By Lợi Nguyễn🔥**
@@ -47,7 +45,6 @@ This filter can be used on browsers that support **uBlock Origin** or **AdGuard*
     https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/Filer_Path/Filter_ADS_P2.txt
     https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/Filer_Path/Filter_ADS_P3.txt
     https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/Filer_Path/Filter_ADS_P4.txt
-
 
 ### 3. **Activate the Filter**
 
