@@ -42,10 +42,6 @@ Bộ lọc này có thể được sử dụng trên các trình duyệt hỗ tr
     https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/Filer_Path/Filter_ADS_P2.txt
     https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/Filer_Path/Filter_ADS_P3.txt
     https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/Filer_Path/Filter_ADS_P4.txt
-    https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/Filer_Path/Filter_ADS_P5.txt
-    https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/Filer_Path/Filter_ADS_P6.txt
-    https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/Filer_Path/Filter_ADS_P7.txt
-    https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/Filer_Path/Filter_ADS_P8.txt
 
 
 ### 3. **Kích Hoạt Bộ Lọc**
