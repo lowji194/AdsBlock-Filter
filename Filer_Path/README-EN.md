@@ -23,7 +23,7 @@ This filter can be used on browsers that support **uBlock Origin** or **AdGuard*
 
 ### 1. **Install uBlock Origin or AdGuard**
 
-- **uBlock Origin**: Install from [Chrome Web Store](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) or [[Firefox Add-ons](https://addons.mozilla.org/firefox/addon/ublock-origin/)
+- **uBlock Origin**: Install from [Chrome Web Store](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) or [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/ublock-origin/)
 - **AdGuard**: Install from [Chrome Web Store](https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) or [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/adguard-adblocker/)
 
 ### 2. **Add the Filter to uBlock Origin or AdGuard**
