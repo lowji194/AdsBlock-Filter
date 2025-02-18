@@ -8,16 +8,679 @@
 !                               __/ |       __/ |                  !
 !                              |___/       |___/                   !
 !------------------------------------------------------------------!
-! Title:🇻🇳Bộ lọc quảng cáo [P4 - 18-02-2025🔥]   
+! Title:🇻🇳Bộ lọc quảng cáo [P4 - 19-02-2025🔥]   
 ! 🌐 Website: https://lowji194.github.io
 ! 🔥 Profile bộ lọc chặn quảng cáo nâng cao 🔥
-! 📅 Cập nhật: 18-02-2025
+! 📅 Cập nhật: 19-02-2025
 ! 🛠️ Dành cho: uBlock Origin / AdGuard
 ! 👤 Tác giả: Nguyễn Thế Lợi
 ! 📌 Mô tả: Bộ lọc chặn quảng cáo
 ! 📞 SĐT: 0963 159 294
 ! 👮 Facebook: https://www.facebook.com/Lowji194/
 !------------------------------------------------------------------!
+gizbot.com,goodreturns.in,inc.com##div[style^="min-height: 250px"]
+point2homes.com,propertyshark.com##div[style^="min-height: 360px;"]
+add0n.com##div[style^="min-height:90px"]
+decrypt.co,metabattle.com##div[style^="min-width: 300px;"]
+gtaforums.com##div[style^="text-align: center; margin: 0px 0px 10px;"]
+appleinsider.com##div[style^="text-align:center;border-radius:0;"]
+jwire.com.au##div[style^="width:468px;"]
+imgbabes.com##div[style^="width:604px;"]
+interglot.com,sodapdf.com,stopmalvertising.com##div[style^="width:728px;"]
+worldstar.com,worldstarhiphop.com##div[style^="width:972px;height:250px;"]
+tvtv.us##div[style^="z-index: 1100; position: fixed;"]
+ebay.com##div[title="ADVERTISEMENT"]
+presearch.com##div[x-show*="_ad_click"]
+adblock-tester.com##embed[width="240"]
+teslaoracle.com##figure.aligncenter
+groupon.com##figure[data-clickurl^="https://api.groupon.com/sponsored/"]
+imgburn.com##font[face="Arial"][size="1"]
+realitytvworld.com##font[size="1"][color="gray"]
+dailydot.com##footer
+law.com,topcultured.com##h3
+kazwire.com##h3.tracking-widest
+drive.com.au##hr
+nordstrom.com##iframe[data-revjet-options]
+pixiv.net##iframe[height="300"][name="responsive"]
+pixiv.net##iframe[height="520"][name="expandedFooter"]
+yourbittorrent.com##iframe[src]
+realgearonline.com##iframe[src^="http://www.adpeepshosted.com/"]
+bollyflix.how,dramacool.sr##iframe[style*="z-index: 2147483646"]
+4anime.gg,apkmody.io,bollyflix.how,bravoporn.com,dramacool.sr,gogoanime.co.in,gogoanime.run,harimanga.com,hdmovie2.rest,himovies.to,hurawatch.cc,instamod.co,leercapitulo.com,linksly.co,mangadna.com,manhwadesu.bio,messitv.net,miraculous.to,movies-watch.com.pk,moviesmod.zip,nkiri.com,prmovies.dog,putlockers.li,sockshare.ac,ssoap2day.to,sukidesuost.info,tamilyogi.bike,waploaded.com,watchomovies.net,y-2mate.com,yomovies.team,ytmp3.cc,yts-subs.com##iframe[style*="z-index: 2147483647"]
+pixiv.net##iframe[width="300"][height="250"]
+premiumtimesng.com##img[alt$=" Ad"]
+f1technical.net##img[alt="Amazon"]
+cnx-software.com##img[alt="ArmSoM CM5 - Raspberry Pi CM4 alternative with Rockchip RK3576 SoC"]
+cnx-software.com##img[alt="Cincoze industrial GPU computers"]
+cnx-software.com##img[alt="I-PI SMARC Intel Amston Lake devkit"]
+cnx-software.com##img[alt="Intel Amston Lake COM Express Type 6 Compact Size module"]
+cnx-software.com##img[alt="Orange Pi Amazon Store"]
+cnx-software.com##img[alt="ROCK 5 ITX RK3588 mini-ITX motherboard"]
+cnx-software.com##img[alt="Radxa ROCK 5C (Lite) SBC with Rockchip RK3588 / RK3582 SoC"]
+cnx-software.com##img[alt="Rockchip RK3568/RK3588 and Intel x86 SBCs"]
+newagebd.net##img[alt="ads space"]
+therainbowtimesmass.com##img[alt="banner ad"]
+framed.wtf##img[alt="prime gaming banner"]
+pasty.info##img[aria-label="Aliexpress partner network affiliate Link"]
+pasty.info##img[aria-label="Ebay partner network affiliate Link"]
+inkbotdesign.com,kuramanime.boo##img[decoding="async"]
+cloutgist.com,codesnse.com##img[fetchpriority]
+nepallivetoday.com,wjr.com##img[height="100"]
+prawfsblawg.blogs.com,thomhartmann.com##img[height="200"]
+newyorkyimby.com##img[height="280"]
+callofwar.com##img[referrerpolicy]
+nsfwyoutube.com##img[src*="data"]
+bcmagazine.net##img[style^="width:300px;"]
+unb.com.bd##img[style^="width:700px; height:70px;"]
+abpclub.co.uk##img[width="118"]
+lyngsat-logo.com,lyngsat-maps.com,lyngsat-stream.com,lyngsat.com,webhostingtalk.com##img[width="160"]
+fashionpulis.com,techiecorner.com##img[width="250"]
+airplaydirect.com,americaoutloud.com,bigeye.ug,completesports.com,cryptomining-blog.com,cryptoreporter.info,dotsauce.com,espnrichmond.com,flsentinel.com,forexmt4indicators.com,freedomhacker.net,gamblingnewsmagazine.com,gameplayinside.com,goodcarbadcar.net,kenyabuzz.com,kiwiblog.co.nz,mauitime.com,mkvcage.com,movin100.com,mycolumbuspower.com,naijaloaded.com.ng,newzimbabwe.com,oann.com,onislandtimes.com,ouo.press,portlandphoenix.me,punchng.com,reviewparking.com,robhasawebsite.com,sacobserver.com,sdvoice.info,seguintoday.com,themediaonline.co.za,theolivepress.es,therep.co.za,thewillnigeria.com,tntribune.com,up-4ever.net,waamradio.com,wantedinafrica.com,wantedinrome.com,wschronicle.com##img[width="300"]
+boxthislap.org,unknowncheats.me##img[width="300px"]
+independent.co.ug##img[width="320"]
+londonnewsonline.co.uk##img[width="360"]
+gamblingnewsmagazine.com##img[width="365"]
+arcadepunks.com##img[width="728"]
+boxthislap.org##img[width="728px"]
+umod.org##ins[data-revive-id]
+bitzite.com,unmineablesbest.com##ins[style^="display:inline-block;width:300px;height:250px;"]
+everythingrf.com,natureworldnews.com##label
+laredoute.*##li[class*="sponsored-"]
+cgpress.org##li > div[id^="cgpre-"]
+bestbuy.com##li.embedded-sponsored-listing
+cultbeauty.co.uk,dermstore.com,skinstore.com##li.sponsoredProductsList
+linkedin.com##li[data-is-sponsored="true"]
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##li[data-layout="products"]
+duckduckgo.com##li[data-layout="products_middle"]
+xing.com##li[data-qa="notifications-ad"]
+instacart.com##li[data-testid="compact-item-list-header"]
+flaticon.com##li[id^="bn-icon-list"]
+linkvertise.com##lv-redirect-static-ad
+escorenews.com##noindex
+adblock-tester.com##object[width="240"]
+forums.golfwrx.com##ol.cTopicList > li.ipsDataItem:not([data-rowid])
+opentable.*##div[data-promoted="true"]
+opentable.*##li[data-promoted="true"]
+americanfreepress.net##p > [href] > img
+ft.com##pg-slot
+radiome.*##.min-h-\[250px\].mx-auto.w-full.hidden.my-1.lg\:flex.center-children
+mashable.com##section.mt-4 > div
+weather.com##section[aria-label="Sponsored Content"]
+olympics.com##section[data-cy="ad"]
+bbc.com##section[data-e2e="advertisement"]
+reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##shreddit-comments-page-ad
+tempostorm.com##side-banners
+smartprix.com##sm-dap
+nativeplanet.com##span[class^="oiad-txt"]
+thewire.in##span[style*="background: rgb(232, 233, 237); text-align: center;"]
+fxempire.com##span[style="user-select:none"]
+americanfreepress.net##strong > span > a
+torlock.com##table.hidden-xs
+realitytvworld.com##table[border="0"][align="left"]
+thebbqforum.com##table[border="0"][width]
+thebbqforum.com##table[border="1"][width]
+roadtester.com.au##table[cellpadding="9"][border="0"]
+wifinetnews.com##table[height="260"]
+softpanorama.org##table[height="620"]
+afrol.com##table[height="70"]
+automobile-catalog.com,car.com,silentera.com##table[height="90"]
+automobile-catalog.com,itnewsonline.com##table[width="300"]
+learninginfo.org##table[width="346"]
+worldtimezone.com##table[width="472"]
+pcstats.com##table[width="866"]
+vpforums.org##td[align="center"][style="padding: 0px;"]
+schlockmercenary.com##td[colspan="3"]
+geekzone.co.nz##td[colspan="3"].forumRow[style="border-right:solid 1px #fff;"]
+titantv.com##td[id^="menutablelogocell"]
+wordreference.com##td[style^="height:260px;"]
+itnewsonline.com##td[width="120"]
+greyhound-data.com##td[width="160"]
+eurometeo.com##td[width="738"]
+tellows-au.com,tellows-tr.com,tellows.*##li > .comment-body[style*="min-height: 250px;"]
+radiosurvivor.com##text-18
+telescopius.com##tlc-ad-banner
+trademe.co.nz##tm-display-ad
+rarbgaccess.org,rarbgmirror.com,rarbgmirror.org,rarbgproxy.com,rarbgproxy.org,rarbgunblock.com,rarbgunblocked.org##tr > td + td[style*="height:"]
+titantv.com##tr.gridRow > td > [id] > div:first-child
+livetv.sx##tr[height] ~ tr > td[colspan][height][bgcolor="#000000"]
+morningagclips.com##ul.logo-nav
+greyhound-data.com##ul.ppts
+greatandhra.com##ul.sortable-list > div
+backgrounds.wetransfer.net##we-wallpaper
+autoscout24.*##img[referrerpolicy="unsafe-url"]
+douglas.*##.cms-container:has([data-testid="CriteoAdFormatCategoryView"])
+douglas.*##.criteo-product-carousel
+douglas.*##.product-grid-column:has([data-testid="sponsored-button"])
+douglas.*##.swiper-slide:has(button[data-testid="sponsored-button"])
+douglas.*##[data-testid="product-overview-content-slot"]:has(.criteo-teaser-gold__sponsored)
+douglas.*##div.product-grid-column:has(button[data-testid="sponsored-button"])
+flashscore.*,livescore.*,soccer24.com###box-over-content-a
+flashscore.*,livescore.*,soccer24.com##.zone
+hookerhillstudios.com##div.items-center:has(> #articlead)
+laredoute.*###hp-sponsored-banner
+lazada.*##.pdp-block__product-ads
+manomano.*##a[href^="/"][href*="?product_id="][title]:has(span > .svg_tamagoshi)
+manomano.*##div[data-testid="sprbrd-banner"]
+pinterest.*##div[data-grid-item]:has([data-test-pin-id] [data-test-id^="one-tap-desktop"] > a[href^="http"][rel="nofollow"]):not(body > div)
+pv-magazine.*,pv-magazine-usa.com,pv-magazine-australia.com###home-top-rectangle-wrap-1
+pv-magazine.*,pv-magazine-usa.com,pv-magazine-australia.com###home-top-rectangle-wrap-2
+pv-magazine.*,pv-magazine-usa.com,pv-magazine-australia.com###home-top-rectangle-wrap-3
+tripadvisor.*##.rSJod
+tripadvisor.*##.txxUo
+tripadvisor.*##div[class="ui_container dSjaD _S"]
+walmart.*##[data-automation="flipkartDisplayAds"]
+walmart.*##[data-testid="carousel-ad"]
+walmart.*##a[href*=".criteo.com/"]
+walmart.*##div[class="mv3 ml3 mv4-xl mh0-xl"][data-testid="sp-item"]
+walmart.*##div[data-automation^="HookLogicCarouses"]
+wayfair.*##.CompareSimilarItemsCarousel-item:has(a[href*="&sponsoredid="])
+wayfair.*##.MediaNativePlacement-wrapper-link
+wayfair.*##[data-hb-id="Card"]:has([data-node-id^="ListingCardSponsored"])
+wayfair.*##a[data-enzyme-id="WssBannerContainer"]
+wayfair.*##div[data-enzyme-id="WssBannerContainer"]
+wayfair.*##div[data-hb-id="Grid.Item"]:has(a[href*="&sponsoredid="])
+wayfair.*##div[data-node-id^="SponsoredListingCollectionItem"]
+yandex.*##._view_advertisement
+yandex.*##.business-card-title-view__advert
+yandex.*##.mini-suggest__item[data-suggest-counter*="/yandex.ru/clck/safeclick/"]
+yandex.*##.ProductGallery
+yandex.*##.Scroller:has(a[href^="https://yabs.yandex.ru/count/"])
+yandex.*##.search-advert-badge
+yandex.*##.search-business-snippet-view__direct
+yandex.*##.search-list-view__advert-offer-banner
+yandex.*##a[href^="https://yabs.yandex.ru/count/"]
+yandex.*##a[href^="https://yandex.ru/an/count/"]
+yandex.*##li[class*="_card"]:has(a[href^="https://yabs.yandex.ru/count/"])
+yandex.*##li[class*="_card"]:has(a[href^="https://yandex.com/search/_crpd/"])
+windowscentral.com###article-body > .hawk-nest[data-widget-id]:has(a[class^="hawk-affiliate-link-"][class$="-button"])
+cars.com###branded-canvas-click-wrapper:has(> #native-ad-html)
+radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se###headerTopBar ~ div > div:has(div#RAD_D_station_top)
+gtaforums.com###ipsLayout_mainArea div:has(> #pwDeskLbAtf)
+klz9.com###list-imga center:has(> a[id^="adLink"])
+klz9.com###list-imga center:has(a[href^="https://olimposcans.com/"])
+aleteia.org###root > div[class]:has(> .adslot)
+scribd.com###sidebar > div:has(> div > [data-e2e^="dismissible-ad-header"])
+bbc.com###sticky-mpu:has(.dotcom-ad-inner)
+kroger.com##.AutoGrid-cell:has(.ProductCard-tags > div > span[data-qa="featured-product-tag"])
+nationalgeographic.com##.FrameBackgroundFull--grey:has(.ad-wrapper)
+sbs.com.au##.MuiBox-root:has(> .desktop-ads)
+luxa.org##.MuiContainer-root:has(> ins.adsbygoogle)
+ulta.com##.ProductListingResults__productCard:has(.ProductCard__sponsoredText > p.Text-ds)
+manomano.co.uk,manomano.de,manomano.es,manomano.fr,manomano.it##.Ssfiu-:has([data-testid="popoverTriggersponsoredLabel"])
+outlook.live.com##.VdboX[tabindex="0"]:has(img[src="https://res.cdn.office.net/assets/ads/adbarmetrochoice.svg"])
+momondo.com##.YnaR:has([class$="ProviderAdBanner"])
+facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##._6y8t:has(a[href="/ads/about/?entry_product=ad_preferences"])
+haveibeenpwned.com##.actionsBar:has(.why1Password)
+barandbench.com##.ad-wrapper-module__adContainer__iD4aI
+slickdeals.net##.announcementBar:has(.sponsorContent)
+thedailywtf.com##.article-body > div:has-text([Advertisement])
+nation.africa##.article-collection-teaser:has(.sponsored-label)
+thesun.co.uk##.article-sidebar .widget-sticky:has([class*="ad_widget"])
+historic-uk.com##.article-sidebar:has-text(Advertisement)
+forexlive.com##.article-slot__wrapper:has(.article-header__sponsored)
+time.com##.article-small-sidebar > .sticky-container:has(div[id^="ad-"])
+hackernoon.com##.articles-wrapper > div:not([class]):has(a[href^="https://ad.doubleclick.net/"])
+blitz.gg##.aside-content-column:has(.display-ad)
+beaumontenterprise.com,chron.com,ctinsider.com,ctpost.com,expressnews.com,greenwichtime.com,houstonchronicle.com,lmtonline.com,manisteenews.com,michigansthumb.com,middletownpress.com,mrt.com,myjournalcourier.com,myplainview.com,mysanantonio.com,newstimes.com,nhregister.com,ourmidland.com,registercitizen.com,sfchronicle.com,stamfordadvocate.com,thehour.com,theintelligencer.com##.b-gray300:has-text(Advertisement)
+olympics.com##.b2p-list__item:has(> .adv-fluid)
+beincrypto.com##.before-author-block-bio:has-text(Sponsored)
+outsports.com##.bg-gray-100:has(.adb-os-lb-incontent)
+dropstab.com##.bg-slate-100:has-text(Ad)
+atlanticsuperstore.ca,fortinos.ca,maxi.ca,newfoundlandgrocerystores.ca,nofrills.ca,provigo.ca,realcanadiansuperstore.ca,valumart.ca,yourindependentgrocer.ca,zehrs.ca##.block-wrapper:has(.element-header__sponsoredLabel)
+loblaws.ca##.block-wrapper:has([data-track-product-component="carousel||rmp_sponsored"])
+haveibeenpwned.com##.bodyGradient > :has(.why1Password)
+coincarp.com##.border-bottom:has-text(Sponsored)
+thenewdaily.com.au##.border-grey-300:has(> [data-ad-id])
+dropstab.com##.bottom-0.gap-2:has-text(/Stake Now|Invest Now/)
+chosun.com##.box--bg-grey-20:has(.dfpAd)
+radioreference.com##.box.gradient:has(a[href*="&Click="])
+gpro.net##.boxy:has(#blockblockA)
+slickdeals.net##.bp-p-filterGrid_item:has(.bp-c-label--promoted)
+homedepot.com##.browse-search__pod:has([id^="plp_pod_sponsored"])
+bws.com.au##.card-list-item:has(.productTile.is-Sponsored)
+truecar.com##.card:has([href*="marketplace&sponsored"])
+doordash.com##.carousel-virtual-wrapper:has([href*="collection_type=sponsored_brand"])
+doordash.com##.ccdtLs:has([data-testid="sponsored:Sponsored"])
+dexscreener.com##.chakra-link:has-text(Advertise)
+asda.com##.cms-modules:has([data-module*="Sponsored Products"])
+asda.com##.co-item:has(.co-item__sponsored-label)
+theautopian.com##.code-block:has(.htlad-InContent)
+templateshub.net##.col-lg-4.col-md-6:has(> div.singel-course)
+appleinsider.com##.col-sm-12 > :has([id^="div-gpt-ad-"])
+autotrader.com##.col-xs-12.col-sm-4:has([data-cmp="inventorySpotlightListing"])
+costco.com##.col-xs-12:has([data-bi-placement^="Criteo_Product_Display"])
+infinitestart.com##.cs-sidebar__inner > .widget:has(> ins.adsbygoogle)
+wsj.com##.css-c54t2t:has(> .adWrapper)
+wsj.com##.css-c54t2t:has(> .adWrapper) + hr
+alphacoders.com##.css-grid-content:has(> .in-thumb-ad-css-grid)
+androidauthority.com##.d_3i:has-text(Latest deals)
+dollargeneral.com##.dg-product-card:has(.dg-product-card__sponsored[style="display: block;"])
+limetorrents.lol##.downloadareabig:has([title^="Anâ€Œonâ€Œymous Download"])
+tripsonabbeyroad.com##.e-con-inner:has(tp-cascoon)
+bitcoinsensus.com##.e-con-inner:has-text(Our Favourite Trading Platforms)
+protrumpnews.com##.enhanced-text-widget:has(span.pre-announcement)
+upfivedown.com##.entry > hr.wp-block-separator:has(+ .has-text-align-center)
+morrisons.com##.featured-items:has(.js-productCarouselFops)
+morrisons.com##.fops-item:has([title="Advertisement"])
+wings.io##.form-group center:has-text(Advertisement)
+pigglywigglystores.com##.fp-item:has(.fp-tag-ad)
+slickdeals.net##.frontpageGrid__feedItem:has(.dealCardBadge--promoted)
+tumblr.com##.ge_yK:has(.hM19_)
+bestbuy.com##.generic-morpher:has(.spns-label)
+fortune.com##.homepage:has(> div[id^="InStream"])
+manomano.co.uk,manomano.de,manomano.es,manomano.fr,manomano.it##.hrHZYT:has([data-testid="popoverTriggersponsoredLabel"])
+dollargeneral.com##.image__desktop-container:has([data-track-image*="|P&G|Gain|"])
+vpforums.org##.ipsSideBlock.clearfix:has-text(Affiliates)
+1tamilmv.tax##.ipsWidget:has([href*="RajbetImage"])
+qwant.com##.is-sidebar:has(a[data-testid="advertiserAdsLink"])
+stocktwits.com##.is-visible:has-text(Remove ads)
+thingiverse.com##.item-card-container:has-text(Advertisement)
+yovizag.com##.jeg_column:has(> .jeg_wrapper > .jeg_ad)
+motortrend.com##.justify-center:has(.nativo-news)
+chewy.com##.kib-carousel-item:has(.kib-product-sponsor)
+content.dictionary.com##.lp-code:has(> [class$="Ad"])
+euronews.com##.m-object:has(.m-object__spons-quote)
+acmemarkets.com,andronicos.com,carrsqc.com,haggen.com,jewelosco.com,kingsfoodmarkets.com,pavilions.com,shaws.com,starmarket.com,tomthumb.com,vons.com##.master-product-carousel:has([data-carousel-api*="search/sponsored-carousel"])
+acmemarkets.com,albertsons.com,andronicos.com,carrsqc.com,haggen.com,jewelosco.com,kingsfoodmarkets.com,pavilions.com,randalls.com,safeway.com,shaws.com,starmarket.com,tomthumb.com,vons.com##.master-product-carousel:has([data-carousel-driven="sponsored-products"])
+motortrend.com##.mb-6:has([data-ad="true"])
+beaumontenterprise.com,chron.com,ctinsider.com,ctpost.com,expressnews.com,greenwichtime.com,houstonchronicle.com,lmtonline.com,manisteenews.com,michigansthumb.com,middletownpress.com,mrt.com,myjournalcourier.com,myplainview.com,mysanantonio.com,newstimes.com,nhregister.com,ourmidland.com,registercitizen.com,sfchronicle.com,sfgate.com,stamfordadvocate.com,thehour.com,theintelligencer.com##.mb32:has-text(Advertisement)
+outsports.com##.min-h-\[100px\]:has(.adb-os-inarticle-block)
+outsports.com##.min-h-\[100px\]:has(.adb-os-lb-incontent)
+boots.com##.oct-listers-hits__item:has(.oct-teaser__listerCriteoAds)
+officedepot.com##.od-col:has(.od-product-card-region-colors-sponsored)
+pollunit.com##.owl-carousel:has(.carousel-ad)
+hivetoon.com##.p-4:has(> [href^="https://www.polybuzz.ai/"])
+andronicos.com,haggen.com,randalls.com##.pc-grid-prdItem:has(span[data-qa="prd-itm-spnsrd"])
+sainsburys.co.uk##.pd-merchandising-product:has(.product-header--citrus[data-testid="product-header"])
+hannaford.com##.plp_thumb_wrap:has([data-citrusadimpressionid])
+niagarathisweek.com##.polarBlock:has(.polarAds)
+404media.co##.post__content > p:has(a[href^="https://srv.buysellads.com/"])
+404media.co##.post__content > p:has-text(This segment is a paid ad)
+myntra.com##.product-base:has(.product-waterMark)
+woolworths.com.au##.product-grid-v2--tile:has(.sponsored-text)
+meijer.com##.product-grid__product:has(.product-tile__sponsored)
+chaussures.fr,eapavi.lv,ecipele.hr,ecipo.hu,eobuv.cz,eobuv.sk,eobuwie.com.pl,epantofi.ro,epapoutsia.gr,escarpe.it,eschuhe.at,eschuhe.ch,eschuhe.de,eskor.se,evzuttya.com.ua,obuvki.bg,zapatos.es##.product-item:has(.sponsored-label)
+maxi.ca##.product-tile-group__list__item:has([data-track-products-array*="sponsored"])
+pbs.org##.production-and-funding:has(.sponsor-info-link)
+sainsburys.co.uk##.pt-grid-item:has(.product-header--citrus[data-testid="product-header"])
+sainsburys.co.uk##.pt__swiper--grid-item:has(.product-header--citrus[data-testid="product-header"])
+quora.com##.q-sticky[style*="box-sizing: border-box; position: sticky;"]:has-text(Advertisement)
+ksl.com##.queue:has(.sponsored)
+olx.com.pk##.react-swipeable-view-container:has([href*="http://onelink.to"])
+downforeveryoneorjustme.com##.relative.bg-white:has-text(PolyBuzz)
+laravel-news.com##.relative:has([wire\:key="article-ad-card"])
+builtbybit.com##.resourceSidebar-belowContent > div > .block:has(.block-container a[href="https://tebex.io/"])
+metager.org##.result:has(a[href^="https://metager.org"][href*="/partner/r?"])
+metager.org##.result:has(a[href^="https://r.search.yahoo.com/"])
+qwant.com##.result__ext > div:has([data-testid="adResult"])
+petco.com##.rmn-container:has([class*="SponsoredText"])
+sfchronicle.com##.scrl-block > .scrl-block-inner:has(.ad-module--ad--16cf1)
+yandex.com##.search-list-view__advert-offer-banner
+playpilot.com##.search-preview .side:has(> .provider)
+tempest.com##.search-result-item:has(.search-result-item__title--ad)
+yandex.com##.search-snippet-view:has(span.search-advert-badge__advert)
+shipt.com##.searchPageStaticBanner:has([href*="/shop/featured-promotions"])
+troyhunt.com##.sidebar-featured:has(a[href^="https://pluralsight.pxf.io/"])
+insidehpc.com##.sidebar-sponsored-content
+bitcointalk.org##.signature:has(a[href]:not([href*="bitcointalk.org"]))
+bing.com##.slide:has(.rtb_ad_caritem_mvtr)
+fastcompany.com##.sticky:has(.ad-container)
+rustlabs.com##.sub-info-block:has(#banner)
+scamwarners.com##.subheader:has(> ins.adsbygoogle)
+thesun.co.uk##.sun-grid-container:has([class*="ad_widget"])
+independent.co.uk,standard.co.uk,the-independent.com##.teads:has(.third-party-ad)
+nex-software.com##.toolinfo:has(a[href$="/reimage"])
+canberratimes.com.au##.top-20
+twitter.com,x.com##.tweet:has(.promo)
+wowcher.co.uk##.two-by-two-deal:has(a[href*="src=sponsored_search_"])
+news.sky.com##.ui-box:has(.ui-advert)
+forums.socialmediagirls.com##.uix_nodeList > div[class="block"]:has([href^="/link-forums/"])
+darkreader.org##.up:has(.ddg-logo-link)
+darkreader.org##.up:has(.h-logo-link)
+duckduckgo.com##.vertical-section-divider:has(span.badge--ad-wrap)
+noon.com##.visibilitySensorWrapper:has(.adBannerModule)
+neonheightsservers.com##.well:has(ins.adsbygoogle)
+9to5linux.com##.widget:has([href$=".php"])
+evreporter.com##.widget_media_image:not(:has(a[href^="https://evreporter.com/"]))
+cnx-software.com##.widget_text.widget:has([href*="?utm"])
+themarysue.com##.wp-block-gamurs-article-group__sidebar__wrapper:has-text(related content)
+dotesports.com##.wp-block-gamurs-article-tile:has-text(Sponsored)
+bestbuy.ca##.x-productListItem:has([data-automation="sponsoredProductLabel"])
+mapquest.co.uk##.z-10.justify-center:has-text(Advertisement)
+momondo.com##.zZcm:has([class$="-ad-wrapper"])
+momondo.com##[class$="-result-item-container"]:has([aria-label="Ad disclaimer"])
+freshdirect.com##[class*="ProductsGrid_grid_item"]:has([data-testid="marketing tag"])
+livejournal.com##[class*="categories"] + div[class]:has(> [class*="-commercial"])
+momondo.com##[class*="mod-pres-default"]:has(div[class*="ad-badge"])
+petco.com##[class*="rmn-banner"]:has([class*="SponsoredText"])
+popularmechanics.com##[class] > :has(> #article-marketplace-horizontal)
+popularmechanics.com##[class] > :has(> #gpt-ad-vertical-bottom)
+independent.co.uk,standard.co.uk,the-independent.com##[class] > :has(> [data-mpu])
+brisbanetimes.com.au,smh.com.au,theage.com.au,watoday.com.au##[class] > [class]:has(> [data-testid="ad"])
+avclub.com,jalopnik.com,kotaku.com,theonion.com,theroot.com##[class] > div:has(> [is="bulbs-dfp"])
+fortune.com##[class]:has(> #Leaderboard0)
+jalopnik.com,kotaku.com,theroot.com##[class]:has(> .related-stories-inset-video)
+polygon.com,vox.com##[class]:has(> [data-concert])
+standard.co.uk##[class]:has(> [data-fluid-zoneid])
+independent.co.uk,standard.co.uk,the-independent.com##[class]:has(> [data-mpu])
+nytimes.com##[class]:has(> [id="ad-top"])
+thrillist.com##[class^="Container__GridRow-sc-"]:has(> .concert-ad)
+petco.com##[class^="citrus-carousel-"]:has([class^="carousel__Sponsored"])
+svgrepo.com##[class^="style_native"]:has([href*="buysellads.com"])
+tesco.com##[class^="styled__StyledLIProductItem"]:has([class^="styled__StyledOffers"])
+userstyles.org##[class^="styles-grid_gridItems_"] > .hideInMobile:has(> [class^="GoogleAd_"])
+argos.co.uk##[class^="styles__LazyHydrateCard"]:has([class*="ProductCardstyles__FlyoutBadge"])
+argos.co.uk##[class^="styles__LazyHydrateCard-sc"]:has([class*="SponsoredBadge"])
+outlook.live.com##[data-app-section="MessageList"] div[style^="position: absolute; left: 0px; top: 0px"]:has(.ms-Shimmer-container)
+cargurus.com##[data-cg-ft="car-blade"]:has([data-eyebrow^="FEATURED"])
+cargurus.com##[data-cg-ft="car-blade-link"]:has([data-cg-ft="srp-listing-blade-sponsored"])
+avxhm.se##[data-localize]:has(a[href^="https://canv.ai/"])
+giantfood.com,giantfoodstores.com,martinsfoods.com##[data-product-id]:has(.flag_label--sponsored)
+petco.com##[data-testid="product-buy-box"]:has([class*="SponsoredText"])
+kayak.com##[role="button"]:has([class*="ad-marking"])
+kayak.com##[role="tab"]:has([class*="sponsored"])
+crackwatcher.com##[style="background:none !important;"]:has([href^="https://www.kinguin.net"])
+aliexpress.com,aliexpress.us##a[class^="manhattan--container--"][class*="main--card--"]:has(span[style="background-color:rgba(0,0,0,0.20);position:absolute;top:8px;color:#fff;padding:2px 5px;background:rgba(0,0,0,0.20);border-radius:4px;right:8px"])
+aliexpress.com,aliexpress.us##a[class^="manhattan--container--"][class*="main--card--"]:has(span[style="background: rgba(0, 0, 0, 0.2); position: absolute; top: 8px; color: rgb(255, 255, 255); padding: 2px 5px; border-radius: 4px; right: 8px;"])
+yandex.com##a[href^="https://yandex.ru/an/count/"]
+digg.com##article.fp-vertical-story:has(a[href="/channel/digg-pick"])
+digg.com##article.fp-vertical-story:has(a[href="/channel/promotion"])
+9gag.com##article:has(.promoted)
+mg.co.za##article:has(.sponsored-single)
+tympanus.net##article:has(header:has(.ct-sponsored))
+foxnews.com##article[class|="article story"]:has(.sponsored-by)
+cruisecritic.co.uk##article[data-sentry-component="ContentCard"]:has(a[href^="/sponsored-content/"])
+kijijiautos.ca##article[data-testid="SearchResultListItem"]:has(span[data-testid="PromotionLabel"])
+twitter.com,x.com##article[data-testid="tweet"]:has(path[d$="10H8.996V8h7v7z"])
+thetimes.com##article[id="article-main"] > div:has(#ad-header)
+psychcentral.com##aside:has([data-empty])
+vidplay.lol##body > div > div[class][style]:has(> div > div > a[target="_blank"])
+wolt.com##button:has(> div > div > div > span:has-text(Sponsored))
+countdown.co.nz##cdx-card:has(product-badge-list)
+creepypasta.com##center:has(+ #ad-container-1)
+hashrate.no##center:has(.sevioads)
+manomano.co.uk,manomano.de,manomano.es,manomano.fr,manomano.it##div > div:has([data-testid="banner-spr-label"])
+inverse.com##div > p + div:has(amp-ad)
+outlook.live.com##div.customScrollBar > div > div[id][class]:has(img[src$="/images/ads-olk-icon.png"])
+flightradar24.com##div.items-center.justify-center:has(> div#pb-slot-fr24-airplane:empty)
+appleinsider.com##div.main-art:has-text(Sponsored Content)
+costco.ca##div.product:has(.criteo-sponsored)
+thebay.com##div.product:has(div.citrus-sponsored)
+meijer.com##div.slick-slide:has(.product-tile__sponsored)
+healthyrex.com##div.textwidget:has(a[rel="nofollow sponsored"])
+bestbuy.ca##div.x-productListItem:has([class^="sponsoredProduct"])
+timesnownews.com,zoomtventertainment.com##div:has(> .bggrayAd)
+newsfirst.lk##div:has(> [class*="hide_ad"])
+fandomwire.com##div:has(> [data-openweb-ad])
+doordash.com##div:has(> a[data-anchor-id="SponsoredStoreCard"])
+wolt.com##div:has(> div > div > div > div > div > p:has-text(Sponsored))
+outlook.live.com##div:has(> div > div.fbAdLink)
+heb.com##div:has(> div[id^="hrm-banner-shotgun"])
+webtools.fineaty.com##div[class*=" hidden-"]:has(.adsbygoogle)
+shoprite.com##div[class*="Row--"]:has(img[src*="/PROMOTED-TAG_"])
+aliexpress.com,aliexpress.us##div[class*="search-item-card-wrapper-"]:has(span[class^="multi--ad-"])
+qwant.com##div[class="_2NDle"]:has(div[data-testid="advertiserAdsDisplayUrl"])
+radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se##div[class] > div[class]:has(> div[class] > div[id^="RAD_D_"])
+androidauthority.com##div[class]:has(> .pw-incontent)
+androidauthority.com##div[class]:has(> [data-ad-type="leaderboard_atf"])
+scribd.com##div[class]:has(> [data-e2e="dismissible-ad-header-scribd_adhesion"])
+dearbornmarket.com,fairwaymarket.com,gourmetgarage.com,priceritemarketplace.com,shoprite.com,thefreshgrocer.com##div[class^="ColListing"]:has(div[data-testid^="Sponsored"])
+wish.com##div[class^="ProductGrid__FeedTileWidthWrapper-"]:has(div[class^="DesignSpec__TextSpecWrapper-"][color="#6B828F"]:not([data-testid]))
+wish.com##div[class^="ProductTray__ProductStripItem-"]:has(div[class^="DesignSpec__TextSpecWrapper-"][color="#6B828F"][data-testid] + div[class^="DesignSpec__TextSpecWrapper-"][color="#6B828F"])
+virginradio.co.uk##div[class^="css-"]:has(> .ad-outline)
+flickr.com##div[class^="main view"]:has(a[href$="&ref=sponsored"])
+cargurus.com##div[data-cg-ft="car-blade"]:has(div[data-cg-ft="sponsored-listing-badge"])
+abcnews.go.com##div[data-container="band"]:has(> div > div[data-box-type="fitt-adbox-thinbannerhome"])
+rakuten.com##div[data-productid]:has(div.productList_sponsoredAds_RUS)
+cruisecritic.co.uk##div[data-sentry-component="CruiseCard"]:has(a[rel="sponsored"])
+priceline.com##div[data-testid="HTL_NEW_LISTING_CARD_RESP"]:has(a[aria-label*=" Promoted"])
+twitter.com,x.com##div[data-testid="UserCell"]:has(path[d$="10H8.996V8h7v7z"])
+twitter.com,x.com##div[data-testid="eventHero"]:has(path[d$="10H8.996V8h7v7z"])
+twitter.com,x.com##div[data-testid="placementTracking"]:has(div[data-testid$="-impression-pixel"])
+booking.com##div[data-testid="property-card"]:has(div[data-testid="new-ad-design-badge"])
+twitter.com,x.com##div[data-testid="trend"]:has(path[d$="10H8.996V8h7v7z"])
+puzzle-aquarium.com,puzzle-battleships.com,puzzle-binairo.com,puzzle-bridges.com,puzzle-chess.com,puzzle-dominosa.com,puzzle-futoshiki.com,puzzle-galaxies.com,puzzle-heyawake.com,puzzle-hitori.com,puzzle-jigsaw-sudoku.com,puzzle-kakurasu.com,puzzle-kakuro.com,puzzle-killer-sudoku.com,puzzle-light-up.com,puzzle-lits.com,puzzle-loop.com,puzzle-masyu.com,puzzle-minesweeper.com,puzzle-nonograms.com,puzzle-norinori.com,puzzle-nurikabe.com,puzzle-pipes.com,puzzle-shakashaka.com,puzzle-shikaku.com,puzzle-shingoki.com,puzzle-skyscrapers.com,puzzle-slant.com,puzzle-star-battle.com,puzzle-stitches.com,puzzle-sudoku.com,puzzle-tapa.com,puzzle-tents.com,puzzle-thermometers.com,puzzle-words.com##div[id]:has(> #bannerSide)
+puzzle-aquarium.com,puzzle-battleships.com,puzzle-binairo.com,puzzle-bridges.com,puzzle-chess.com,puzzle-dominosa.com,puzzle-futoshiki.com,puzzle-galaxies.com,puzzle-heyawake.com,puzzle-hitori.com,puzzle-jigsaw-sudoku.com,puzzle-kakurasu.com,puzzle-kakuro.com,puzzle-killer-sudoku.com,puzzle-light-up.com,puzzle-lits.com,puzzle-loop.com,puzzle-masyu.com,puzzle-minesweeper.com,puzzle-nonograms.com,puzzle-norinori.com,puzzle-nurikabe.com,puzzle-pipes.com,puzzle-shakashaka.com,puzzle-shikaku.com,puzzle-shingoki.com,puzzle-skyscrapers.com,puzzle-slant.com,puzzle-star-battle.com,puzzle-stitches.com,puzzle-sudoku.com,puzzle-tapa.com,puzzle-tents.com,puzzle-thermometers.com,puzzle-words.com##div[id]:has(> #bannerTop)
+truthsocial.com##div[item="[object Object]"]:has(path[d="M17 7l-10 10"])
+truthsocial.com##div[item="[object Object]"]:has(path[d="M9.83333 1.83398H16.5M16.5 1.83398V8.50065M16.5 1.83398L9.83333 8.50065L6.5 5.16732L1.5 10.1673"])
+facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##div[style="max-width: 390px; min-width: 190px;"]:has(a[href^="/ads/"])
+thisday.app##div[style="min-height: 340px;"]:has(div.ad)
+nicelocal.com##div[style="min-height: 600px;"]:has(iframe[id^="google_ads_"])
+nicelocal.com##div[style="min-height: 90px;"]:has(iframe[id^="google_ads_"])
+tartaria-faucet.net##div[style^="display"]:has([src^="https://multiwall-ads.shop/"])
+douglas.*##.product-grid-column:has(.product-tile__sponsored)
+90min.com##figure:has(> div > #mm-player-placeholder-large-screen)
+gamereactor.*###videoContainer:has(> [id^="videoContent-videoad-"])
+nex-software.com##h4:has(a[href$="/reimage"])
+walgreens.com##li.owned-brands:has(figure.sponsored)
+macys.com##li.productThumbnailItem:has(.sponsored-items-label)
+kohls.com##li.products_grid:has(p.piq-sponsored)
+streeteasy.com##li.searchCardList--listItem:has(.jsSponsoredListingCard)
+autotrader.co.uk##li:has(section[data-testid="trader-seller-listing"] > span[data-testid="FEATURED_LISTING"])
+autotrader.co.uk##li:has(section[data-testid="trader-seller-listing"] > span[data-testid="PROMOTED_LISTING"])
+bbc.com##li[class*="-ListItem"]:has(div.dotcom-ad)
+yandex.com##li[class*="_card"]:has(a[href^="https://yabs.yandex.ru/count/"])
+yandex.com##li[class*="_card"]:has(a[href^="https://yandex.com/search/_crpd/"])
+yahoo.com##li[class="first"]:has([data-ylk*="affiliate_link"])
+zillow.com##li[class^="ListItem-"]:has(#nav-ad-container)
+dictionary.com,thesaurus.com##main div[class]:has(> [data-type="ad-vertical"])
+globalchinaev.com##p.content-center:has-text(ADVERTISEMENT)
+sciencenews.org##p:has-text(Sponsor Message)
+provigo.ca#?#.css-1nhzth8:-abp-contains(/sponsorisé|sponsored/)
+rome2rio.com#?#div[aria-labelledby="schedules-header"] > div > div:-abp-contains(Ad)
+windowsreport.com##section.hide-mbl:has(a[href^="https://out.reflectormedia.com/"])
+hwbusters.com##section.widget:has(> div[data-hwbus-trackbid])
+thehansindia.com##section:has(> .to-be-async-loaded-ad)
+thehansindia.com##section:has(> [class*="level_ad"])
+homedepot.com##section[id^="browse-search-pods-"] > div.browse-search__pod:has(div.product-sponsored)
+fxempire.com##span[display="inline-block"]:has-text(Advertisement)
+mirrored.to##tbody > tr:has(> td[data-label="Host"] > img[src="https://www.mirrored.to/templates/mirrored/images/hosts/FilesDL.png"])
+titantv.com##tr:has(> td[align="center"][valign="middle"][colspan="2"][class="gC"])
+opensubtitles.org##tr[style]:has([src*="php"])
+tripadvisor.*##div:has(> div > div[class="ui_column ovNFo is-3"])
+tripadvisor.*##div:has(> div[class="ui_columns is-multiline "])
+tripadvisor.*##section[data-automation$="_AdPlaceholder"]:has(.txxUo)
+tripadvisor.*#?#[data-automation="crossSellShelf"] div:has(> span:-abp-contains(Sponsored))
+tripadvisor.*#?#[data-automation="relatedStories"] div > div:has(a:-abp-contains(SPONSORED))
+oneindia.com##ul > li:has(> div[class^="adg_"])
+bleepingcomputer.com##ul#bc-home-news-main-wrap > li:has-text(Sponsored)
+walmart.*##div[class="mb1 ph1 pa0-xl bb b--near-white w-25"]:has(div[data-ad-component-type="wpa-tile"])
+walmart.*##li.items-center:has(div[data-ad-component-type="wpa-tile"])
+modrinth.com##.normal-page__content [href*="bisecthosting.com/"] > img
+modrinth.com##.normal-page__content [href^="http://bloom.amymialee.xyz"] > img
+modrinth.com##.normal-page__content [href^="https://billing.apexminecrafthosting.com/"] > img
+modrinth.com##.normal-page__content [href^="https://billing.bloom.host/"] > img
+modrinth.com##.normal-page__content [href^="https://billing.ember.host/"] > img
+modrinth.com##.normal-page__content [href^="https://billing.kinetichosting.net/"] > img
+modrinth.com##.normal-page__content [href^="https://mcph.info/"] > img
+modrinth.com##.normal-page__content [href^="https://meloncube.net/"] > img
+modrinth.com##.normal-page__content [href^="https://minefort.com/"] > img
+modrinth.com##.normal-page__content [href^="https://nodecraft.com/"] > img
+modrinth.com##.normal-page__content [href^="https://scalacube.com/"] > img
+modrinth.com##.normal-page__content [href^="https://shockbyte.com/"][href*="/partner/"] > img
+modrinth.com##.normal-page__content [href^="https://www.akliz.net/"] > img
+modrinth.com##.normal-page__content [href^="https://www.ocean-hosting.top/"] > img
+curseforge.com##.project-description [href^="/linkout?remoteUrl="][href*="billing.apexminecrafthosting.com"] > img
+curseforge.com##.project-description [href^="/linkout?remoteUrl="][href*="billing.bloom.host"] > img
+curseforge.com##.project-description [href^="/linkout?remoteUrl="][href*="billing.ember.host"] > img
+curseforge.com##.project-description [href^="/linkout?remoteUrl="][href*="billing.kinetichosting.net"] > img
+curseforge.com##.project-description [href^="/linkout?remoteUrl="][href*="bisecthosting.com"] > img
+curseforge.com##.project-description [href^="/linkout?remoteUrl="][href*="mcph.info"] > img
+curseforge.com##.project-description [href^="/linkout?remoteUrl="][href*="meloncube.net"] > img
+curseforge.com##.project-description [href^="/linkout?remoteUrl="][href*="minefort.com"] > img
+curseforge.com##.project-description [href^="/linkout?remoteUrl="][href*="nodecraft.com"] > img
+curseforge.com##.project-description [href^="/linkout?remoteUrl="][href*="scalacube.com"] > img
+curseforge.com##.project-description [href^="/linkout?remoteUrl="][href*="shockbyte.com"] > img
+curseforge.com##.project-description [href^="/linkout?remoteUrl="][href*="www.ocean-hosting.top"] > img
+nme.com###taboola-below-article
+oneindia.com###taboola-mid-article-thumbnails
+the-independent.com###taboola-mid-article-thumbnails-ii
+independent.co.uk,the-independent.com###taboola-mid-article-thumbnails-iii
+lifeandstylemag.com###taboola-right-rail-thumbnails
+nbsnews.com##.TaboolaFeed
+ndtv.com##.TpGnAd_ad-cn
+hindustantimes.com##.ht_taboola
+financialexpress.com##.ie-network-taboola
+indianexpress.com##.o-taboola-story
+6abc.com,abcnews.go.com##.taboola
+kotaku.com,theonion.com,theroot.com##.taboola-container
+firstpost.com##.taboola-div
+ndtv.com##[class^="ads_"]
+ndtv.com##div:has(> [id^="adslot"])
+weather.com##div[id*="Taboola-sidebar"]
+weather.com##div[id^="Taboola-main-"]
+drivespark.com,express.co.uk,goodreturns.in##div[id^="taboola-"]
+mail.aol.com##li:has(a[data-test-id="pencil-ad-messageList"])
+linkvertise.com##lv-taboola-ctr-ad-dummy
+filmibeat.com,gizbot.com,oneindia.com##ul > li:has(> div[id^="taboola-mid-home-stream"])
+ndtv.com,ndtv.in##[class^="firework"]
+ndtv.com,ndtv.in##[id^="firework"]
+a-ads.com,ad-maven.com,adcash.com,admitad.com,adskeeper.co.uk,adskeeper.com,adspyglass.com,adstracker.info,adsupply.com,adsupplyads.com,adsupplyads.net,chpadblock.com,exoclick.com,hilltopads.com,join-admaven.com,joinpropeller.com,juicyads.com,luckyads.pro,monetag.com,myadcash.com,popads.net,propellerads.com,purpleads.io,trafficshop.com,yavli.com##HTML
+##.ad-fallback
+##.ad.reform-top
+##.reform-top-container
+amazon.*###nav-swmslot
+amazon.*###sc-rec-bottom
+amazon.*###sc-rec-right
+amazon.*###similarities_feature_div:has(span.sponsored_label_tap_space)
+amazon.*###sponsoredProducts2_feature_div
+amazon.*###sponsoredProducts_feature_div
+amazon.*###typ-recommendations-stripe-1
+amazon.*###typ-recommendations-stripe-2
+amazon.*##.amzn-safe-frame-container
+amazon.*##.dp-widget-card-deck:has([data-ad-placement-metadata])
+amazon.*##.s-result-item:has([data-ad-feedback])
+amazon.*##.s-result-item:has(div.puis-sponsored-label-text)
+amazon.*##.s-result-list > .a-section:has(.sbv-ad-content-container)
+amazon.*##.sbv-video-single-product
+amazon.*##[cel_widget_id*="-creative-desktop_loom-desktop-"]
+amazon.*##div.s-inner-result-item > div.sg-col-inner:has(a.puis-sponsored-label-text)
+amazon.*##div[cel_widget_id*="_ad-placements-"]
+amazon.*##div[cel_widget_id*="Deals3Ads"]
+amazon.*##div[cel_widget_id*="desktop-dp-"]
+amazon.*##div[cel_widget_id="sp-orderdetails-desktop-carousel_desktop-yo-orderdetails_0"]
+amazon.*##div[cel_widget_id="sp-orderdetails-mobile-list_mobile-yo-orderdetails_0"]
+amazon.*##div[cel_widget_id="sp-pop-mobile-carousel_mobile-yo-postdelivery_0"]
+amazon.*##div[cel_widget_id="sp-rhf-desktop-carousel_desktop-rhf_0"]
+amazon.*##div[cel_widget_id="sp-shiptrack-desktop-carousel_desktop-yo-shiptrack_0"]
+amazon.*##div[cel_widget_id="sp-shiptrack-mobile-list_mobile-yo-shiptrack_0"]
+amazon.*##div[cel_widget_id="sp-typ-mobile-carousel_mobile-typ-carousels_2"]
+amazon.*##div[cel_widget_id="sp_phone_detail_thematic"]
+amazon.*##div[cel_widget_id="typ-ads"]
+amazon.*##div[cel_widget_id^="adplacements:"]
+amazon.*##div[cel_widget_id^="LEFT-SAFE_FRAME-"]
+amazon.*##div[cel_widget_id^="MAIN-FEATURED_ASINS_LIST-"]
+amazon.*##div[cel_widget_id^="multi-brand-"]
+amazon.*##div[cel_widget_id^="sp-desktop-carousel_handsfree-browse"]
+amazon.*##div[class*="_dpNoOverflow_"][data-idt]
+amazon.*##div[class*="SponsoredProducts"]
+amazon.*##div[data-a-carousel-options*="\\\"isSponsoredProduct\\\":\\\"true\\\""]
+amazon.*##div[data-ad-id]
+amazon.*##div[data-cel-widget="sp-rhf-desktop-carousel_desktop-rhf_1"]
+amazon.*##div[data-cel-widget="sp-shiptrack-desktop-carousel_desktop-yo-shiptrack_0"]
+amazon.*##div[data-cel-widget^="multi-brand-video-mobile_DPSims_"]
+amazon.*##div[data-cel-widget^="multi-card-creative-desktop_loom-desktop-top-slot_"]
+amazon.*##div[data-csa-c-painter="sp-cart-mobile-carousel-cards"]
+amazon.*##div[data-csa-c-slot-id^="loom-mobile-brand-footer-slot_hsa-id-"]
+amazon.*##div[data-csa-c-slot-id^="loom-mobile-top-slot_hsa-id-"]
+amazon.*##div[id^="sp_detail"]
+amazon.*##span[cel_widget_id^="MAIN-FEATURED_ASINS_LIST-"]
+amazon.*##span[cel_widget_id^="MAIN-loom-desktop-brand-footer-slot_hsa-id-CARDS-"]
+amazon.*##span[cel_widget_id^="MAIN-loom-desktop-top-slot_hsa-id-CARDS-"]
+modivo.at,modivo.bg,modivo.cz,modivo.de,modivo.ee,modivo.fr,modivo.gr,modivo.hr,modivo.hu,modivo.it,modivo.lt,modivo.lv,modivo.pl,modivo.ro,modivo.si,modivo.sk,modivo.ua##.display-container
+modivo.at,modivo.bg,modivo.cz,modivo.de,modivo.ee,modivo.fr,modivo.gr,modivo.hr,modivo.hu,modivo.it,modivo.lt,modivo.lv,modivo.pl,modivo.ro,modivo.si,modivo.sk,modivo.ua##.promoted-slider-wrapper
+chaussures.fr,eapavi.lv,ecipele.hr,ecipo.hu,eobuv.cz,eobuv.sk,eobuwie.com.pl,epantofi.ro,epapoutsia.gr,escarpe.it,eschuhe.at,eschuhe.ch,eschuhe.de,eskor.se,evzuttya.com.ua,obuvki.bg,zapatos.es##.sponsored-slider-wrapper
+cheaptickets.com,ebookers.com,expedia.*,hoteis.com,hoteles.com,hotels.com,orbitz.com,travelocity.ca,travelocity.com,wotif.com###floating-lodging-card:has(a.uitk-card-link[href*="&trackingData="])
+cheaptickets.com,ebookers.com,expedia.*,hoteis.com,hoteles.com,hotels.com,orbitz.com,travelocity.ca,travelocity.com,wotif.com##.uitk-card:has(.uitk-badge-sponsored)
+cheaptickets.com,ebookers.com,expedia.*,hoteis.com,hoteles.com,hotels.com,orbitz.com,travelocity.ca,travelocity.com,wotif.com##[data-stid="meso-similar-properties-carousel"]
+cheaptickets.com,ebookers.com,expedia.*,hoteis.com,hoteles.com,hotels.com,orbitz.com,travelocity.ca,travelocity.com,wotif.com##div.not_clustered[id^="map-container-"]
+cheaptickets.com,ebookers.com,expedia.*,hoteis.com,hoteles.com,hotels.com,orbitz.com,travelocity.ca,travelocity.com,wotif.com##div[class="uitk-spacing uitk-spacing-margin-blockstart-three"]:has(a[href*="&trackingData"])
+cheaptickets.com,ebookers.com,expedia.*,hoteis.com,hoteles.com,hotels.com,orbitz.com,travelocity.ca,travelocity.com,wotif.com##div[class="uitk-spacing uitk-spacing-margin-blockstart-three"]:has(a[href^="https://adclick.g.doubleclick.net/pcs/click?"])
+cheaptickets.com,ebookers.com,expedia.*,hoteis.com,hoteles.com,hotels.com,orbitz.com,travelocity.ca,travelocity.com,wotif.com##div[class="uitk-spacing uitk-spacing-margin-blockstart-three"]:has(a[href^="https://pagead2.googlesyndication.com/"])
+androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,movieweb.com,pocket-lint.com,pocketnow.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##.adsninja-ad-zone-container-with-set-height
+androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,movieweb.com,pocket-lint.com,pocketnow.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##[class*="ad-zone-container-content-character-count-repeatable"]
+androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,movieweb.com,pocket-lint.com,pocketnow.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##[id^="adsninja-ad-zone-adsninja-ad-unit-footer"]
+skyscanner.*,tianxun.com##[class^="FlightsResults"] > div:has([class^="Sponsored"])
+skyscanner.*,tianxun.com##div > a:has(div[class^="DefaultBanner_sponsorshipRow"])
+skyscanner.*,tianxun.com##div:has(> a[data-testid="inline-brand-banner"])
+skyscanner.*,tianxun.com##div[class*="InlineBrandBanner" i]:has(button[class*="SponsoredInfoButton" i])
+skyscanner.*,tianxun.com##div[class*="ItineraryInlinePlusWrapper" i]:has(button[class*="SponsoredInfoButton" i])
+skyscanner.*,tianxun.com##div[class^="ItineraryInlinePlusWrapper_"]:has(button[class^="SponsoredInfoButton_"])
+skyscanner.*,tianxun.com##div[id*="-first-result" i]:has(button[class*="SponsoredInfoButton" i])
+skyscanner.*,tianxun.com##section[data-testid="inline-ad-panel-desktop-layout"]
+www.google.*###google-s-ad
+esports.gg###FreeStarVideoAdContainer_BesOfEsportsgg
+gunsandammo.com###VideoPlayerDivIframe
+usnews.com###ac-lre-player-ph
+ew.com###article__primary-video-jw_1-0
+wral.com###exco
+factinate.com###factinateVidazoo
+ispreview.co.uk###footer-slot-3
+ginx.tv###ginx-floatingvod-containerspacer
+ibtimes.com,latintimes.com###ibt-video
+gunsandammo.com###inline-player
+pubs.rsc.org###journal-info > .text--centered
+forums.whathifi.com###jwplayer-container-div
+express.co.uk###mantis-recommender-top-placeholder
+ispreview.co.uk###mobile-takeover-slot-8
+express.co.uk,the-express.com###ovp-primis
+blackamericaweb.com,bossip.com,cassiuslife.com,charlieintel.com,dexerto.com,hiphopwired.com,madamenoire.com,newsone.com,tvone.tv###player-wrapper
+bar-planb.com###player_dev
+essentiallysports.com###player_stn-player__Dybik
+techlicious.com###primis-incontent-desktop
+charlieintel.com,dexerto.com###primis-player
+flightradar24.com###primisAdContainer
+freethesaurus.com###qk1
+freethesaurus.com###qk2
+freethesaurus.com###qk5
+realclearpolitics.com###realclear_jwplayer_container
+whoer.net###render-big-banners
+ispreview.co.uk###sidebar-slot-5
+wideopencountry.com###sv-video-container
+uproxx.com###upx-mm-player-wrap
+wideopencountry.com###video-header
+sportskeeda.com###video-player-container--
+onlyinyourstate.com###video1-1
+newseveryday.com###vplayer_large
+tvline.com##._video_ti56x_1
+musictimes.com,sciencetimes.com,techtimes.com##.ad_wrapper_video
+indy100.com##.addressed_cls
+androidheadlines.com,gcaptain.com,mp1st.com,thedebrief.org,unofficialnetworks.com##.adthrive
+muscleandfitness.com##.ami-video-placeholder
+telegraph.co.uk##.article-betting-unit-container
+niagarafallsreview.ca,stcatharinesstandard.ca,therecord.com,thespec.com,thestar.com,wellandtribune.ca##.article-pe-video-wrapper
+financemagnates.com##.article-sidebar__video-banner
+ibtimes.com,latintimes.com,sciencetimes.com##.article-videoplayer
+people.com##.article__broad-video
+digitaltrends.com##.b-connatix
+bmwblog.com##.bmwbl-video-in-content
+washingtonexaminer.com##.bridtv
+pedestrian.tv##.brightcove-video-container
+military.com##.brightcove-video-wrapper
+cnet.com,zdnet.com##.c-avStickyVideo
+stuff.tv##.c-squirrel-embed
+cartoonbrew.com##.cb-ad
+rd.com,tasteofhome.com##.cnx-inline-player-wrapper
+mb.com.ph##.code-block
+techwalla.com##.component-article-section-jwplayer-wrapper
+livestrong.com##.component-article-section-votd
+accuweather.com##.connatix-player
+familystylefood.com##.email-highlight
+comicbook.com##.embedVideoContainer
+taskandpurpose.com##.empire-unit-prefill-container
+europeanpharmaceuticalreview.com##.europ-fixed-footer
+accuweather.com##.feature-tag
+ibtimes.sg##.featured_video
+pedestrian.tv##.find-dream-job
+sportbible.com,unilad.com,uniladtech.com##.floating-video-player_container__u4D9_
+dailymail.co.uk##.footballco-container
+redboing.com##.fw-ad
+foxsports.com##.fwAdContainer
+thestar.co.uk##.gOoqzH
+electricianforum.co.uk##.gb-sponsored
+arboristsite.com##.gb-sponsored-wrapper
+givemesport.com##.gms-videos-container
+gamesradar.com##.in-article
 bringmethenews.com,mensjournal.com,thestreet.com##.is-fallback-player
 gmanetwork.com##.ivs-placeholder
 evoke.ie##.jw-player-video-widget
@@ -252,8 +915,10 @@ msn.com###promotions
 msn.com##.ad-banner-wrapper
 msn.com##.articlePage_bannerAd_wrapper-DS-EntryPoint1-1
 msn.com##.articlePage_eoabNativeAd_new-DS-EntryPoint1-1
+msn.com##.banner-placeholder-container
 msn.com##.bannerAdContainer-DS-EntryPoint1-1
 msn.com##.consumption-page-banner-wrapper
+msn.com##.display-ads-container
 msn.com##.drrTopAdWrapper
 msn.com##.eocb-ads
 msn.com##.galleryPage_eoabContent_new-DS-EntryPoint1-1
@@ -53488,6 +54153,7 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 ||sgtm.tennis-point.de^
 ||shoop.de/mgtrx/
 ||shop.rewe.de/api/xrd/web-vitals
+||sp.chip.de^
 ||sparkasse.de/frontend/setTrackingCookie.htm
 ||sportnews.bz/pcookie?
 ||spreewaldkarte.de/t.gif
@@ -55469,30 +56135,27 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 1.179.63.145
 1.179.63.146
 1.181.70.42
-1.188.74.152
-1.56.134.19
 1.62.233.75
 1.69.19.6
+1.69.63.153
 1.70.10.88
 1.70.100.151
 1.70.11.217
 1.70.11.38
-1.70.12.116
 1.70.124.174
 1.70.127.236
+1.70.128.166
 1.70.128.255
 1.70.133.10
 1.70.137.52
 1.70.14.161
 1.70.173.170
 1.70.177.195
-1.70.186.118
 1.70.8.2
 1.70.81.94
 1.70.82.229
 1.70.85.90
 1.70.9.124
-1.70.9.237
 1.70.9.57
 1.94.63.197
 101.126.11.168
@@ -55503,6 +56166,7 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 101.200.220.118
 101.201.227.94
 101.201.247.232
+101.255.40.18
 101.32.40.22
 101.35.228.105
 101.35.235.124
@@ -55537,7 +56201,7 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 103.123.98.86
 103.125.163.10
 103.130.214.198
-103.142.68.62
+103.131.60.178
 103.143.195.161
 103.146.11.58
 103.146.202.41
@@ -55545,6 +56209,7 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 103.148.113.135
 103.149.87.18
 103.149.87.69
+103.159.152.118
 103.159.72.227
 103.16.75.50
 103.162.59.217
@@ -55571,13 +56236,16 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 103.227.118.45
 103.227.118.71
 103.230.153.181
+103.234.159.125
 103.235.33.186
+103.237.172.118
 103.237.78.126
 103.24.179.18
 103.240.163.205
 103.242.12.203
 103.243.25.70
 103.245.10.51
+103.245.78.68
 103.247.13.147
 103.253.154.142
 103.253.43.60
@@ -55609,7 +56277,6 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 103.71.46.122
 103.72.56.30
 103.78.215.82
-103.79.113.45
 103.82.211.164
 103.84.39.181
 103.90.206.155
@@ -55619,7 +56286,7 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 103.92.101.54
 103.96.128.3
 104.151.245.17
-104.168.96.111
+104.193.63.211
 104.243.129.2
 105.112.93.194
 105.184.94.137
@@ -55633,7 +56300,7 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 106.52.37.207
 106.57.0.76
 106.58.110.156
-106.59.7.228
+106.59.7.23
 107.145.144.57
 107.172.148.212
 107.172.196.61
@@ -55663,21 +56330,23 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 109.92.143.90
 110.139.171.194
 110.143.54.213
+110.166.215.211
 110.177.108.244
 110.177.80.152
 110.178.36.232
+110.178.43.158
 110.178.75.237
+110.178.76.154
 110.178.77.17
-110.179.121.72
 110.179.127.192
-110.180.143.143
+110.180.140.65
 110.181.234.75
+110.182.154.178
 110.182.167.191
 110.182.182.50
-110.182.236.35
 110.182.238.222
 110.182.239.93
-110.183.30.232
+110.182.75.23
 110.183.54.2
 110.183.57.22
 110.183.58.45
@@ -55685,6 +56354,7 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 110.239.6.20
 110.34.7.5
 110.39.41.202
+110.4.2.45
 110.40.51.56
 110.74.207.194
 110.77.149.146
@@ -55696,85 +56366,83 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 111.38.123.165
 111.42.156.130
 111.46.219.240
+111.70.15.220
 111.70.24.154
 111.74.21.155
+112.111.220.101
 112.116.122.121
-112.118.93.201
 112.124.28.233
 112.124.71.123
 112.173.146.107
 112.217.207.130
-112.237.6.251
-112.237.99.2
-112.239.102.88
-112.239.113.99
 112.239.175.87
 112.242.150.166
 112.242.222.202
 112.242.55.124
 112.248.1.92
 112.248.109.30
-112.248.115.213
 112.248.127.178
 112.248.166.249
+112.248.184.205
 112.248.231.108
-112.248.252.161
 112.248.60.185
 112.248.81.25
 112.27.189.32
-112.27.199.101
 112.33.27.73
 112.4.110.22
 112.81.124.2
-112.81.45.131
 112.81.45.188
+112.93.201.148
 113.156.110.218
 113.160.185.79
 113.160.251.236
 113.189.108.146
 113.190.234.214
 113.191.121.242
+113.205.164.68
 113.214.56.228
 113.214.56.232
 113.214.56.234
 113.219.177.95
-113.221.10.161
 113.221.13.100
-113.221.38.29
-113.221.47.96
+113.221.41.102
+113.221.46.91
 113.221.98.228
 113.222.146.7
 113.225.63.184
-113.227.55.2
 113.228.117.239
 113.228.142.142
-113.228.65.114
+113.228.86.64
 113.229.185.114
 113.229.189.171
+113.230.23.24
+113.230.26.134
+113.231.121.112
 113.231.192.125
+113.232.233.221
 113.236.125.164
 113.236.137.74
 113.236.94.87
 113.237.103.51
 113.237.160.237
+113.238.127.124
+113.238.164.137
 113.238.174.135
+113.239.237.40
 113.239.238.89
-113.24.129.149
 113.24.130.240
 113.24.134.236
 113.24.150.20
-113.25.139.134
 113.25.210.43
 113.25.221.13
 113.25.229.60
 113.250.188.15
 113.254.192.161
+113.26.165.248
+113.26.208.21
 113.26.215.123
 113.26.224.128
-113.26.55.135
-113.26.64.120
 113.26.90.154
-113.26.94.151
 113.27.37.28
 113.31.111.76
 113.44.90.0
@@ -55782,12 +56450,14 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 113.98.201.248
 114.215.27.238
 114.216.214.208
-114.216.92.249
+114.217.95.70
 114.218.164.63
+114.219.130.34
 114.220.154.210
 114.226.102.250
+114.226.192.92
 114.228.134.211
-114.228.64.114
+114.238.114.158
 114.238.33.90
 114.242.26.64
 114.247.47.52
@@ -55802,29 +56472,28 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 115.178.100.190
 115.245.112.26
 115.28.26.10
-115.48.148.35
 115.48.151.53
-115.48.36.20
+115.48.154.22
 115.49.26.207
-115.50.39.80
+115.49.30.21
+115.50.62.164
 115.50.66.111
+115.51.99.93
 115.52.25.124
-115.53.198.145
-115.53.218.53
-115.55.8.141
-115.55.9.159
+115.52.27.90
+115.55.130.1
+115.55.167.236
+115.55.223.114
+115.55.51.78
+115.55.58.26
+115.57.109.37
 115.58.143.198
-115.58.81.204
-115.58.83.140
-115.59.10.216
-115.59.14.219
-115.60.250.184
-115.61.112.255
-115.62.144.84
-115.63.182.206
+115.59.87.246
+115.61.109.185
+115.62.0.79
 115.63.8.133
 115.79.187.72
-116.102.229.234
+115.94.9.181
 116.103.173.106
 116.108.208.126
 116.110.185.173
@@ -55849,7 +56518,6 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 116.55.72.18
 116.58.21.218
 116.58.51.90
-116.58.62.74
 116.58.78.122
 116.58.83.76
 116.62.69.12
@@ -55858,53 +56526,73 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 117.120.28.114
 117.131.92.150
 117.157.17.194
-117.196.142.175
-117.200.87.199
-117.205.84.82
-117.206.130.208
-117.206.23.42
-117.208.170.224
-117.209.19.142
-117.209.80.171
-117.209.82.119
-117.209.84.170
-117.209.88.219
-117.209.90.157
-117.209.95.144
-117.210.211.116
-117.211.32.222
-117.213.186.182
-117.213.82.253
+117.192.232.110
+117.193.143.161
+117.196.182.37
+117.199.138.254
+117.204.165.248
+117.204.167.105
+117.204.167.143
+117.204.167.219
+117.205.170.91
+117.205.174.57
+117.205.86.29
+117.205.92.84
+117.205.94.175
+117.206.22.144
+117.206.65.237
+117.208.139.255
+117.208.174.167
+117.208.174.44
+117.208.98.28
+117.209.113.113
+117.209.18.64
+117.209.242.131
+117.209.87.18
+117.209.87.20
+117.209.88.228
+117.209.89.162
+117.210.213.149
+117.211.144.237
+117.211.213.41
+117.213.249.137
+117.213.84.45
 117.215.129.223
-117.215.53.13
-117.215.55.140
-117.215.58.227
+117.215.129.232
+117.215.52.96
+117.215.57.125
+117.215.59.239
+117.215.63.89
 117.216.139.132
 117.216.139.140
 117.216.139.142
 117.216.139.143
-117.216.139.145
 117.216.139.148
 117.216.139.218
-117.216.61.49
-117.217.132.164
-117.235.119.71
-117.235.123.195
+117.216.6.124
+117.216.61.30
+117.219.133.183
+117.221.171.53
+117.221.49.201
+117.221.53.182
+117.235.103.230
+117.235.115.13
 117.240.155.245
-117.241.208.220
-117.241.219.4
 117.241.74.25
 117.241.74.251
 117.241.74.26
-117.242.224.52
-117.245.2.76
-117.245.4.191
+117.242.130.126
+117.242.130.246
+117.245.10.105
+117.245.14.56
+117.245.2.75
+117.245.5.131
 117.247.101.185
 117.247.101.63
-117.253.212.210
-117.253.220.27
-117.253.87.225
-117.255.187.34
+117.250.224.107
+117.251.172.80
+117.253.69.21
+117.255.176.195
 117.44.242.206
 117.50.178.197
 117.50.190.56
@@ -55916,8 +56604,8 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 117.82.125.238
 117.82.176.152
 117.83.34.224
-117.84.252.152
-117.95.62.207
+117.89.247.26
+117.89.30.13
 118.127.105.182
 118.127.112.49
 118.127.117.170
@@ -55927,19 +56615,18 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 118.179.254.98
 118.189.125.90
 118.189.172.141
-118.200.131.238
 118.212.35.175
 118.232.137.101
 118.248.37.88
 118.26.174.163
 118.43.201.85
-118.68.174.198
+118.44.144.198
 118.69.157.212
 118.70.244.17
 118.71.250.6
-119.115.73.16
 119.116.70.56
 119.117.174.185
+119.117.247.76
 119.117.42.2
 119.118.229.48
 119.13.179.133
@@ -55961,17 +56648,15 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 119.15.85.142
 119.15.92.78
 119.163.142.235
+119.167.70.110
 119.178.149.124
 119.178.187.69
 119.179.214.69
 119.179.217.135
-119.179.73.60
 119.180.52.87
 119.183.62.191
-119.184.31.46
 119.186.211.235
 119.192.128.163
-119.192.136.190
 119.193.158.215
 119.23.208.137
 119.252.167.172
@@ -55980,36 +56665,36 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 119.45.127.116
 119.91.25.19
 12.196.184.34
-120.238.189.72
 120.24.38.217
 120.24.64.74
 120.25.163.165
 120.29.152.106
 120.46.28.4
 120.50.10.30
-120.61.241.5
-120.84.214.0
+120.61.163.93
 121.101.191.106
 121.101.191.150
-121.121.71.115
+121.121.71.113
+121.154.94.166
+121.156.147.243
+121.160.146.2
 121.167.209.164
 121.185.252.173
 121.200.63.162
 121.200.63.165
 121.202.211.2
+121.205.218.174
 121.224.239.151
 121.226.3.63
 121.228.245.121
 121.233.205.238
 121.236.23.120
 121.237.155.229
-121.237.167.31
 121.239.188.98
 121.4.36.95
 121.40.112.176
 121.40.19.66
 121.40.253.98
-121.40.48.175
 121.40.55.28
 121.41.89.22
 121.43.104.75
@@ -56020,10 +56705,8 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 122.151.3.108
 122.156.143.62
 122.160.164.103
-122.168.123.76
 122.170.110.131
 122.179.136.112
-122.189.147.226
 122.193.52.24
 122.201.25.95
 122.230.240.144
@@ -56031,39 +56714,37 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 122.51.183.116
 122.51.52.109
 123.0.249.249
-123.10.37.24
-123.11.13.238
 123.11.64.220
 123.11.78.27
-123.11.8.219
 123.112.97.90
 123.114.81.161
 123.117.136.97
+123.12.244.84
+123.12.32.153
 123.129.134.31
 123.13.22.110
 123.132.224.187
-123.133.218.154
+123.14.119.36
 123.14.19.2
-123.14.56.74
+123.14.96.87
 123.143.141.75
 123.159.142.196
-123.169.0.212
-123.170.103.83
 123.173.101.189
 123.173.109.227
 123.173.112.253
 123.173.122.8
 123.173.72.240
-123.173.85.5
 123.175.52.184
-123.183.165.65
+123.175.67.131
+123.175.88.196
 123.185.109.75
-123.185.49.117
+123.185.8.153
 123.188.78.196
 123.189.204.110
 123.19.178.15
 123.19.181.228
 123.190.2.68
+123.190.91.232
 123.193.21.48
 123.200.171.184
 123.200.177.172
@@ -56073,27 +56754,25 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 123.231.247.114
 123.241.185.249
 123.245.60.22
+123.253.12.111
+123.4.178.223
 123.4.180.201
 123.4.202.17
-123.5.130.50
-123.5.146.8
-123.5.149.31
+123.4.70.36
 123.5.174.42
-123.5.191.84
 123.56.191.147
 123.56.43.176
 123.57.209.214
 123.57.250.154
-123.7.102.177
 123.8.161.236
 123.8.52.73
 123.8.79.234
+123.9.241.202
 123.ywxww.net
 124.123.123.15
 124.153.20.102
 124.153.22.49
 124.19.77.89
-124.19.79.164
 124.19.79.176
 124.194.46.204
 124.218.93.53
@@ -56113,7 +56792,6 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 124.71.137.28
 124.71.164.7
 124.71.73.181
-124.90.20.199
 124.94.120.104
 124.94.170.90
 124.94.197.27
@@ -56124,14 +56802,15 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 125.186.91.61
 125.209.71.6
 125.41.225.3
+125.43.45.98
 125.43.89.15
-125.44.247.118
-125.44.52.3
-125.45.8.85
-125.46.144.233
+125.44.206.193
+125.44.216.174
+125.45.67.188
+125.46.206.158
+125.47.32.129
 125.65.146.208
 126.23.203.236
-129.18.188.67
 129.222.204.191
 130.162.152.154
 130.185.193.208
@@ -56144,36 +56823,35 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 134.249.141.119
 136.169.119.33
 138.122.43.76
-138.204.196.160
 138.207.174.248
 138.36.239.20
 139.159.155.204
+139.196.237.171
 139.198.15.223
-139.255.30.107
 139.255.97.116
 139.5.152.14
+139.60.191.170
 139520.aioc.qbgxl.com
-14.0.204.188
 14.142.209.198
-14.155.221.25
 14.161.6.225
 14.164.65.215
 14.176.117.52
+14.181.8.243
 14.200.203.114
 14.224.162.164
 14.224.174.212
 14.224.190.45
 14.227.110.230
 14.233.131.196
+14.233.20.38
 14.233.68.27
 14.234.166.20
 14.240.211.173
 14.255.191.199
-14.29.160.181
 14.45.99.185
-14.51.122.49
 14.54.96.182
 140.238.122.17
+141.105.87.18
 141.134.214.217
 141.147.43.219
 141.155.36.213
@@ -56190,6 +56868,7 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 146.196.120.21
 146.196.120.91
 146.196.122.104
+146.196.122.95
 146.56.118.137
 147.45.221.229
 147.45.37.142
@@ -56202,7 +56881,6 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 149.62.200.106
 149.88.73.206
 14stirling.dyndns.org
-150.107.205.29
 150.116.144.1
 150.129.202.193
 150.129.202.197
@@ -56212,9 +56890,9 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 151.106.34.115
 151.236.247.230
 151.237.4.20
+151.239.239.15
 151.248.56.14
 151.251.196.158
-151.56.189.44
 151.95.147.206
 152.136.140.85
 152.168.125.249
@@ -56226,13 +56904,14 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 153.162.250.21
 153.37.77.156
 154.0.129.114
+154.0.129.134
 154.125.180.244
 154.126.170.119
 154.126.178.16
-154.126.184.240
 154.126.186.56
 154.198.49.151
 154.221.28.166
+154.23.163.214
 154.23.163.91
 154.73.64.137
 154.73.64.24
@@ -56250,7 +56929,6 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 156.229.228.171
 156.229.233.170
 156.245.12.220
-156.245.12.92
 156.255.2.100
 157.255.22.43
 158.101.196.44
@@ -56269,19 +56947,17 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 159.75.164.33
 160.119.133.26
 160.22.160.31
+161.0.74.15
 161.142.245.194
-161.248.54.26
 161.248.54.79
 161.248.55.103
-161.248.55.237
-161.35.127.139
 162.191.190.249
 162.219.216.183
-163.142.87.149
+163.142.84.210
 164.126.132.172
+164.163.25.141
 164.163.69.142
 165.154.184.75
-165.154.224.116
 165.154.244.73
 165.220.157.19
 165.73.108.6
@@ -56296,9 +56972,9 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 170.210.81.104
 170.244.72.211
 170.55.7.234
-171.117.30.12
 171.231.0.160
 171.231.117.201
+171.231.140.188
 171.231.165.68
 171.235.110.252
 171.235.211.17
@@ -56310,6 +56986,7 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 172.105.66.118
 172.115.81.23
 172.245.119.74
+172.250.238.27
 172.73.72.87
 173.178.94.224
 173.234.28.237
@@ -56323,9 +57000,11 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 174.78.254.83
 175.100.115.43
 175.107.15.96
+175.11.73.82
 175.111.183.93
 175.111.183.94
 175.146.218.253
+175.146.241.177
 175.146.243.81
 175.147.209.118
 175.147.244.55
@@ -56335,12 +57014,12 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 175.148.207.79
 175.148.49.21
 175.149.66.233
-175.150.146.180
 175.150.150.61
 175.150.176.60
-175.150.251.233
+175.151.86.184
 175.151.95.212
 175.161.168.59
+175.165.81.106
 175.165.84.158
 175.165.86.84
 175.166.164.185
@@ -56350,11 +57029,9 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 175.175.114.2
 175.175.18.160
 175.30.110.199
-175.30.69.107
 175.31.202.173
 175.42.50.72
 176.100.241.12
-176.104.119.19
 176.104.33.39
 176.113.115.149
 176.113.115.225
@@ -56367,23 +57044,26 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 176.192.78.254
 176.195.191.123
 176.221.111.222
-176.226.166.8
 176.254.186.89
 176.32.15.32
 176.37.170.214
 176.39.7.106
 176.62.179.34
-176.65.137.193
+176.65.137.13
 176.65.140.135
 176.65.144.240
 176.98.13.44
 177.103.184.142
+177.11.77.225
 177.124.61.98
+177.128.81.58
 177.129.147.4
+177.130.40.18
 177.222.132.130
 177.247.15.185
 177.52.48.235
 177.8.227.138
+178-84-167-164.dynamic.upc.nl
 178.131.101.80
 178.131.166.102
 178.131.17.242
@@ -56398,12 +57078,10 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 178.151.34.26
 178.158.238.2
 178.160.216.103
-178.160.216.125
 178.160.240.83
 178.165.112.168
 178.165.79.24
 178.168.9.189
-178.169.136.50
 178.170.251.9
 178.173.39.201
 178.176.204.240
@@ -56430,30 +57108,34 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 178.236.126.246
 178.236.129.164
 178.239.120.153
+178.248.3.202.ll.sta.mana.pf
 178.253.103.221
 178.34.157.178
 178.34.177.78
 178.34.182.186
 178.34.183.162
+178.48.132.250
 178.54.47.70
 178.61.160.6
 178.77.228.166
 178.84.167.164
+178.92.38.85
 178.94.167.208
 179.118.199.209
 179.189.254.54
 179.190.109.156
 179.236.0.232
+179.248.3.202.ll.sta.mana.pf
+179.91.48.194
 180.105.106.236
 180.106.136.252
-180.108.67.235
 180.115.157.106
+180.115.157.190
+180.115.165.187
 180.115.166.219
 180.115.174.229
 180.119.180.88
 180.167.115.186
-180.211.187.190
-180.241.107.93
 180.250.160.26
 180.76.138.238
 180.92.228.37
@@ -56467,15 +57149,12 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 181.143.20.60
 181.166.191.183
 181.171.188.254
-181.192.23.115
 181.193.59.78
 181.193.62.225
 181.204.218.147
 181.205.125.58
 181.205.84.211
 181.211.15.10
-181.211.252.34
-181.214.231.181
 181.214.58.10
 181.224.243.165
 181.233.95.24
@@ -56495,32 +57174,35 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 181.71.191.178
 181.94.245.254
 182.109.0.22
+182.112.13.98
 182.112.60.89
 182.113.202.42
-182.116.118.246
+182.116.12.100
 182.116.20.121
-182.117.48.117
-182.117.69.169
+182.116.55.167
+182.116.67.183
+182.117.129.17
+182.117.54.36
 182.117.78.146
-182.119.11.29
 182.119.198.96
-182.119.236.235
-182.120.39.228
-182.120.60.3
+182.120.167.180
+182.121.104.3
+182.121.111.167
 182.121.118.55
-182.121.135.243
-182.121.84.152
-182.122.220.81
-182.123.208.93
-182.126.127.4
-182.127.181.255
+182.121.44.45
+182.121.46.120
+182.121.49.33
+182.124.174.216
+182.126.125.8
+182.126.85.206
+182.126.96.216
+182.127.108.183
 182.127.3.198
 182.160.102.188
 182.160.109.98
 182.233.119.113
-182.239.74.135
 182.240.203.113
-182.241.174.139
+182.241.136.109
 182.247.92.40
 182.252.66.18
 182.252.66.2
@@ -56532,28 +57214,28 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 182.253.60.194
 182.253.60.197
 182.253.60.198
-182.45.123.40
 182.59.133.14
-182.60.3.115
+182.60.14.153
 182.72.167.124
-182.74.29.134
 182.92.99.95
+182.93.83.124
 183.115.102.3
 183.147.240.250
 183.166.208.225
 183.171.5.64
 183.171.53.141
+183.81.156.121
 184.185.30.182
 185.101.239.41
 185.11.61.10
 185.11.61.9
-185.112.102.233
 185.114.137.114
 185.118.19.154
 185.12.78.161
 185.127.218.102
 185.13.165.53
 185.133.214.138
+185.136.193.107
 185.136.193.25
 185.136.193.46
 185.136.195.187
@@ -56562,12 +57244,12 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 185.142.53.59
 185.142.53.6
 185.143.139.113
+185.147.124.108
 185.147.125.76
 185.147.40.84
 185.148.3.216
 185.151.108.232
 185.152.219.150
-185.16.38.38
 185.162.140.242
 185.168.227.130
 185.180.196.46
@@ -56575,7 +57257,6 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 185.191.89.120
 185.191.89.122
 185.191.89.127
-185.195.106.81
 185.196.8.34
 185.196.8.37
 185.2.229.122
@@ -56599,9 +57280,9 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 185.234.174.160
 185.236.46.120
 185.237.157.98
-185.247.118.235
 185.248.12.129
 185.248.12.157
+185.29.8.28
 185.34.20.221
 185.43.16.137
 185.43.19.103
@@ -56623,7 +57304,6 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 186.138.107.5
 186.154.93.81
 186.159.0.129
-186.159.4.25
 186.189.199.6
 186.211.153.18
 186.211.154.33
@@ -56632,13 +57312,10 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 186.249.218.242
 186.3.78.195
 186.42.113.6
-186.42.121.70
 186.42.98.2
 186.67.115.166
 186.88.164.238
 186.88.173.159
-186.88.185.224
-186.93.70.228
 186.97.185.91
 186.97.185.92
 186.97.185.93
@@ -56661,6 +57338,7 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 188.170.32.148
 188.170.48.204
 188.175.134.62
+188.190.57.41
 188.2.23.244
 188.20.51.118
 188.208.142.72
@@ -56674,7 +57352,6 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 188.30.150.166
 188.38.106.89
 188.38.3.30
-188.4.126.147
 188.43.201.109
 188.44.110.215
 188.68.95.174
@@ -56686,6 +57363,7 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 189.1.225.221
 189.131.109.164
 189.204.177.98
+189.223.137.130
 189.61.50.98
 190.104.195.210
 190.104.213.45
@@ -56729,9 +57407,7 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 192.140.225.33
 192.162.49.16
 192.176.50.190
-192.186.101.138
 192.210.229.52
-192.248.13.186
 192.252.182.98
 192.3.179.144
 192.3.95.229
@@ -56752,6 +57428,7 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 193.200.78.24
 193.200.78.35
 193.200.78.50
+193.228.128.193
 193.228.134.234
 193.228.135.75
 193.233.48.198
@@ -56759,9 +57436,9 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 193.239.254.115
 193.251.62.153
 193.3.23.122
+193.32.162.38
 193.93.248.103
 194.102.104.92
-194.122.165.156
 194.122.191.15
 194.144.250.22
 194.145.227.21
@@ -56770,16 +57447,14 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 194.187.148.143
 194.187.149.116
 194.187.151.163
-194.187.151.189
 194.208.107.76
 194.208.52.223
-194.208.56.189
 194.208.56.60
 194.26.192.76
+194.32.145.243
 194.36.80.225
 194.38.23.2
 194.54.162.137
-194.85.251.68
 194.87.31.68
 195.101.213.209
 195.103.203.106
@@ -56788,7 +57463,6 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 195.158.95.85
 195.162.70.105
 195.178.110.224
-195.20.18.146
 195.208.145.49
 195.211.101.219
 195.211.190.132
@@ -56798,41 +57472,44 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 195.218.152.38
 195.22.237.98
 195.230.22.20
-195.250.173.158
 195.34.102.234
 195.34.205.242
+195.34.91.22
 195.46.176.2
+195.66.105.122
 195.9.192.52
 196.189.40.207
-196.189.9.233
 196.2.14.197
-196.202.220.96
 196.251.112.162
 196.251.115.173
 196.251.67.134
 196.251.69.154
+196.251.87.222
 196.251.92.64
 196.45.130.38
 197.155.64.126
-197.159.1.58
+197.205.95.153
 197.232.133.112
 197.232.69.189
 197.245.244.254
+197.254.71.110
 197.44.77.98
 197.89.38.53
 198.12.123.6
 198.166.72.242
 198.2.85.240
+198.50.242.157
 199.195.248.181
 199.195.252.200
 2.125.243.227
 2.136.145.238
 2.176.114.41
-2.180.23.84
+2.180.18.194
+2.180.18.98
 2.180.35.231
 2.180.9.57
 2.183.9.88
-2.187.118.22
+2.187.118.46
 2.187.36.184
 2.36.68.156
 2.42.168.99
@@ -56848,6 +57525,7 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 2.54.89.128
 2.54.89.165
 2.54.89.174
+2.55.119.129
 2.55.122.229
 2.55.66.215
 2.55.73.161
@@ -56858,19 +57536,16 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 2.57.122.121
 20.189.117.246
 20.243.255.185
-20.254.98.64
 20.74.209.192
 200.11.216.34
 200.122.211.138
 200.123.251.66
 200.14.250.72
+200.222.96.195
 200.29.120.130
 200.35.49.74
 200.40.61.38
-200.44.205.103
-200.53.24.26
 200.58.80.108
-200.59.84.179
 200.59.85.3
 200.59.86.222
 200.6.91.45
@@ -56879,17 +57554,16 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 200.69.61.237
 200.72.199.205
 200.81.127.208
-201.110.5.47
 201.132.14.166
 201.184.179.195
 201.184.231.250
 201.184.84.106
-201.210.95.48
+201.208.58.126
+201.234.186.229
 201.243.218.14
 201.46.47.251
 201.46.47.252
 201.74.222.52
-201.77.146.249
 202.107.235.202
 202.124.33.242
 202.131.234.26
@@ -56906,7 +57580,7 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 202.152.45.93
 202.154.187.26
 202.162.99.38
-202.169.234.52
+202.166.220.109
 202.169.234.54
 202.183.103.221
 202.191.123.196
@@ -56925,17 +57599,19 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 202.53.164.210
 202.53.164.214
 202.53.164.46
+202.53.164.90
 202.57.39.2
 202.59.90.107
 202.63.242.37
+202.69.40.164
 202.74.246.172
 202.78.201.3
-2024.sci-hub.se
 203.109.201.77
 203.115.101.242
 203.115.103.19
 203.145.165.14
 203.150.253.15
+203.160.56.67
 203.161.58.98
 203.17.23.194
 203.176.137.54
@@ -56945,6 +57621,7 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 203.201.160.123
 203.204.186.225
 203.204.217.190
+203.223.44.74
 203.232.37.151
 203.80.244.154
 204.11.227.214
@@ -56957,19 +57634,16 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 210.10.153.120
 210.125.101.75
 210.208.104.219
-210.4.69.226
+210.209.236.49
 210.4.70.30
-210.4.75.110
 210.56.13.114
 211.108.60.155
-211.141.32.89
 211.186.82.229
 211.192.113.231
 211.192.113.232
 211.197.121.81
 211.204.100.20
 211.220.36.213
-211.38.102.233
 211.40.16.243
 211.55.72.203
 212.107.232.167
@@ -56978,8 +57652,10 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 212.154.131.153
 212.154.135.81
 212.154.209.206
+212.156.209.128
 212.164.252.18
 212.18.104.137
+212.18.104.67
 212.18.223.226
 212.18.223.229
 212.192.14.109
@@ -57012,6 +57688,7 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 213.6.64.86
 213.6.74.138
 213.66.14.189
+213.87.112.128
 213.87.95.224
 213.91.236.237
 213.92.222.96
@@ -57026,6 +57703,7 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 216.247.214.225
 217.114.43.149
 217.15.164.94
+217.160.17.80
 217.208.204.56
 217.208.7.109
 217.218.235.202
@@ -57042,121 +57720,116 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 218.22.21.248
 218.61.231.90
 218.62.139.181
-218.86.123.43
 218.91.153.60
 218.91.33.199
 218.92.65.139
 218.93.44.86
 218.93.45.14
+218.94.193.116
 219.155.252.130
-219.155.63.9
 219.155.73.196
 219.156.129.41
 219.156.175.54
-219.157.24.206
+219.156.182.219
+219.157.241.119
 219.157.246.130
+219.157.255.200
+219.157.59.209
 219.68.233.14
 219.68.235.149
 219.71.85.54
 219.73.22.64
 219.77.202.117
 220.163.199.247
+220.164.229.105
 220.180.255.224
 220.201.25.2
 220.248.47.54
 220.77.246.196
 220.79.237.194
 220.92.94.202
-221.1.155.102
 221.10.233.217
 221.120.98.22
-221.14.11.154
 221.143.49.222
-221.15.213.35
 221.15.226.10
+221.15.246.195
 221.163.170.129
 221.215.197.253
+221.229.54.2
 221.3.87.173
 222.101.88.180
 222.129.238.80
 222.129.239.32
-222.137.206.112
-222.137.208.115
-222.137.75.136
-222.138.181.89
-222.138.79.152
+222.134.166.206
+222.139.66.216
 222.140.180.113
-222.140.182.209
+222.140.181.209
+222.141.139.172
 222.141.47.159
-222.142.249.114
 222.142.252.59
 222.165.237.58
 222.165.237.59
 222.165.237.60
 222.165.237.61
 222.165.237.62
-222.185.107.50
 222.185.199.127
 222.187.223.34
 222.219.45.159
-222.241.209.78
 222.244.110.238
 222.245.2.112
 222.245.2.5
 222.245.55.228
 222.246.108.198
+222.246.40.34
 222.252.15.21
 222.88.186.81
 222.93.151.56
+222.94.125.93
 223.10.175.205
 223.10.6.174
 223.10.7.53
 223.10.70.94
 223.108.58.13
-223.12.206.147
-223.13.24.146
+223.12.189.190
+223.12.198.64
 223.13.30.170
 223.13.60.216
 223.13.72.152
 223.13.81.37
-223.13.87.120
+223.13.88.174
+223.15.14.31
 223.15.18.18
 223.15.22.236
 223.15.23.206
 223.15.23.90
-223.15.54.106
 223.15.54.179
 223.15.55.23
 223.15.8.53
-223.151.73.38
-223.151.76.92
-223.154.81.57
 223.16.143.101
 223.197.231.77
 223.220.162.90
 223.247.198.16
 223.27.94.164
 223.8.16.67
-223.8.190.17
 223.8.201.4
 223.8.202.86
 223.8.206.106
-223.8.209.54
-223.8.215.4
+223.8.213.81
 223.8.216.39
 223.8.218.118
+223.8.221.108
 223.8.50.207
 223.82.83.143
+223.9.47.46
 23.158.56.152
 23.241.17.95
 23.95.60.82
 23.95.79.71
 24.106.221.230
+24.115.40.227
 24.120.175.134
-24.121.0.66
 24.149.81.68
 24.234.159.5
-24.53.137.107
 24.6.130.205
 24.64.128.57
 24.88.242.6
@@ -57174,18 +57847,15 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 27.156.154.3
 27.156.224.11
 27.159.154.179
-27.18.75.196
-27.193.99.9
+27.194.185.34
 27.202.243.4
-27.210.39.123
-27.213.131.48
+27.209.157.95
+27.213.102.89
 27.215.123.3
 27.215.186.108
-27.215.45.196
 27.215.45.250
+27.215.46.29
 27.215.48.62
-27.215.85.61
-27.216.250.73
 27.217.129.181
 27.220.44.194
 27.222.57.112
@@ -57193,11 +57863,11 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 27.37.109.33
 27.37.111.215
 27.37.114.235
-27.37.116.234
+27.37.115.101
 27.37.118.73
 27.37.127.116
 27.37.24.240
-27.37.87.237
+27.37.82.143
 27.54.121.126
 29.251.196.35.bc.googleusercontent.com
 3005.filemail.com
@@ -57205,6 +57875,7 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 31.0.199.8
 31.0.241.65
 31.125.243.56
+31.141.245.82
 31.154.235.131
 31.171.223.162
 31.171.223.183
@@ -57213,25 +57884,26 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 31.186.217.44
 31.186.54.111
 31.186.54.203
+31.192.232.28
 31.214.180.12
 31.222.113.214
+31.25.133.191
 31.28.11.111
 31.57.166.49
 34.45.47.180
 35.196.251.29
 36.104.222.232
-36.110.15.211
 36.138.125.70
 36.140.28.13
 36.152.9.62
 36.249.52.206
-36.48.58.134
 36.49.65.2
-36.50.134.19
+36.64.160.162
 36.64.202.57
 36.64.209.97
 36.64.210.218
 36.64.219.140
+36.64.4.199
 36.66.105.177
 36.66.108.167
 36.66.139.36
@@ -57266,7 +57938,6 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 36.92.68.241
 36.92.77.11
 36.92.93.101
-36.93.219.59
 36.93.53.193
 36.94.219.31
 36.94.29.82
@@ -57278,15 +57949,13 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 37.139.249.103
 37.143.133.215
 37.157.212.138
-37.157.219.158
 37.192.22.166
-37.193.88.34
 37.194.25.119
 37.202.49.118
+37.205.81.56
 37.220.123.125
 37.221.67.207
 37.233.63.185
-37.252.66.188
 37.252.69.92
 37.252.86.167
 37.26.61.249
@@ -57296,13 +57965,11 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 37.9.25.206
 37.9.35.70
 38.255.44.110
-39.100.33.142
 39.100.64.169
 39.100.70.46
 39.102.210.162
 39.103.150.56
 39.103.217.92
-39.104.22.98
 39.104.73.194
 39.105.31.193
 39.106.152.236
@@ -57319,72 +57986,75 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 39.74.147.143
 39.74.28.220
 39.77.228.3
+39.87.30.225
 39.90.129.61
 39.98.107.227
+39.98.174.154
 39.98.48.153
 39.99.131.244
 40.112.213.212
 41.145.130.171
-41.146.14.64
-41.146.67.229
 41.157.213.59
 41.160.128.130
 41.160.234.219
 41.184.188.49
 41.190.142.206
+41.190.57.114
 41.190.68.13
 41.190.69.6
 41.190.70.217
 41.190.70.78
-41.203.218.38
 41.205.90.51
 41.211.112.86
 41.215.23.222
 41.231.37.153
 41.32.249.165
 41.57.125.226
+41.71.51.243
 41.76.195.60
 41.76.195.90
-41.82.45.76
+41.77.74.90
 42.113.225.199
-42.176.127.229
-42.177.159.222
+42.118.176.200
 42.177.211.60
 42.178.182.0
 42.180.11.61
 42.180.8.127
 42.192.195.221
-42.224.168.94
-42.224.208.91
+42.224.122.3
 42.224.255.66
-42.225.2.119
+42.225.63.237
+42.225.9.186
+42.226.71.233
 42.226.88.4
 42.227.17.111
+42.228.245.205
 42.228.33.139
-42.228.89.173
-42.230.25.193
-42.231.229.19
-42.232.87.31
+42.232.239.163
 42.233.107.249
-42.235.39.102
-42.237.55.237
+42.234.234.2
+42.235.176.6
+42.235.178.106
+42.236.223.103
 42.238.167.43
-42.238.170.75
 42.238.171.208
+42.239.254.202
 42.240.133.45
 42.242.210.109
 42.242.82.113
 42.243.138.78
+42.5.194.237
+42.5.198.198
 42.5.78.100
 42.52.195.220
-42.54.140.190
+42.52.204.36
 42.55.3.142
-42.55.62.176
 42.57.219.186
+42.58.171.9
 42.6.34.253
+42.7.247.254
 42.85.175.44
 42.85.51.119
-42.86.110.99
 42.86.114.152
 42.86.171.44
 42.86.181.33
@@ -57419,6 +58089,7 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 45.116.68.70
 45.118.79.103
 45.121.33.18
+45.125.66.139
 45.128.146.227
 45.135.194.61
 45.137.203.36
@@ -57438,19 +58109,17 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 45.233.94.135
 45.236.175.69
 45.250.231.30
-45.61.157.179
 45.87.5.2
 46.100.49.235
-46.100.50.137
 46.100.63.216
 46.124.119.12
 46.141.62.238
 46.151.56.42
+46.158.84.50
 46.16.102.32
 46.173.163.110
 46.175.139.20
 46.180.176.202
-46.20.55.130
 46.20.55.131
 46.20.55.132
 46.20.55.133
@@ -57490,7 +58159,6 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 47.107.29.90
 47.108.142.95
 47.109.137.82
-47.109.159.25
 47.109.178.54
 47.109.201.173
 47.109.77.180
@@ -57522,16 +58190,12 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 47.90.142.15
 47.92.122.62
 47.92.166.33
-47.93.243.161
-47.94.179.9
 47.94.196.131
 47.97.105.148
 47.98.177.117
 47.98.194.85
 49.142.114.242
 49.156.46.134
-49.213.157.76
-49.232.126.36
 49.234.38.224
 49.234.48.162
 49.73.246.165
@@ -57546,9 +58210,7 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 5.20.176.98
 5.202.101.153
 5.236.93.129
-5.252.155.168
 5.26.174.234
-5.83.218.12
 5.89.112.21
 50.65.169.30
 50.85.82.218
@@ -57560,11 +58222,12 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 58.152.32.99
 58.215.245.2
 58.216.207.82
+58.216.71.38
 58.217.188.101
 58.217.23.47
 58.255.40.206
 58.255.42.58
-58.47.18.93
+58.47.105.14
 58.8.186.192
 58.87.94.238
 58.99.111.67
@@ -57574,24 +58237,41 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 59.154.123.20
 59.154.252.26
 59.175.183.106
-59.178.45.250
-59.182.110.0
-59.182.77.31
+59.178.73.134
+59.182.103.24
+59.182.137.230
+59.182.66.76
+59.182.69.124
+59.183.109.54
 59.19.13.27
 59.54.88.94
 59.59.6.86
-59.88.156.41
-59.88.24.156
-59.89.13.178
-59.89.13.91
-59.93.30.244
-59.97.177.178
-59.97.250.77
-59.97.252.136
-59.99.220.197
+59.88.0.48
+59.88.21.140
+59.88.27.241
+59.89.5.129
+59.89.5.71
+59.94.70.6
+59.96.138.242
+59.96.140.132
+59.96.140.175
+59.97.182.178
+59.97.250.154
+59.97.255.72
+59.98.27.111
+59.99.2.227
+59.99.213.125
+59.99.213.2
+59.99.219.55
+59.99.220.131
+59.99.221.197
+59.99.223.175
+60.16.177.33
 60.160.170.218
 60.161.22.22
 60.166.36.5
+60.177.243.22
+60.178.182.6
 60.18.101.146
 60.18.211.57
 60.188.59.126
@@ -57604,19 +58284,29 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 60.253.126.4
 60.29.43.10
 60.6.54.49
-61.1.234.150
+61.1.18.77
+61.1.243.8
 61.131.3.86
+61.137.198.83
 61.154.0.139
 61.157.18.84
 61.163.142.61
 61.183.16.127
+61.2.150.176
 61.2.45.132
-61.3.108.102
+61.3.143.82
+61.3.16.23
+61.3.18.68
+61.3.98.167
+61.52.128.192
 61.52.74.62
 61.52.80.105
+61.52.82.26
+61.53.127.4
+61.53.132.145
 61.53.216.162
-61.53.81.227
-61.53.91.38
+61.53.75.232
+61.7.209.115
 61.88.48.186
 61.88.50.73
 61.88.50.74
@@ -57633,9 +58323,9 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 62.176.7.134
 62.202.20.85
 62.221.155.5
-62.234.57.48
 62.249.140.222
 62.32.86.42
+62.33.114.219
 62.56.225.99
 62.60.226.64
 62.73.121.49
@@ -57691,6 +58381,7 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 77.237.29.219
 77.238.209.82
 77.240.97.71
+77.247.88.68
 77.42.243.110
 77.46.170.18
 77.65.45.186
@@ -57700,37 +58391,39 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 77.89.199.242
 77.89.245.118
 78.11.94.29
+78.132.70.190
 78.139.121.189
 78.140.32.219
 78.153.52.58
 78.179.231.33
-78.180.244.224
 78.186.157.83
 78.188.137.146
+78.188.178.92
 78.188.215.66
 78.188.82.30
 78.25.120.196
 78.26.136.125
+78.26.81.99
 78.29.19.18
 78.30.234.163
 78.30.245.243
+78.38.60.246
 78.44.174.90
 78.70.203.243
 78.83.245.86
+78.87.16.123
 78.9.100.207
 79.101.0.33
 79.117.34.254
 79.120.54.194
 79.124.60.85
 79.124.72.22
-79.127.101.143
 79.132.20.173
 79.136.24.140
 79.165.16.125
 79.175.42.206
 79.189.60.174
 8.130.132.210
-8.130.24.191
 8.131.63.6
 8.134.163.72
 8.137.114.210
@@ -57794,16 +58487,13 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 82.114.109.66
 82.114.200.50
 82.117.197.102
-82.127.74.198
 82.140.14.10
-82.144.211.181
 82.148.194.54
 82.153.79.9
 82.156.0.140
 82.156.108.180
 82.193.118.99
 82.193.120.99
-82.194.55.190
 82.200.140.66
 82.212.109.51
 82.31.159.47
@@ -57822,11 +58512,12 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 83.218.189.21
 83.218.189.57
 83.220.249.234
-83.224.128.182
+83.224.141.248
 83.224.148.0
 83.224.149.197
 83.229.122.83
 83.234.147.99
+83.234.203.16
 83.234.218.234
 83.249.236.177
 83.249.243.32
@@ -57838,7 +58529,6 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 83.96.147.6
 84.1.110.226
 84.15.147.5
-84.15.43.52
 84.17.248.14
 84.199.4.170
 84.200.154.119
@@ -57851,12 +58541,10 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 84.36.25.50
 84.38.133.35
 85-95-173-28.saransk.ru
-85.105.79.209
 85.130.160.219
 85.141.98.243
 85.15.254.129
 85.175.101.203
-85.187.172.75
 85.187.82.120
 85.204.104.159
 85.209.128.206
@@ -57872,9 +58560,9 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 86.106.101.159
 86.106.155.155
 86.120.181.56
-86.120.181.60
 86.120.181.61
 86.121.113.85
+86.127.117.146
 86.140.204.27
 86.181.172.176
 86.228.133.175
@@ -57892,7 +58580,6 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 87.251.249.41
 87.26.194.197
 87.96.142.40
-87.97.161.106
 88.119.151.142
 88.119.193.17
 88.119.95.176
@@ -57904,11 +58591,9 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 88.225.231.222
 88.24.53.203
 88.24.76.180
-88.243.3.17
 88.247.206.153
 88.248.194.163
 88.248.81.112
-88.28.177.134
 88.28.177.135
 88.28.218.163
 88.5.240.217
@@ -57922,8 +58607,6 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 89.149.71.22
 89.165.170.74
 89.175.186.155
-89.184.185.198
-89.187.25.50
 89.190.76.126
 89.197.154.116
 89.213.158.208
@@ -57949,13 +58632,16 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 90.45.15.114
 90.45.68.107
 91-202-233-151.plesk.page
+91.108.132.229
 91.139.153.236
 91.164.39.142
 91.192.33.128
+91.195.100.69
 91.196.121.81
 91.202.233.151
 91.202.233.169
 91.202.233.181
+91.202.233.238
 91.203.89.146
 91.205.131.242
 91.207.245.16
@@ -57966,10 +58652,10 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 91.228.64.59
 91.231.190.163
 91.232.188.116
-91.235.181.104
 91.240.118.49
 91.244.112.102
 91.244.169.56
+91.246.214.25
 91.39.191.146
 91.80.139.241
 91.80.142.74
@@ -57995,7 +58681,6 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 93.119.175.84
 93.122.182.148
 93.123.53.204
-93.127.132.197
 93.170.128.248
 93.175.223.140
 93.176.52.107
@@ -58004,7 +58689,6 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 93.189.222.80
 93.41.182.249
 93.63.154.162
-93.87.31.84
 93.88.203.34
 94.142.63.8
 94.154.84.37
@@ -58013,8 +58697,9 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 94.156.227.74
 94.158.158.67
 94.159.74.226
-94.182.114.32
 94.183.159.51
+94.197.196.92
+94.226.135.252
 94.240.37.34
 94.241.90.73
 94.244.113.217
@@ -58041,22 +58726,20 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 95.170.119.57
 95.170.119.90
 95.170.203.178
-95.182.98.179
 95.215.249.196
 95.230.215.65
 95.255.114.11
+95.38.24.186
 95.43.74.253
 95.47.248.146
 95.68.102.219
 95.70.238.134
 95.78.118.134
-95.83.158.43
 96.18.93.160
 96.250.166.185
-96.62.214.172
-96.62.214.212
 98.103.171.36
 98.180.230.180
+99-118-215-24.lightspeed.irvnca.sbcglobal.net
 99.118.215.24
 99.139.100.137
 99.71.130.109
@@ -58070,7 +58753,9 @@ a19ccc1.oss-cn-hongkong.aliyuncs.com
 a23uuu1.oss-cn-hongkong.aliyuncs.com
 a26bbb1.oss-cn-hongkong.aliyuncs.com
 abissnet.net
+acusense.ae
 adf6.adf6.com
+admin.aishangzhua.com
 agapi.cqjjb.cn
 ah-scanning.oss-cn-hongkong.aliyuncs.com
 ai-kling.online
@@ -58082,15 +58767,15 @@ aosafrica.co.za
 api.accueil-coinbase.com
 api.aide-coinbase.com
 api.co-operativefinance.com
-api.ewfiles.net
 api.hostize.com
 api.information-binance.com
+api.rappel-coinbase.com
 app-antiriciclaggio-mps.com
 app-store.s3.cn-north-1.jdcloud-oss.com
 applepistudios.com
+arcenciel.my3cx.fr
 armanayegh.com
 attachment.vnecdn.net
-aulist.com
 avastcxp.com
 avastcxt.com
 avastexodus.com
@@ -58099,6 +58784,7 @@ avastng.com
 avastop.com
 avastpdq.com
 avastpdr.com
+avastpx.com
 azgint.com
 b46.oss-cn-hongkong.aliyuncs.com
 bctabsogebtmoutsgs.duckdns.org
@@ -58107,7 +58793,6 @@ beiletoys.com
 best.obs.cn-sz1.ctyun.cn
 bitkiselurunsiparis.com
 blackhattoolz.com
-bolsterflipgaming.com
 book.rollingvideogames.com
 bruplong.oss-accelerate.aliyuncs.com
 buscascolegios.diit.cl
@@ -58125,16 +58810,18 @@ cfs10.blog.daum.net
 cfs13.tistory.com
 cfs7.blog.daum.net
 cfs9.blog.daum.net
+chinaapper.com
 chmod0777kk.com
+chromeupd-mo.com
 cioudfiare.ru
 ciscocdn.com
-cmcmarkets.work
 cnc.stressamp.com
 cnl.dl4you.ir
 cnom.sante.gov.ml
 coach.028csc.com
 coadymarine.com
 commavast.com
+comteste.com
 conn.masjesu.zip
 cpc138130-hatf10-2-0-cust814.9-3.cable.virginm.net
 cranky-nash.91-202-233-151.plesk.page
@@ -58154,8 +58841,8 @@ disk.accord1key.cn
 divvanews.com
 dl.1003b.56a.com
 dl.aginjector.com
-dl.natgo.cn
 dld.jxwan.com
+do-dear.com
 dow.andylab.cn
 down.ftp21.cc
 down.fwqlt.com
@@ -58170,9 +58857,11 @@ download.caihong.com
 download.emailorganizer.com
 download.skycn.com
 download.suxiazai.com
+downloadpropsdocs.com
 downsexv.com
 e4l4.com
 eager-haslett.91-202-233-151.plesk.page
+ecozessentials.com
 elefantenfutter.de
 elisans.novayonetim.com
 eloquent-bouman.193-143-1-07.plesk.page
@@ -58183,35 +58872,41 @@ f24-zfcloud.zdn.vn
 file.blackint3.com
 file.edunet.ac
 files5.uludagbilisim.com
+flechabusretiro.com.ar
 fox-news-checker.cc
 ftp.ywxww.net
+fundrescuetech.com
 funletters.net
 gachetroi.com
 gawx.florenda.com
 genericfixer.com
+glennmedina.com
 globallaborsupply.com
-gopay.stockadv.com
 grupobramam.com.br
+gruposermac.net
 hardcore-cartwright.194-26-192-76.plesk.page
 helpsharp.ydns.eu
-hhbs.hhu.edu.cn
 hitman-pro.ru
 hitstation.nl
+hkuu.oss-cn-hongkong.aliyuncs.com
 hnjgdl.geps.glodon.com
 hobobot.net
 honeybooterz.cve-2021-36260.ru
+honeypie.r-e.kr
 hook.ftp21.cc
 host-195-103-203-106.business.telecomitalia.it
+host-95-230-215-65.business.telecomitalia.it
 host-95-255-114-11.business.telecomitalia.it
 hr2019.vrcom7.com
 hseda.com
 i0001.clarodrive.com
-imtoken8.cc
 indexdougents.duckdns.org
 indexmousocgnets.duckdns.org
 information-binance.com
 ingonherbal.com
+ini.sh-pp.com
 insocgencmouts.duckdns.org
+inspirepk.org
 jahez.me
 javierlopez.eu
 jobcity.com
@@ -58220,21 +58915,26 @@ jrqh-hk.com
 karoonpc.com
 keyser-api.eu
 kuakuawenjian.oss-cn-hangzhou.aliyuncs.com
+lakestreetsolar.com
 ldcdn.ldmnq.com
 library.arihantmbainstitute.ac.in
 lindnerelektroanlagen.de
 linkvilleplayers.org
+littlemoroccanthings.com
 littlemtlogistics.net
 livetrack.in
 loader.hxsoftwares.com
 loader.oxy.st
 lsks.volamngayxua.net
 lti.cs.vt.edu
+m.gutousoft.com
 mail.alapaev.ru
+mail.automatica.mx
 main.dsn.ovh
 mandarin.net.au
 maxmoney.com
 mcpperformance.com.br
+medises.co.kr
 meetingroomconfigurator.com
 mertvinc.com.tr
 metalofhonorrrr.duckdns.org
@@ -58247,7 +58947,9 @@ mitgpssms.com
 modest-sinoussi.91-202-233-151.plesk.page
 moonloaderupdate.ru
 mta179.insuretn.com
+multiservicepitstra.direct.quickconnect.to
 mymin11.oss-cn-hangzhou.aliyuncs.com
+na-moria.ru
 nabawitransport.com
 namthaibinh.net
 nationwideavast.com
@@ -58257,21 +58959,22 @@ newkey.co.kr
 news6.oss-ap-northeast-1.aliyuncs.com
 noithaticon.vn
 ns1.koleso.tc
+nsaxem.dns.army
 ny.lshdw.cc
 odoo.kseibitools.com
 ofice365.github.io
-ohart.top
 ojang.pe.kr
 opolis.io
-osecweb.ir
 otrsolutons.com
 oys0ro.static.otenet.gr
 p3.zbjimg.com
+p5b27bf92.dip0.t-ipconnect.de
 p6.zbjimg.com
 pad-buy-sounds-photographers.trycloudflare.com
 palharesinformatica.com.br
 park.chuitian.cn
 parmisbuilding.com
+petrjanicek.savana-hosting.cz
 pid.fly160.com
 pns.org.pk
 possess-probably-coupon-cure.trycloudflare.com
@@ -58286,7 +58989,6 @@ quanlyphongnet.com
 quit.do.am
 rappel-coinbase.com
 rd.chuitian.cn
-recepchtav3.com
 reducbabmaytgout.duckdns.org
 reduchavestgs.duckdns.org
 reifenquick.de
@@ -58299,16 +59001,18 @@ rustbakingtable.com
 safe.ywxww.net
 safefiles2.oss-cn-beijing.aliyuncs.com
 saieguard.world
+sandramosquedamx.com
 saveyourcinema.ca
 security-service-api-link.cc
 server.toeicswt.co.kr
 seventools.de
+sfa.com.ar
 sgz-1302338321.cos.ap-guangzhou.myqcloud.com
 shangmei-test.oss-cn-beijing.aliyuncs.com
 shell.dimitrimedia.com
-shemaleescorts.uk
 sirault.be
 sister-1324943887.cos.ap-guangzhou.myqcloud.com
+smartservers25.com
 smsfastersend.com
 soft.110route.com
 soft.wsyhn.com
@@ -58320,11 +59024,10 @@ sporcketngearforu.com
 src1.minibai.com
 srogland.com
 ssl.ftp21.cc
-staatsgewalt.jameschans.de
 staplebrokenmetaliyro.blogspot.com
+starcountry.net
 static.3001.net
 static.zongheng.com
-stdown.dinju.com
 storage.soowim.co.kr
 subit.ro
 sufikhat.com
@@ -58333,6 +59036,7 @@ support.clz.kr
 symbiatec-fi.com
 symbietic.com
 symdlotic.com
+t.0000o.xyz
 tdejb.com
 tecni-soft.com
 tecunonline.com
@@ -58341,12 +59045,14 @@ temirtau-adm.ru
 tengfeidn.com
 test.aionclassic.pro
 tests.yjzj.org
+theherbalhub.com
 tianyinsoft.top
 traefik-dashboard.val.io.vn
 travelwithmanta.co.za
 treinamento.convenio.to.gov.br
 tucson-option-aspect-recommended.trycloudflare.com
 update.cg100iii.com
+update.volam2005pk.com
 update33.oss-ap-southeast-3.aliyuncs.com
 updateinfo-portal.com
 upload.vina-host.com
@@ -58358,6 +59064,9 @@ utorrent-backup-server5.top
 utorrent-server-api.cc
 utorrent-servers.xyz
 uyul.oss-cn-beijing.aliyuncs.com
+vbccorretoradeseguros.com.br
+vcompdocs.com
+vcompdocsproposal.com
 vmi1547155.contaboserver.net
 weco.oss-eu-central-1.aliyuncs.com
 weco2.oss-me-east-1.aliyuncs.com
@@ -58366,12 +59075,11 @@ win.down.55kantu.com
 windriversfiles.imeitools.com
 www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com
 www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com
+wynecare.com
 wz.3911.com
 xiangshunjy.com
-ximonite.com
 xingpai.weilay.com.cn
 xn--on3b15m2lco2u.com
-xss-1253555722.cos.ap-singapore.myqcloud.com
 xww.bucea.edu.cn
 ysbaojia.com
 yunger.ddns.cam
@@ -58382,9 +59090,7 @@ zhengxinpeixun.oss-cn-qingdao.aliyuncs.com
 zhikey.com
 zlonline.oss-cn-shenzhen.aliyuncs.com
 znrq.zifwxq.cn
-||6sz.ru/ee/armv7l$all
-||6sz.ru/tt/mips64$all
-||6sz.ru/tt/riscv32$all
+||2024.sci-hub.se/6107/8404c3d00d8aee946bdf1c140c904799/sorandaru2016.pdf$all
 ||airhobi.com/system/gbh/$all
 ||aqianniao.com/test/restart1.exe$all
 ||archive.org/download/new_image/new_image.jpg$all
@@ -58410,8 +59116,6 @@ znrq.zifwxq.cn
 ||banthis.su/wget.sh$all
 ||bitbucket.org/bpappo/x86-64/downloads/tradingview.exe$all
 ||bitbucket.org/javamagazine/magdownloads/downloads/utilities-windowtimer-ptimer.zip$all
-||bitbucket.org/whork1995/scripts/raw/78af7fc3267ae6cc87e3b2f9de17fe6677ef9a13/001.ps1$all
-||bitbucket.org/whork1995/scripts/raw/78af7fc3267ae6cc87e3b2f9de17fe6677ef9a13/001.zip$all
 ||cd.textfiles.com/hmatrix/data/hack0832.zip$all
 ||cd.textfiles.com/hmatrix/data/hack1226.exe$all
 ||cfs5.tistory.com/upload_control/download.blog?fhandle=ymxvzzcxmzyyqgzzns50axn0b3j5lmnvbtovyxr0ywnolzavmtqwmdawmdawmdawlmv4zq%3d%3d&filename=crack-pro20.exe$all
@@ -58445,21 +59149,6 @@ znrq.zifwxq.cn
 ||codeload.github.com/kamilniftaliev/cryptoview/zip/refs/heads/main$all
 ||codeload.github.com/meteoradminz/hidden-tear/zip/master$all
 ||codeload.github.com/mori-miyako/discord-token-generator/zip/refs/heads/main$all
-||codeload.github.com/sonriseclient/ad4nal1-startup-9659/zip/refs/heads/main$all
-||codeload.github.com/sonriseclient/ad4nal1-stealer-5016/zip/refs/heads/main$all
-||codeload.github.com/sonriseclient/alman1/zip/refs/heads/main$all
-||codeload.github.com/sonriseclient/bnecorex-startup-2368/zip/refs/heads/main$all
-||codeload.github.com/sonriseclient/bnecorex-stealer-3586/zip/refs/heads/main$all
-||codeload.github.com/sonriseclient/javadownloader/zip/refs/heads/main$all
-||codeload.github.com/sonriseclient/kirlisokak-startup-2193/zip/refs/heads/main$all
-||codeload.github.com/sonriseclient/kirlisokak-stealer-4050/zip/refs/heads/main$all
-||codeload.github.com/sonriseclient/main/zip/refs/heads/main$all
-||codeload.github.com/sonriseclient/microdev7-stealer-2599/zip/refs/heads/main$all
-||codeload.github.com/sonriseclient/peyyix-stealer-3572/zip/refs/heads/main$all
-||codeload.github.com/sonriseclient/thomaspatric-startup-1469/zip/refs/heads/main$all
-||codeload.github.com/sonriseclient/thomaspatric-stealer-4528/zip/refs/heads/main$all
-||codeload.github.com/sonriseclient/wirestonline-startup-4487/zip/refs/heads/main$all
-||codeload.github.com/sonriseclient/wirestonline-stealer-8847/zip/refs/heads/main$all
 ||codeload.github.com/sqrtzeroknowledge/xworm-trojan/zip/refs/heads/main$all
 ||codeload.github.com/steve824/a/zip/refs/heads/main$all
 ||codeload.github.com/thebb5th/123/zip/refs/heads/main$all
@@ -58558,9 +59247,7 @@ znrq.zifwxq.cn
 ||firebasestorage.googleapis.com/v0/b/rodriakd-8413d.appspot.com/o/dll%2fdllnewis.txt?alt=media&token=1e20d0db-d43d-4d04-9d7b-f22a284a8f6a$all
 ||firebasestorage.googleapis.com/v0/b/rodriakd-8413d.appspot.com/o/dll%2fdllrodita.txt?alt=media&token=e71965a3-c432-4759-9f03-7fe4e0c99072$all
 ||fromthetrenchesworldreport.com/analytics/zy5ntk/$all
-||getsolara.dev/download/static/files/bootstrappernew.exe$all
 ||getsolara.dev/download/static/files/solara.dir.zip$all
-||getsolara.dev:2096/download/static/files/bootstrappernew.exe$all
 ||getsolara.dev:2096/download/static/files/solara.dir.zip$all
 ||gitee.com/jhpatchouli/payload/raw/master/artifact.exe$all
 ||github.com/07nn/am/raw/refs/heads/main/runtimebroker.exe$all
@@ -58668,7 +59355,6 @@ znrq.zifwxq.cn
 ||github.com/caibe/fwga/raw/refs/heads/main/iksjbpj.txt$all
 ||github.com/caibe/fwga/raw/refs/heads/main/jaadkfh.txt$all
 ||github.com/caibe/fwga/raw/refs/heads/main/krkmakc.txt$all
-||github.com/caibe/fwga/raw/refs/heads/main/oahinkn.txt$all
 ||github.com/caibe/fwga/raw/refs/heads/main/rcf_omfnorh.txt$all
 ||github.com/caibe/fwga/raw/refs/heads/main/rcm_dcdedkd.txt$all
 ||github.com/caibe/fwga/raw/refs/heads/main/rooahio.txt$all
@@ -58680,7 +59366,6 @@ znrq.zifwxq.cn
 ||github.com/caonim2le/yournigas/raw/main/arm7/$all
 ||github.com/caonim2le/yournigas/raw/main/m68k$all
 ||github.com/caonim2le/yournigas/raw/main/mips$all
-||github.com/caonim2le/yournigas/raw/main/mpsl$all
 ||github.com/caonim2le/yournigas/raw/main/sh4$all
 ||github.com/caonim2le/yournigas/raw/main/x86_32$all
 ||github.com/caonim2le/yournigas/raw/main/x86_64$all
@@ -58754,12 +59439,6 @@ znrq.zifwxq.cn
 ||github.com/grozniy1/folder/raw/refs/heads/main/444.exe$all
 ||github.com/h4ck3dv0d4/terminal-test/raw/refs/heads/main/terminal_9235.exe$all
 ||github.com/hak333444/xmrig/raw/main/winring0x64.sys$all
-||github.com/hapor2023/quasar/raw/refs/heads/main/client-built.exe$all
-||github.com/hapor2023/quasar/raw/refs/heads/main/discord.exe$all
-||github.com/hapor2023/quasar/raw/refs/heads/main/fud2.exe$all
-||github.com/hapor2023/quasar/raw/refs/heads/main/injector.exe$all
-||github.com/hapor2023/quasar/raw/refs/heads/main/kys.exe$all
-||github.com/hapor2023/quasar/raw/refs/heads/main/x.exe$all
 ||github.com/helelehelafsdf163/batata/raw/refs/heads/main/xclient.exe$all
 ||github.com/heresfilly09-9/fornova/raw/main/svchost.exe$all
 ||github.com/heysama/afsgdhzx/raw/main/asyncclient.exe$all
@@ -58869,7 +59548,6 @@ znrq.zifwxq.cn
 ||github.com/new-codder/test/raw/refs/heads/main/15m.bin$all
 ||github.com/new-codder/test/raw/refs/heads/main/2.bin$all
 ||github.com/new-codder/test/raw/refs/heads/main/3.bin$all
-||github.com/new-codder/test/raw/refs/heads/main/my.bin$all
 ||github.com/new-codder/test/raw/refs/heads/main/shellcode.bin$all
 ||github.com/new-codder/test/raw/refs/heads/main/shellcodeany.bin$all
 ||github.com/ngrokc/ctc/raw/main/ctc64.dll$all
@@ -58878,13 +59556,13 @@ znrq.zifwxq.cn
 ||github.com/noureddine-nt9/rgsdr/raw/refs/heads/main/cheet.exe$all
 ||github.com/nullspectre/whyareyouhere-/raw/4bed170d797d5d2077bfc312d8badcd3c1dbaa74/test2.exe$all
 ||github.com/nxrecxxil/syndicate/raw/refs/heads/main/main.exe$all
-||github.com/ordogos2/g575/releases/download/download/setup.7.0.zip$all
 ||github.com/orospuccocugu/aaaaaa/raw/refs/heads/main/anne.exe$all
 ||github.com/orospuccocugu/aaaaaa/raw/refs/heads/main/enai2.exe$all
 ||github.com/paketpk/trojan/raw/refs/heads/main/njsilent.exe$all
 ||github.com/pbhhdf/12/raw/main/keepvid-pro_full2578.exe$all
 ||github.com/peroxic/peroxic/releases/download/1/demon.bin$all
 ||github.com/phantompeek/ps/raw/refs/heads/main/ps.bin$all
+||github.com/phsoftware-corp/phsoftware-corp.github.io/raw/refs/heads/main/download_file_now.7z$all
 ||github.com/playmcbkuwu/vape/releases/download/stable/vape.v4.10.from.duckysolucky.zip$all
 ||github.com/pr0niums/repo/raw/main/nvidia.exe$all
 ||github.com/pr0niums/repo/raw/main/nvidias.exe$all
@@ -58978,7 +59656,6 @@ znrq.zifwxq.cn
 ||github.com/smerttb2/xvpn/raw/main/xclient.exe$all
 ||github.com/smerttb2/xvpn/raw/main/xclient.exe/$all
 ||github.com/so251/olaquerida/releases/download/1releasae/winring0x64.sys$all
-||github.com/sonriseclient/ad4nal1-stealer-5016/raw/refs/heads/main/stealer.jar$all
 ||github.com/splash2520/splash/raw/refs/heads/main/network.exe$all
 ||github.com/sqrtzeroknowledge/xworm-trojan/archive/refs/heads/main.zip$all
 ||github.com/ssslllap1/asdasd/raw/main/crypted.exe$all
@@ -58992,53 +59669,6 @@ znrq.zifwxq.cn
 ||github.com/sulfux29/customrpcc/releases/download/discord/msystem32.exe$all
 ||github.com/techsavvysenior/referralreactjs/archive/refs/heads/main.zip$all
 ||github.com/tedburke/commandcam/archive/refs/heads/master.zip$all
-||github.com/temperloin/figvam/raw/refs/heads/main/1243.exe$all
-||github.com/temperloin/figvam/raw/refs/heads/main/1358.exe$all
-||github.com/temperloin/figvam/raw/refs/heads/main/bot.exe$all
-||github.com/temperloin/figvam/raw/refs/heads/main/flilphbvd.exe$all
-||github.com/temperloin/figvam/raw/refs/heads/main/hfseftyh.exe$all
-||github.com/temperloin/figvam/raw/refs/heads/main/hnygsf.exe$all
-||github.com/temperloin/figvam/raw/refs/heads/main/htuiiaedjtra.exe$all
-||github.com/temperloin/figvam/raw/refs/heads/main/ksdrgewt.exe$all
-||github.com/temperloin/figvam/raw/refs/heads/main/kyjilsefqaw.exe$all
-||github.com/temperloin/figvam/raw/refs/heads/main/mtyihjksfda.exe$all
-||github.com/temperloin/figvam/raw/refs/heads/main/nboyps.exe$all
-||github.com/temperloin/figvam/raw/refs/heads/main/nbyiksfthaed.exe$all
-||github.com/temperloin/figvam/raw/refs/heads/main/nbyjksjkf.exe$all
-||github.com/temperloin/figvam/raw/refs/heads/main/nnbyopsefa.exe$all
-||github.com/temperloin/figvam/raw/refs/heads/main/noytjhjsefsae.exe$all
-||github.com/temperloin/figvam/raw/refs/heads/main/npytihjksef.exe$all
-||github.com/temperloin/figvam/raw/refs/heads/main/ntuiyhjkjs.exe$all
-||github.com/temperloin/figvam/raw/refs/heads/main/nyjksefaw.exe$all
-||github.com/temperloin/figvam/raw/refs/heads/main/nykfsekawddd.exe$all
-||github.com/temperloin/figvam/raw/refs/heads/main/pothjasefdj.exe$all
-||github.com/temperloin/figvam/raw/refs/heads/main/pyjksf.exe$all
-||github.com/temperloin/figvam/raw/refs/heads/main/pythiksdaw.exe$all
-||github.com/temperloin/figvam/raw/refs/heads/main/yjseftyh.exe$all
-||github.com/temperloin/piponis/raw/refs/heads/main/bdorjfusiejf.exe$all
-||github.com/temperloin/piponis/raw/refs/heads/main/bffgjingfr.exe$all
-||github.com/temperloin/piponis/raw/refs/heads/main/bioldgefsawe.exe$all
-||github.com/temperloin/piponis/raw/refs/heads/main/cjitigjfktti.exe$all
-||github.com/temperloin/piponis/raw/refs/heads/main/cjrimgid.exe$all
-||github.com/temperloin/piponis/raw/refs/heads/main/cjrimgid.exe/$all
-||github.com/temperloin/piponis/raw/refs/heads/main/dirificoskejcivke.exe$all
-||github.com/temperloin/piponis/raw/refs/heads/main/girpwkfuejs.exe$all
-||github.com/temperloin/piponis/raw/refs/heads/main/heifjejrs.exe$all
-||github.com/temperloin/piponis/raw/refs/heads/main/horrxjddub.exe$all
-||github.com/temperloin/piponis/raw/refs/heads/main/jrirkfiweid.exe$all
-||github.com/temperloin/piponis/raw/refs/heads/main/jtunuhhrr.exe$all
-||github.com/temperloin/piponis/raw/refs/heads/main/ltohjksef.exe$all
-||github.com/temperloin/piponis/raw/refs/heads/main/mkthooesfja.exe$all
-||github.com/temperloin/piponis/raw/refs/heads/main/mmytljldrgl.exe$all
-||github.com/temperloin/piponis/raw/refs/heads/main/mnyksdrfkesa.exe$all
-||github.com/temperloin/piponis/raw/refs/heads/main/niyjkdrfseth.exe$all
-||github.com/temperloin/piponis/raw/refs/heads/main/nohtysefhas.exe$all
-||github.com/temperloin/piponis/raw/refs/heads/main/ogprjsirbfuw.exe$all
-||github.com/temperloin/piponis/raw/refs/heads/main/oiuyjikdkjg.exe$all
-||github.com/temperloin/piponis/raw/refs/heads/main/opyjjsefjk.exe$all
-||github.com/temperloin/piponis/raw/refs/heads/main/plrifjidicfid.exe$all
-||github.com/temperloin/piponis/raw/refs/heads/main/pyjhiksfasewf.exe$all
-||github.com/temperloin/piponis/raw/refs/heads/main/riroiciend.exe$all
 ||github.com/tezx11/imgui/raw/refs/heads/main/example_win32_dx11.exe$all
 ||github.com/tezx11/imgui/raw/refs/heads/main/runtimebroker.exe$all
 ||github.com/thanhtung19944/ok-/raw/refs/heads/main/need.bin$all
@@ -59059,7 +59689,6 @@ znrq.zifwxq.cn
 ||github.com/tpinauskas/anticheat/raw/refs/heads/main/amogus.exe$all
 ||github.com/trafunny/malware-file/raw/refs/heads/main/crack.exe$all
 ||github.com/trafunny/malware-file/raw/refs/heads/main/njrat.exe$all
-||github.com/trasherwithadollarsign/trashers-malware-repo/raw/main/ransomware/coronavirus.exe$all
 ||github.com/trasherwithadollarsign/trashers-malware-repo/raw/main/ransomware/cryptowall.exe$all
 ||github.com/trasherwithadollarsign/trashers-malware-repo/raw/main/ransomware/hive%20ransomware.exe$all
 ||github.com/trasherwithadollarsign/trashers-malware-repo/raw/main/ransomware/infinitycrypt.exe$all
@@ -59126,6 +59755,7 @@ znrq.zifwxq.cn
 ||github.com/zzrevva1/osu-maple/raw/refs/heads/main/extremeinjector.exe$all
 ||gitlab.com/-/project/21762009/uploads/c4f32a8d91f0b95a33e7d8a2715f2c1c/slunkcrypt.2024-06-08.windows.zip$all
 ||gitlab.com/mauigraphics/tabsexplorer/-/raw/main/menu.db$all
+||i.imghippo.com/files/jlj5300oyu.bmp$all
 ||ia800400.us.archive.org/8/items/new_image_20240619_1432/new_image.jpg$all
 ||ia803405.us.archive.org/16/items/new_image_202406/new_image.jpg$all
 ||irp.cdn-website.com/45d8c6e0/files/uploaded/32.ps1$all
@@ -59138,8 +59768,14 @@ znrq.zifwxq.cn
 ||mediafire.com/file_premium/n0mtrwx8bmk91qg/efzburbiic.mp3/file$all
 ||mediafire.com/file_premium/r8cmk3xdjwpf0p4/wvff.pdf/file$all
 ||p20.zdusercontent.com/attachment/453903/wqc7f5s8lhm8mu0clzhwbl3lp?token=eyjhbgcioijkaxiilcjlbmmioijbmti4q0jdluhtmju2in0..kok-c08tg1sb0rkwxyurvg.7ptb2bey9etqrwrfe3gvzgp-gdctw-nokzbirrowi-iwjtdmjfntorattitqom-5eqrbhzpurovcmmmjxks4knjpxbahy0bahdwidwtu6cuucpoigdw4l9jv2px7wsngjqoqp_dy8fpl_1z6j2no0z_rrawi5g3dj3vggkr-wcthkncz5a8o6febbffjiyc7oij5okn6o4janis5qd7btxoqqitdsic5s2bduud6ozsfsdjsc54szpt2gg4zgz8iuag3pv4apwyt_eo-owc_8q.o9d2owtjtv0voyqxis2afq$all
+||paste.ee/d/aen2vpl1/0$all
+||paste.ee/d/l8magfp7/0$all
+||paste.ee/d/psjxzgi7/0$all
+||paste.ee/d/qxyrxymm/0$all
+||paste.ee/d/rcf3ucuw/0$all
 ||paste.ee/r/nntad24z/0$all
-||pastebin.com/raw/htg7uu0d$all
+||pastebin.com/raw/whkzw2nr$all
+||pastebin.com/raw/wjxj1xbc$all
 ||pharorg.com/titan3/us/world/titan.w1.exe$all
 ||raw.githubusercontent.com/0x699/upms/refs/heads/main/winlog32.exe$all
 ||raw.githubusercontent.com/1337breaker1337/password/refs/heads/main/client-built.exe$all
@@ -59359,15 +59995,6 @@ znrq.zifwxq.cn
 ||raw.githubusercontent.com/hackerx237/miner/main/my-files.lnk$all
 ||raw.githubusercontent.com/hackirby/discord-injection/main/injection.js$all
 ||raw.githubusercontent.com/hadesv2/windriver/master/windriver.exe$all
-||raw.githubusercontent.com/hapor2023/quasar/main/client-built.exe$all
-||raw.githubusercontent.com/hapor2023/quasar/main/discord.exe$all
-||raw.githubusercontent.com/hapor2023/quasar/main/x.exe$all
-||raw.githubusercontent.com/hapor2023/quasar/refs/heads/main/client-built.exe$all
-||raw.githubusercontent.com/hapor2023/quasar/refs/heads/main/discord.exe$all
-||raw.githubusercontent.com/hapor2023/quasar/refs/heads/main/fud2.exe$all
-||raw.githubusercontent.com/hapor2023/quasar/refs/heads/main/injector.exe$all
-||raw.githubusercontent.com/hapor2023/quasar/refs/heads/main/kys.exe$all
-||raw.githubusercontent.com/hapor2023/quasar/refs/heads/main/x.exe$all
 ||raw.githubusercontent.com/haxork8880/files/main/windowssync.txt.zip$all
 ||raw.githubusercontent.com/helelehelafsdf163/batata/refs/heads/main/xclient.exe$all
 ||raw.githubusercontent.com/heresfilly09-9/fornova/main/svchost.exe$all
@@ -59528,7 +60155,6 @@ znrq.zifwxq.cn
 ||raw.githubusercontent.com/orospuccocugu/aaaaaa/refs/heads/main/anne.exe$all
 ||raw.githubusercontent.com/orospuccocugu/aaaaaa/refs/heads/main/enai2.exe$all
 ||raw.githubusercontent.com/ox2fa/justnow/refs/heads/main/1.sh$all
-||raw.githubusercontent.com/ox2fa/justnow/refs/heads/main/2pac.php$all
 ||raw.githubusercontent.com/paco321312312/cautious-sniffle/main/xclient.exe$all
 ||raw.githubusercontent.com/paketpk/trojan/main/njsilent.exe$all
 ||raw.githubusercontent.com/paketpk/trojan/refs/heads/main/njsilent.exe$all
@@ -59566,7 +60192,6 @@ znrq.zifwxq.cn
 ||raw.githubusercontent.com/ranjitgandhi2/fff/refs/heads/main/101.bin$all
 ||raw.githubusercontent.com/ranjitgandhi2/fff/refs/heads/main/11.bin$all
 ||raw.githubusercontent.com/ranjitgandhi2/fff/refs/heads/main/bao.bin$all
-||raw.githubusercontent.com/ranjitgandhi2/fff/refs/heads/main/doom.bin$all
 ||raw.githubusercontent.com/ranjitgandhi2/fff/refs/heads/main/key.bin$all
 ||raw.githubusercontent.com/ranjitgandhi2/fff/refs/heads/main/king.bin$all
 ||raw.githubusercontent.com/ranjitgandhi2/fff/refs/heads/main/mera.bin$all
@@ -59589,7 +60214,6 @@ znrq.zifwxq.cn
 ||raw.githubusercontent.com/re9neyt/goodfrag-mh-counter-strike-global-offensive-/master/goodfrag.exe$all
 ||raw.githubusercontent.com/realmastercoder69/daww/main/loader.exe$all
 ||raw.githubusercontent.com/realmastercoder69/daww/refs/heads/main/loader.exe$all
-||raw.githubusercontent.com/realstrings/lydian-spoofer/refs/heads/main/spoofy.sys$all
 ||raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/t1204.002/bin/test10.lnk$all
 ||raw.githubusercontent.com/regolx1/hadb/refs/heads/main/svchost.exe$all
 ||raw.githubusercontent.com/reporgu/fakado/main/transaction_file_9812009_end_ids_yesbr5_pdf.rar$all
@@ -59659,8 +60283,6 @@ znrq.zifwxq.cn
 ||raw.githubusercontent.com/stukit/svhoste/main/svhoste.exe$all
 ||raw.githubusercontent.com/stukit/svhoste/refs/heads/main/svhoste.exe$all
 ||raw.githubusercontent.com/supfrezze/jtebez/master/dayum.exe$all
-||raw.githubusercontent.com/temperloin/piponis/refs/heads/main/cjrimgid.exe$all
-||raw.githubusercontent.com/temperloin/piponis/refs/heads/main/jrirkfiweid.exe$all
 ||raw.githubusercontent.com/tennessene/lockbit/refs/heads/main/builder.exe$all
 ||raw.githubusercontent.com/tezx11/imgui/main/runtimebroker.exe$all
 ||raw.githubusercontent.com/tezx11/imgui/refs/heads/main/example_win32_dx11.exe$all
@@ -59772,20 +60394,21 @@ znrq.zifwxq.cn
 ||sendspace.com/pro/dl/kx3wl4$all
 ||sendspace.com/pro/dl/lt00vw$all
 ||sendspace.com/pro/dl/medjl1$all
-||sendspace.com/pro/dl/ppxodm$all
 ||sendspace.com/pro/dl/tbfvpd$all
 ||sendspace.com/pro/dl/wyg3h5$all
+||sms-szfang.com/download/%e5%9b%9b%e6%96%b9%e5%b9%b3%e5%8f%b0-%e5%8d%a1%e5%95%86%e7%ab%af.exe$all
 ||teknoarge.com/update/ana/update.exe$all
-||twizt.net/1$all
 ||twizt.net/m.exe$all
 ||twizt.net/npp.exe$all
 ||twizt.net/nxmr.exe$all
 ||twizt.net/o.exe$all
 ||twizt.net/pei.exe$all
+||twizt.net/peinf.exe$all
 ||twizt.net/pp.exe$all
 ||twizt.net/r.exe$all
 ||twizt.net/s.exe$all
 ||twizt.net/t.exe$all
+||twizt.net/t1.exe$all
 ||twizt.net/t2.exe$all
 ||twizt.net/tdrp.exe$all
 ||twizt.net/tdrpload.exe$all
@@ -59793,7 +60416,6 @@ znrq.zifwxq.cn
 ||twizt.net/twizt/2$all
 ||twizt.net/twizt/3$all
 ||twizt.net/twztl.exe$all
-||twizthash.net/1$all
 ||twizthash.net/m.exe$all
 ||twizthash.net/newtpp.exe$all
 ||twizthash.net/npp.exe$all
@@ -59809,7 +60431,6 @@ znrq.zifwxq.cn
 ||twizthash.net/t2.exe$all
 ||twizthash.net/tdrpload.exe$all
 ||twizthash.net/tpeinf.exe$all
-||twizthash.net/twztl.exe$all
 ||update-checker-status.cc/1337/torrentold-1.exe$all
 ||update-checker-status.cc/update/tpb-1.exe$all
 ||update.drp.su/beetle/17.11.21/tools/run.hta$all
@@ -59845,6 +60466,7 @@ znrq.zifwxq.cn
 ||web.archive.org/web/20240808122936if_/http:/154.216.19.139/bins/mirai.gnueabihf$all
 ||web.archive.org/web/20240808123114if_/http://154.216.19.139/bins/mirai.arc$all
 ||web.archive.org/web/20240808123114if_/http:/154.216.19.139/bins/mirai.arc$all
+||xemhang.vn/website1/all/recoverview.txt$all
 
 
 @@||awstrack.me/*auth.coindesk.com$doc,popup
@@ -62281,7 +62903,6 @@ rediff.com##a[onclick^="trackURL"]:remove-attr(onclick)
 rediff.com##a[onmousedown^="return enc(this,'https://track.rediff.com"]:remove-attr(onmousedown)
 ||reddit.com/api/jail^$xhr,1p
 old.reddit.com##a.outbound[data-outbound-url]:remove-attr(data-outbound-url)
-www.reddit.com##+js(rpnt, script, "outboundUrl", "outbound")
 www.reddit.com##+js(json-prune, data.*.elements.edges.[].node.outboundLink)
 www.reddit.com##+js(json-prune, data.children.[].data.outbound_link)
 ||redditstatic.com/shreddit/sentry-$domain=reddit.com
@@ -62367,12 +62988,12 @@ dataunlocker.com##+js(rmnt, script, /^Function\(\"/)
 ||washpost.nile.works^
 /p13n/batch/action/*$image
 /^https:\/\/cdn\.jsdelivr\.net\/npm\/[-a-z_]{4,22}@latest\/dist\/script\.min\.js$/$script,3p,match-case
-loawa.com,ygosu.com,sportalkorea.com,edaily.co.kr,economist.co.kr,etoday.co.kr,isplus.com,hometownstation.com,honkailab.com,thestockmarketwatch.com,issuya.com,worldhistory.org,etnews.com,iusm.co.kr,dogdrip.net,etoland.co.kr,picrew.me,text-compare.com,fntimes.com,javatpoint.com,jawapos.com,lamire.jp,bamgosu.site,allthekingz.com,automobile-catalog.com,maketecheasier.com,thesaurus.net,wfmz.com,mydaily.co.kr,raenonx.cc,badmouth1.com,logicieleducatif.fr,islamicfinder.org,aikatu.jp,globalrph.com,sportsrec.com,reportera.co.kr,flatpanelshd.com,adintrend.tv,cool-style.com.tw,dziennik.pl,eurointegration.com.ua,winfuture.de,freemcserver.net,pravda.com.ua,infinityfree.com,wort-suchen.de,word-grabber.com,palabr.as,motscroises.fr,cruciverba.it,dramabeans.com,mynet.com,sportsseoul.com,smsonline.cloud,heureka.cz,slobodnadalmacija.hr,ap7am.com,autoby.jp,bg-mania.jp,bleepingcomputer.com,cinema.com.my,crosswordsolver.com,cruciverba.it,daily.co.jp,dailydot.com,dnevno.hr,dolldivine.com,economictimes.com,forsal.pl,gazetaprawna.pl,giornalone.it,gloria.hr,iplocation.net,j-cast.com,j-town.net,jablickar.cz,jamaicaobserver.com,jmty.jp,joemonster.org,jutarnji.hr,knowt.com,kompasiana.com,kurashiru.com,lacuarta.com,laleggepertutti.it,livenewschat.eu,lovelive-petitsoku.com,mamastar.jp,manta.com,mariowiki.com,mediaindonesia.com,mirrored.to,missyusa.com,mistrzowie.org,mlbpark.donga.com,motscroises.fr,netzwelt.de,nmplus.hk,oeffnungszeitenbuch.de,ondemandkorea.com,oradesibiu.ro,oraridiapertura24.it,palabr.as,persoenlich.com,petitfute.com,powerpyx.com,quefaire.be,rostercon.com,samsungmagazine.eu,slashdot.org,sourceforge.net,talkwithstranger.com,the-crossword-solver.com,tportal.hr,tvtv.ca,tvtv.us,upmedia.mg,watchdocumentaries.com,webdesignledger.com,wort-suchen.de,wouldurather.io,woxikon.*,yutura.net,zagreb.info,golf-live.at,motherlyvisions.com,w.grapps.me,gazetaprawna.pl,pressian.com,kreuzwortraetsel.de,verkaufsoffener-sonntag.com,raetsel-hilfe.de,horairesdouverture24.fr,nyitvatartas24.hu,convertcase.net##+js(set-local-storage-item, adshield-analytics-uuid, $remove$)
-loawa.com,ygosu.com,sportalkorea.com,edaily.co.kr,economist.co.kr,etoday.co.kr,isplus.com,hometownstation.com,honkailab.com,thestockmarketwatch.com,issuya.com,worldhistory.org,etnews.com,iusm.co.kr,dogdrip.net,etoland.co.kr,picrew.me,text-compare.com,fntimes.com,javatpoint.com,jawapos.com,lamire.jp,bamgosu.site,allthekingz.com,automobile-catalog.com,maketecheasier.com,thesaurus.net,wfmz.com,mydaily.co.kr,raenonx.cc,badmouth1.com,logicieleducatif.fr,islamicfinder.org,aikatu.jp,globalrph.com,sportsrec.com,reportera.co.kr,flatpanelshd.com,adintrend.tv,cool-style.com.tw,dziennik.pl,eurointegration.com.ua,winfuture.de,freemcserver.net,pravda.com.ua,infinityfree.com,wort-suchen.de,word-grabber.com,palabr.as,motscroises.fr,cruciverba.it,dramabeans.com,mynet.com,sportsseoul.com,smsonline.cloud,heureka.cz,slobodnadalmacija.hr,ap7am.com,autoby.jp,bg-mania.jp,bleepingcomputer.com,cinema.com.my,crosswordsolver.com,cruciverba.it,daily.co.jp,dailydot.com,dnevno.hr,dolldivine.com,economictimes.com,forsal.pl,gazetaprawna.pl,giornalone.it,gloria.hr,iplocation.net,j-cast.com,j-town.net,jablickar.cz,jamaicaobserver.com,jmty.jp,joemonster.org,jutarnji.hr,knowt.com,kompasiana.com,kurashiru.com,lacuarta.com,laleggepertutti.it,livenewschat.eu,lovelive-petitsoku.com,mamastar.jp,manta.com,mariowiki.com,mediaindonesia.com,mirrored.to,missyusa.com,mistrzowie.org,mlbpark.donga.com,motscroises.fr,netzwelt.de,nmplus.hk,oeffnungszeitenbuch.de,ondemandkorea.com,oradesibiu.ro,oraridiapertura24.it,palabr.as,persoenlich.com,petitfute.com,powerpyx.com,quefaire.be,rostercon.com,samsungmagazine.eu,slashdot.org,sourceforge.net,talkwithstranger.com,the-crossword-solver.com,tportal.hr,tvtv.ca,tvtv.us,upmedia.mg,watchdocumentaries.com,webdesignledger.com,wort-suchen.de,wouldurather.io,woxikon.*,yutura.net,zagreb.info,golf-live.at,motherlyvisions.com,w.grapps.me,gazetaprawna.pl,pressian.com,kreuzwortraetsel.de,verkaufsoffener-sonntag.com,raetsel-hilfe.de,horairesdouverture24.fr,nyitvatartas24.hu,convertcase.net##+js(set-local-storage-item, /_fa_bGFzdF9iZmFfYXQ=$/, $remove$)
-loawa.com,ygosu.com,sportalkorea.com,edaily.co.kr,economist.co.kr,etoday.co.kr,isplus.com,hometownstation.com,honkailab.com,thestockmarketwatch.com,issuya.com,worldhistory.org,etnews.com,iusm.co.kr,dogdrip.net,etoland.co.kr,picrew.me,text-compare.com,fntimes.com,javatpoint.com,jawapos.com,lamire.jp,bamgosu.site,allthekingz.com,automobile-catalog.com,maketecheasier.com,thesaurus.net,wfmz.com,mydaily.co.kr,raenonx.cc,badmouth1.com,logicieleducatif.fr,islamicfinder.org,aikatu.jp,globalrph.com,sportsrec.com,reportera.co.kr,flatpanelshd.com,adintrend.tv,cool-style.com.tw,dziennik.pl,eurointegration.com.ua,winfuture.de,freemcserver.net,pravda.com.ua,infinityfree.com,wort-suchen.de,word-grabber.com,palabr.as,motscroises.fr,cruciverba.it,dramabeans.com,mynet.com,sportsseoul.com,smsonline.cloud,heureka.cz,slobodnadalmacija.hr,ap7am.com,autoby.jp,bg-mania.jp,bleepingcomputer.com,cinema.com.my,crosswordsolver.com,cruciverba.it,daily.co.jp,dailydot.com,dnevno.hr,dolldivine.com,economictimes.com,forsal.pl,gazetaprawna.pl,giornalone.it,gloria.hr,iplocation.net,j-cast.com,j-town.net,jablickar.cz,jamaicaobserver.com,jmty.jp,joemonster.org,jutarnji.hr,knowt.com,kompasiana.com,kurashiru.com,lacuarta.com,laleggepertutti.it,livenewschat.eu,lovelive-petitsoku.com,mamastar.jp,manta.com,mariowiki.com,mediaindonesia.com,mirrored.to,missyusa.com,mistrzowie.org,mlbpark.donga.com,motscroises.fr,netzwelt.de,nmplus.hk,oeffnungszeitenbuch.de,ondemandkorea.com,oradesibiu.ro,oraridiapertura24.it,palabr.as,persoenlich.com,petitfute.com,powerpyx.com,quefaire.be,rostercon.com,samsungmagazine.eu,slashdot.org,sourceforge.net,talkwithstranger.com,the-crossword-solver.com,tportal.hr,tvtv.ca,tvtv.us,upmedia.mg,watchdocumentaries.com,webdesignledger.com,wort-suchen.de,wouldurather.io,woxikon.*,yutura.net,zagreb.info,golf-live.at,motherlyvisions.com,w.grapps.me,gazetaprawna.pl,pressian.com,kreuzwortraetsel.de,verkaufsoffener-sonntag.com,raetsel-hilfe.de,horairesdouverture24.fr,nyitvatartas24.hu,convertcase.net##+js(set-local-storage-item, /_fa_dXVpZA==$/, $remove$)
-loawa.com,ygosu.com,sportalkorea.com,edaily.co.kr,economist.co.kr,etoday.co.kr,isplus.com,hometownstation.com,honkailab.com,thestockmarketwatch.com,issuya.com,worldhistory.org,etnews.com,iusm.co.kr,dogdrip.net,etoland.co.kr,picrew.me,text-compare.com,fntimes.com,javatpoint.com,jawapos.com,lamire.jp,bamgosu.site,allthekingz.com,automobile-catalog.com,maketecheasier.com,thesaurus.net,wfmz.com,mydaily.co.kr,raenonx.cc,badmouth1.com,logicieleducatif.fr,islamicfinder.org,aikatu.jp,globalrph.com,sportsrec.com,reportera.co.kr,flatpanelshd.com,adintrend.tv,cool-style.com.tw,dziennik.pl,eurointegration.com.ua,winfuture.de,freemcserver.net,pravda.com.ua,infinityfree.com,wort-suchen.de,word-grabber.com,palabr.as,motscroises.fr,cruciverba.it,dramabeans.com,mynet.com,sportsseoul.com,smsonline.cloud,heureka.cz,slobodnadalmacija.hr,ap7am.com,autoby.jp,bg-mania.jp,bleepingcomputer.com,cinema.com.my,crosswordsolver.com,cruciverba.it,daily.co.jp,dailydot.com,dnevno.hr,dolldivine.com,economictimes.com,forsal.pl,gazetaprawna.pl,giornalone.it,gloria.hr,iplocation.net,j-cast.com,j-town.net,jablickar.cz,jamaicaobserver.com,jmty.jp,joemonster.org,jutarnji.hr,knowt.com,kompasiana.com,kurashiru.com,lacuarta.com,laleggepertutti.it,livenewschat.eu,lovelive-petitsoku.com,mamastar.jp,manta.com,mariowiki.com,mediaindonesia.com,mirrored.to,missyusa.com,mistrzowie.org,mlbpark.donga.com,motscroises.fr,netzwelt.de,nmplus.hk,oeffnungszeitenbuch.de,ondemandkorea.com,oradesibiu.ro,oraridiapertura24.it,palabr.as,persoenlich.com,petitfute.com,powerpyx.com,quefaire.be,rostercon.com,samsungmagazine.eu,slashdot.org,sourceforge.net,talkwithstranger.com,the-crossword-solver.com,tportal.hr,tvtv.ca,tvtv.us,upmedia.mg,watchdocumentaries.com,webdesignledger.com,wort-suchen.de,wouldurather.io,woxikon.*,yutura.net,zagreb.info,golf-live.at,motherlyvisions.com,w.grapps.me,gazetaprawna.pl,pressian.com,kreuzwortraetsel.de,verkaufsoffener-sonntag.com,raetsel-hilfe.de,horairesdouverture24.fr,nyitvatartas24.hu,convertcase.net##+js(set-local-storage-item, /_fa_Y2FjaGVfaXNfYmxvY2tpbmdfYWNjZXB0YWJsZV9hZHM=$/, $remove$)
-loawa.com,ygosu.com,sportalkorea.com,edaily.co.kr,economist.co.kr,etoday.co.kr,isplus.com,hometownstation.com,honkailab.com,thestockmarketwatch.com,issuya.com,worldhistory.org,etnews.com,iusm.co.kr,dogdrip.net,etoland.co.kr,picrew.me,text-compare.com,fntimes.com,javatpoint.com,jawapos.com,lamire.jp,bamgosu.site,allthekingz.com,automobile-catalog.com,maketecheasier.com,thesaurus.net,wfmz.com,mydaily.co.kr,raenonx.cc,badmouth1.com,logicieleducatif.fr,islamicfinder.org,aikatu.jp,globalrph.com,sportsrec.com,reportera.co.kr,flatpanelshd.com,adintrend.tv,cool-style.com.tw,dziennik.pl,eurointegration.com.ua,winfuture.de,freemcserver.net,pravda.com.ua,infinityfree.com,wort-suchen.de,word-grabber.com,palabr.as,motscroises.fr,cruciverba.it,dramabeans.com,mynet.com,sportsseoul.com,smsonline.cloud,heureka.cz,slobodnadalmacija.hr,ap7am.com,autoby.jp,bg-mania.jp,bleepingcomputer.com,cinema.com.my,crosswordsolver.com,cruciverba.it,daily.co.jp,dailydot.com,dnevno.hr,dolldivine.com,economictimes.com,forsal.pl,gazetaprawna.pl,giornalone.it,gloria.hr,iplocation.net,j-cast.com,j-town.net,jablickar.cz,jamaicaobserver.com,jmty.jp,joemonster.org,jutarnji.hr,knowt.com,kompasiana.com,kurashiru.com,lacuarta.com,laleggepertutti.it,livenewschat.eu,lovelive-petitsoku.com,mamastar.jp,manta.com,mariowiki.com,mediaindonesia.com,mirrored.to,missyusa.com,mistrzowie.org,mlbpark.donga.com,motscroises.fr,netzwelt.de,nmplus.hk,oeffnungszeitenbuch.de,ondemandkorea.com,oradesibiu.ro,oraridiapertura24.it,palabr.as,persoenlich.com,petitfute.com,powerpyx.com,quefaire.be,rostercon.com,samsungmagazine.eu,slashdot.org,sourceforge.net,talkwithstranger.com,the-crossword-solver.com,tportal.hr,tvtv.ca,tvtv.us,upmedia.mg,watchdocumentaries.com,webdesignledger.com,wort-suchen.de,wouldurather.io,woxikon.*,yutura.net,zagreb.info,golf-live.at,motherlyvisions.com,w.grapps.me,gazetaprawna.pl,pressian.com,kreuzwortraetsel.de,verkaufsoffener-sonntag.com,raetsel-hilfe.de,horairesdouverture24.fr,nyitvatartas24.hu,convertcase.net##+js(set-local-storage-item, /_fa_Y2FjaGVfaXNfYmxvY2tpbmdfYWRz$/, $remove$)
-loawa.com,ygosu.com,sportalkorea.com,edaily.co.kr,economist.co.kr,etoday.co.kr,isplus.com,hometownstation.com,honkailab.com,thestockmarketwatch.com,issuya.com,worldhistory.org,etnews.com,iusm.co.kr,dogdrip.net,etoland.co.kr,picrew.me,text-compare.com,fntimes.com,javatpoint.com,jawapos.com,lamire.jp,bamgosu.site,allthekingz.com,automobile-catalog.com,maketecheasier.com,thesaurus.net,wfmz.com,mydaily.co.kr,raenonx.cc,badmouth1.com,logicieleducatif.fr,islamicfinder.org,aikatu.jp,globalrph.com,sportsrec.com,reportera.co.kr,flatpanelshd.com,adintrend.tv,cool-style.com.tw,dziennik.pl,eurointegration.com.ua,winfuture.de,freemcserver.net,pravda.com.ua,infinityfree.com,wort-suchen.de,word-grabber.com,palabr.as,motscroises.fr,cruciverba.it,dramabeans.com,mynet.com,sportsseoul.com,smsonline.cloud,heureka.cz,slobodnadalmacija.hr,ap7am.com,autoby.jp,bg-mania.jp,bleepingcomputer.com,cinema.com.my,crosswordsolver.com,cruciverba.it,daily.co.jp,dailydot.com,dnevno.hr,dolldivine.com,economictimes.com,forsal.pl,gazetaprawna.pl,giornalone.it,gloria.hr,iplocation.net,j-cast.com,j-town.net,jablickar.cz,jamaicaobserver.com,jmty.jp,joemonster.org,jutarnji.hr,knowt.com,kompasiana.com,kurashiru.com,lacuarta.com,laleggepertutti.it,livenewschat.eu,lovelive-petitsoku.com,mamastar.jp,manta.com,mariowiki.com,mediaindonesia.com,mirrored.to,missyusa.com,mistrzowie.org,mlbpark.donga.com,motscroises.fr,netzwelt.de,nmplus.hk,oeffnungszeitenbuch.de,ondemandkorea.com,oradesibiu.ro,oraridiapertura24.it,palabr.as,persoenlich.com,petitfute.com,powerpyx.com,quefaire.be,rostercon.com,samsungmagazine.eu,slashdot.org,sourceforge.net,talkwithstranger.com,the-crossword-solver.com,tportal.hr,tvtv.ca,tvtv.us,upmedia.mg,watchdocumentaries.com,webdesignledger.com,wort-suchen.de,wouldurather.io,woxikon.*,yutura.net,zagreb.info,golf-live.at,motherlyvisions.com,w.grapps.me,gazetaprawna.pl,pressian.com,kreuzwortraetsel.de,verkaufsoffener-sonntag.com,raetsel-hilfe.de,horairesdouverture24.fr,nyitvatartas24.hu,convertcase.net##+js(set-local-storage-item, /_fa_Y2FjaGVfYWRibG9ja19jaXJjdW12ZW50X3Njb3Jl$/, $remove$)
+loawa.com,ygosu.com,sportalkorea.com,edaily.co.kr,economist.co.kr,etoday.co.kr,isplus.com,hometownstation.com,honkailab.com,thestockmarketwatch.com,issuya.com,worldhistory.org,etnews.com,iusm.co.kr,dogdrip.net,etoland.co.kr,picrew.me,text-compare.com,fntimes.com,javatpoint.com,jawapos.com,lamire.jp,bamgosu.site,allthekingz.com,automobile-catalog.com,maketecheasier.com,thesaurus.net,wfmz.com,mydaily.co.kr,raenonx.cc,badmouth1.com,logicieleducatif.fr,islamicfinder.org,aikatu.jp,globalrph.com,sportsrec.com,reportera.co.kr,flatpanelshd.com,adintrend.tv,cool-style.com.tw,dziennik.pl,eurointegration.com.ua,winfuture.de,freemcserver.net,pravda.com.ua,infinityfree.com,wort-suchen.de,word-grabber.com,palabr.as,motscroises.fr,cruciverba.it,dramabeans.com,mynet.com,sportsseoul.com,smsonline.cloud,heureka.cz,slobodnadalmacija.hr,ap7am.com,autoby.jp,bg-mania.jp,bleepingcomputer.com,cinema.com.my,crosswordsolver.com,cruciverba.it,daily.co.jp,dailydot.com,dnevno.hr,dolldivine.com,economictimes.com,forsal.pl,gazetaprawna.pl,giornalone.it,gloria.hr,iplocation.net,j-cast.com,j-town.net,jablickar.cz,jamaicaobserver.com,jmty.jp,joemonster.org,jutarnji.hr,knowt.com,kompasiana.com,kurashiru.com,lacuarta.com,laleggepertutti.it,livenewschat.eu,lovelive-petitsoku.com,mamastar.jp,manta.com,mariowiki.com,mediaindonesia.com,mirrored.to,missyusa.com,mistrzowie.org,mlbpark.donga.com,motscroises.fr,netzwelt.de,nmplus.hk,oeffnungszeitenbuch.de,ondemandkorea.com,oradesibiu.ro,oraridiapertura24.it,palabr.as,persoenlich.com,petitfute.com,powerpyx.com,quefaire.be,rostercon.com,samsungmagazine.eu,slashdot.org,sourceforge.net,talkwithstranger.com,the-crossword-solver.com,tportal.hr,tvtv.ca,tvtv.us,upmedia.mg,watchdocumentaries.com,webdesignledger.com,wort-suchen.de,wouldurather.io,woxikon.*,yutura.net,zagreb.info,golf-live.at,motherlyvisions.com,w.grapps.me,gazetaprawna.pl,pressian.com,kreuzwortraetsel.de,verkaufsoffener-sonntag.com,raetsel-hilfe.de,horairesdouverture24.fr,nyitvatartas24.hu,convertcase.net,nana-press.com##+js(set-local-storage-item, adshield-analytics-uuid, $remove$)
+loawa.com,ygosu.com,sportalkorea.com,edaily.co.kr,economist.co.kr,etoday.co.kr,isplus.com,hometownstation.com,honkailab.com,thestockmarketwatch.com,issuya.com,worldhistory.org,etnews.com,iusm.co.kr,dogdrip.net,etoland.co.kr,picrew.me,text-compare.com,fntimes.com,javatpoint.com,jawapos.com,lamire.jp,bamgosu.site,allthekingz.com,automobile-catalog.com,maketecheasier.com,thesaurus.net,wfmz.com,mydaily.co.kr,raenonx.cc,badmouth1.com,logicieleducatif.fr,islamicfinder.org,aikatu.jp,globalrph.com,sportsrec.com,reportera.co.kr,flatpanelshd.com,adintrend.tv,cool-style.com.tw,dziennik.pl,eurointegration.com.ua,winfuture.de,freemcserver.net,pravda.com.ua,infinityfree.com,wort-suchen.de,word-grabber.com,palabr.as,motscroises.fr,cruciverba.it,dramabeans.com,mynet.com,sportsseoul.com,smsonline.cloud,heureka.cz,slobodnadalmacija.hr,ap7am.com,autoby.jp,bg-mania.jp,bleepingcomputer.com,cinema.com.my,crosswordsolver.com,cruciverba.it,daily.co.jp,dailydot.com,dnevno.hr,dolldivine.com,economictimes.com,forsal.pl,gazetaprawna.pl,giornalone.it,gloria.hr,iplocation.net,j-cast.com,j-town.net,jablickar.cz,jamaicaobserver.com,jmty.jp,joemonster.org,jutarnji.hr,knowt.com,kompasiana.com,kurashiru.com,lacuarta.com,laleggepertutti.it,livenewschat.eu,lovelive-petitsoku.com,mamastar.jp,manta.com,mariowiki.com,mediaindonesia.com,mirrored.to,missyusa.com,mistrzowie.org,mlbpark.donga.com,motscroises.fr,netzwelt.de,nmplus.hk,oeffnungszeitenbuch.de,ondemandkorea.com,oradesibiu.ro,oraridiapertura24.it,palabr.as,persoenlich.com,petitfute.com,powerpyx.com,quefaire.be,rostercon.com,samsungmagazine.eu,slashdot.org,sourceforge.net,talkwithstranger.com,the-crossword-solver.com,tportal.hr,tvtv.ca,tvtv.us,upmedia.mg,watchdocumentaries.com,webdesignledger.com,wort-suchen.de,wouldurather.io,woxikon.*,yutura.net,zagreb.info,golf-live.at,motherlyvisions.com,w.grapps.me,gazetaprawna.pl,pressian.com,kreuzwortraetsel.de,verkaufsoffener-sonntag.com,raetsel-hilfe.de,horairesdouverture24.fr,nyitvatartas24.hu,convertcase.net,nana-press.com##+js(set-local-storage-item, /_fa_bGFzdF9iZmFfYXQ=$/, $remove$)
+loawa.com,ygosu.com,sportalkorea.com,edaily.co.kr,economist.co.kr,etoday.co.kr,isplus.com,hometownstation.com,honkailab.com,thestockmarketwatch.com,issuya.com,worldhistory.org,etnews.com,iusm.co.kr,dogdrip.net,etoland.co.kr,picrew.me,text-compare.com,fntimes.com,javatpoint.com,jawapos.com,lamire.jp,bamgosu.site,allthekingz.com,automobile-catalog.com,maketecheasier.com,thesaurus.net,wfmz.com,mydaily.co.kr,raenonx.cc,badmouth1.com,logicieleducatif.fr,islamicfinder.org,aikatu.jp,globalrph.com,sportsrec.com,reportera.co.kr,flatpanelshd.com,adintrend.tv,cool-style.com.tw,dziennik.pl,eurointegration.com.ua,winfuture.de,freemcserver.net,pravda.com.ua,infinityfree.com,wort-suchen.de,word-grabber.com,palabr.as,motscroises.fr,cruciverba.it,dramabeans.com,mynet.com,sportsseoul.com,smsonline.cloud,heureka.cz,slobodnadalmacija.hr,ap7am.com,autoby.jp,bg-mania.jp,bleepingcomputer.com,cinema.com.my,crosswordsolver.com,cruciverba.it,daily.co.jp,dailydot.com,dnevno.hr,dolldivine.com,economictimes.com,forsal.pl,gazetaprawna.pl,giornalone.it,gloria.hr,iplocation.net,j-cast.com,j-town.net,jablickar.cz,jamaicaobserver.com,jmty.jp,joemonster.org,jutarnji.hr,knowt.com,kompasiana.com,kurashiru.com,lacuarta.com,laleggepertutti.it,livenewschat.eu,lovelive-petitsoku.com,mamastar.jp,manta.com,mariowiki.com,mediaindonesia.com,mirrored.to,missyusa.com,mistrzowie.org,mlbpark.donga.com,motscroises.fr,netzwelt.de,nmplus.hk,oeffnungszeitenbuch.de,ondemandkorea.com,oradesibiu.ro,oraridiapertura24.it,palabr.as,persoenlich.com,petitfute.com,powerpyx.com,quefaire.be,rostercon.com,samsungmagazine.eu,slashdot.org,sourceforge.net,talkwithstranger.com,the-crossword-solver.com,tportal.hr,tvtv.ca,tvtv.us,upmedia.mg,watchdocumentaries.com,webdesignledger.com,wort-suchen.de,wouldurather.io,woxikon.*,yutura.net,zagreb.info,golf-live.at,motherlyvisions.com,w.grapps.me,gazetaprawna.pl,pressian.com,kreuzwortraetsel.de,verkaufsoffener-sonntag.com,raetsel-hilfe.de,horairesdouverture24.fr,nyitvatartas24.hu,convertcase.net,nana-press.com##+js(set-local-storage-item, /_fa_dXVpZA==$/, $remove$)
+loawa.com,ygosu.com,sportalkorea.com,edaily.co.kr,economist.co.kr,etoday.co.kr,isplus.com,hometownstation.com,honkailab.com,thestockmarketwatch.com,issuya.com,worldhistory.org,etnews.com,iusm.co.kr,dogdrip.net,etoland.co.kr,picrew.me,text-compare.com,fntimes.com,javatpoint.com,jawapos.com,lamire.jp,bamgosu.site,allthekingz.com,automobile-catalog.com,maketecheasier.com,thesaurus.net,wfmz.com,mydaily.co.kr,raenonx.cc,badmouth1.com,logicieleducatif.fr,islamicfinder.org,aikatu.jp,globalrph.com,sportsrec.com,reportera.co.kr,flatpanelshd.com,adintrend.tv,cool-style.com.tw,dziennik.pl,eurointegration.com.ua,winfuture.de,freemcserver.net,pravda.com.ua,infinityfree.com,wort-suchen.de,word-grabber.com,palabr.as,motscroises.fr,cruciverba.it,dramabeans.com,mynet.com,sportsseoul.com,smsonline.cloud,heureka.cz,slobodnadalmacija.hr,ap7am.com,autoby.jp,bg-mania.jp,bleepingcomputer.com,cinema.com.my,crosswordsolver.com,cruciverba.it,daily.co.jp,dailydot.com,dnevno.hr,dolldivine.com,economictimes.com,forsal.pl,gazetaprawna.pl,giornalone.it,gloria.hr,iplocation.net,j-cast.com,j-town.net,jablickar.cz,jamaicaobserver.com,jmty.jp,joemonster.org,jutarnji.hr,knowt.com,kompasiana.com,kurashiru.com,lacuarta.com,laleggepertutti.it,livenewschat.eu,lovelive-petitsoku.com,mamastar.jp,manta.com,mariowiki.com,mediaindonesia.com,mirrored.to,missyusa.com,mistrzowie.org,mlbpark.donga.com,motscroises.fr,netzwelt.de,nmplus.hk,oeffnungszeitenbuch.de,ondemandkorea.com,oradesibiu.ro,oraridiapertura24.it,palabr.as,persoenlich.com,petitfute.com,powerpyx.com,quefaire.be,rostercon.com,samsungmagazine.eu,slashdot.org,sourceforge.net,talkwithstranger.com,the-crossword-solver.com,tportal.hr,tvtv.ca,tvtv.us,upmedia.mg,watchdocumentaries.com,webdesignledger.com,wort-suchen.de,wouldurather.io,woxikon.*,yutura.net,zagreb.info,golf-live.at,motherlyvisions.com,w.grapps.me,gazetaprawna.pl,pressian.com,kreuzwortraetsel.de,verkaufsoffener-sonntag.com,raetsel-hilfe.de,horairesdouverture24.fr,nyitvatartas24.hu,convertcase.net,nana-press.com##+js(set-local-storage-item, /_fa_Y2FjaGVfaXNfYmxvY2tpbmdfYWNjZXB0YWJsZV9hZHM=$/, $remove$)
+loawa.com,ygosu.com,sportalkorea.com,edaily.co.kr,economist.co.kr,etoday.co.kr,isplus.com,hometownstation.com,honkailab.com,thestockmarketwatch.com,issuya.com,worldhistory.org,etnews.com,iusm.co.kr,dogdrip.net,etoland.co.kr,picrew.me,text-compare.com,fntimes.com,javatpoint.com,jawapos.com,lamire.jp,bamgosu.site,allthekingz.com,automobile-catalog.com,maketecheasier.com,thesaurus.net,wfmz.com,mydaily.co.kr,raenonx.cc,badmouth1.com,logicieleducatif.fr,islamicfinder.org,aikatu.jp,globalrph.com,sportsrec.com,reportera.co.kr,flatpanelshd.com,adintrend.tv,cool-style.com.tw,dziennik.pl,eurointegration.com.ua,winfuture.de,freemcserver.net,pravda.com.ua,infinityfree.com,wort-suchen.de,word-grabber.com,palabr.as,motscroises.fr,cruciverba.it,dramabeans.com,mynet.com,sportsseoul.com,smsonline.cloud,heureka.cz,slobodnadalmacija.hr,ap7am.com,autoby.jp,bg-mania.jp,bleepingcomputer.com,cinema.com.my,crosswordsolver.com,cruciverba.it,daily.co.jp,dailydot.com,dnevno.hr,dolldivine.com,economictimes.com,forsal.pl,gazetaprawna.pl,giornalone.it,gloria.hr,iplocation.net,j-cast.com,j-town.net,jablickar.cz,jamaicaobserver.com,jmty.jp,joemonster.org,jutarnji.hr,knowt.com,kompasiana.com,kurashiru.com,lacuarta.com,laleggepertutti.it,livenewschat.eu,lovelive-petitsoku.com,mamastar.jp,manta.com,mariowiki.com,mediaindonesia.com,mirrored.to,missyusa.com,mistrzowie.org,mlbpark.donga.com,motscroises.fr,netzwelt.de,nmplus.hk,oeffnungszeitenbuch.de,ondemandkorea.com,oradesibiu.ro,oraridiapertura24.it,palabr.as,persoenlich.com,petitfute.com,powerpyx.com,quefaire.be,rostercon.com,samsungmagazine.eu,slashdot.org,sourceforge.net,talkwithstranger.com,the-crossword-solver.com,tportal.hr,tvtv.ca,tvtv.us,upmedia.mg,watchdocumentaries.com,webdesignledger.com,wort-suchen.de,wouldurather.io,woxikon.*,yutura.net,zagreb.info,golf-live.at,motherlyvisions.com,w.grapps.me,gazetaprawna.pl,pressian.com,kreuzwortraetsel.de,verkaufsoffener-sonntag.com,raetsel-hilfe.de,horairesdouverture24.fr,nyitvatartas24.hu,convertcase.net,nana-press.com##+js(set-local-storage-item, /_fa_Y2FjaGVfaXNfYmxvY2tpbmdfYWRz$/, $remove$)
+loawa.com,ygosu.com,sportalkorea.com,edaily.co.kr,economist.co.kr,etoday.co.kr,isplus.com,hometownstation.com,honkailab.com,thestockmarketwatch.com,issuya.com,worldhistory.org,etnews.com,iusm.co.kr,dogdrip.net,etoland.co.kr,picrew.me,text-compare.com,fntimes.com,javatpoint.com,jawapos.com,lamire.jp,bamgosu.site,allthekingz.com,automobile-catalog.com,maketecheasier.com,thesaurus.net,wfmz.com,mydaily.co.kr,raenonx.cc,badmouth1.com,logicieleducatif.fr,islamicfinder.org,aikatu.jp,globalrph.com,sportsrec.com,reportera.co.kr,flatpanelshd.com,adintrend.tv,cool-style.com.tw,dziennik.pl,eurointegration.com.ua,winfuture.de,freemcserver.net,pravda.com.ua,infinityfree.com,wort-suchen.de,word-grabber.com,palabr.as,motscroises.fr,cruciverba.it,dramabeans.com,mynet.com,sportsseoul.com,smsonline.cloud,heureka.cz,slobodnadalmacija.hr,ap7am.com,autoby.jp,bg-mania.jp,bleepingcomputer.com,cinema.com.my,crosswordsolver.com,cruciverba.it,daily.co.jp,dailydot.com,dnevno.hr,dolldivine.com,economictimes.com,forsal.pl,gazetaprawna.pl,giornalone.it,gloria.hr,iplocation.net,j-cast.com,j-town.net,jablickar.cz,jamaicaobserver.com,jmty.jp,joemonster.org,jutarnji.hr,knowt.com,kompasiana.com,kurashiru.com,lacuarta.com,laleggepertutti.it,livenewschat.eu,lovelive-petitsoku.com,mamastar.jp,manta.com,mariowiki.com,mediaindonesia.com,mirrored.to,missyusa.com,mistrzowie.org,mlbpark.donga.com,motscroises.fr,netzwelt.de,nmplus.hk,oeffnungszeitenbuch.de,ondemandkorea.com,oradesibiu.ro,oraridiapertura24.it,palabr.as,persoenlich.com,petitfute.com,powerpyx.com,quefaire.be,rostercon.com,samsungmagazine.eu,slashdot.org,sourceforge.net,talkwithstranger.com,the-crossword-solver.com,tportal.hr,tvtv.ca,tvtv.us,upmedia.mg,watchdocumentaries.com,webdesignledger.com,wort-suchen.de,wouldurather.io,woxikon.*,yutura.net,zagreb.info,golf-live.at,motherlyvisions.com,w.grapps.me,gazetaprawna.pl,pressian.com,kreuzwortraetsel.de,verkaufsoffener-sonntag.com,raetsel-hilfe.de,horairesdouverture24.fr,nyitvatartas24.hu,convertcase.net,nana-press.com##+js(set-local-storage-item, /_fa_Y2FjaGVfYWRibG9ja19jaXJjdW12ZW50X3Njb3Jl$/, $remove$)
 2chblog.jp,2monkeys.jp,blog.jp,all-nationz.com,doorblog.jp,gekiyaku.com,eikan.liblo.jp,fesoku.net,fiveslot777.com,gamejksokuhou.com,girlsreport.net,girlsvip-matome.com,grasoku.com,gundamlog.com,imas-cg.net,jnews1.com,keyakizaka46matomemory.net,kidan-m.com,kijolifehack.com,kijomatomelog.com,kijyomatome.com,kijyomatome-ch.com,konoyubitomare.jp,livedoor.biz,matome-tarou.ldblog.jp,matomelotte.com,matometemitatta.com,netatama.net,norisoku.com,ocsoku.com,okusama-kijyo.com,otoko-honne.com,oumaga-times.com,pachinkopachisro.com,paranormal-ch.com,recosoku.com,saikyo-jump.com,shuraba-matome.com,ske48matome.net,uwakich.com,uwakitaiken.com##+js(set-local-storage-item, adshield-analytics-uuid, $remove$)
 2chblog.jp,2monkeys.jp,blog.jp,all-nationz.com,doorblog.jp,gekiyaku.com,eikan.liblo.jp,fesoku.net,fiveslot777.com,gamejksokuhou.com,girlsreport.net,girlsvip-matome.com,grasoku.com,gundamlog.com,imas-cg.net,jnews1.com,keyakizaka46matomemory.net,kidan-m.com,kijolifehack.com,kijomatomelog.com,kijyomatome.com,kijyomatome-ch.com,konoyubitomare.jp,livedoor.biz,matome-tarou.ldblog.jp,matomelotte.com,matometemitatta.com,netatama.net,norisoku.com,ocsoku.com,okusama-kijyo.com,otoko-honne.com,oumaga-times.com,pachinkopachisro.com,paranormal-ch.com,recosoku.com,saikyo-jump.com,shuraba-matome.com,ske48matome.net,uwakich.com,uwakitaiken.com##+js(set-local-storage-item, /_fa_bGFzdF9iZmFfYXQ=$/, $remove$)
 2chblog.jp,2monkeys.jp,blog.jp,all-nationz.com,doorblog.jp,gekiyaku.com,eikan.liblo.jp,fesoku.net,fiveslot777.com,gamejksokuhou.com,girlsreport.net,girlsvip-matome.com,grasoku.com,gundamlog.com,imas-cg.net,jnews1.com,keyakizaka46matomemory.net,kidan-m.com,kijolifehack.com,kijomatomelog.com,kijyomatome.com,kijyomatome-ch.com,konoyubitomare.jp,livedoor.biz,matome-tarou.ldblog.jp,matomelotte.com,matometemitatta.com,netatama.net,norisoku.com,ocsoku.com,okusama-kijyo.com,otoko-honne.com,oumaga-times.com,pachinkopachisro.com,paranormal-ch.com,recosoku.com,saikyo-jump.com,shuraba-matome.com,ske48matome.net,uwakich.com,uwakitaiken.com##+js(set-local-storage-item, /_fa_dXVpZA==$/, $remove$)
@@ -62382,10 +63003,10 @@ loawa.com,ygosu.com,sportalkorea.com,edaily.co.kr,economist.co.kr,etoday.co.kr,i
 meconomynews.com,brandbrief.co.kr,motorgraph.com,topstarnews.net##+js(noeval-if, /07c225f3\.online|content-loader\.com|css-load\.com|html-load\.com/)
 ||html-load.com^$domain=manta.com|tportal.hr|tvtropes.org|wouldurather.io|convertcase.net|zeta-ai.io
 meconomynews.com,brandbrief.co.kr,motorgraph.com##^script:has-text(KCgpPT57bGV0IGU)
-topstarnews.net,islamicfinder.org,secure-signup.net,dramabeans.com,manta.com,tportal.hr,tvtropes.org,wouldurather.io,convertcase.net##^script:has-text(error-report.com)
+topstarnews.net,islamicfinder.org,secure-signup.net,dramabeans.com,manta.com,tportal.hr,tvtropes.org,wouldurather.io,convertcase.net,nana-press.com##^script:has-text(error-report.com)
 aikatu.jp,adintrend.tv,ark-unity.com,cool-style.com.tw,doanhnghiepvn.vn,mynet.com##^script[onload*="error-report.com"]
 meconomynews.com,brandbrief.co.kr,motorgraph.com##+js(rmnt, script, KCgpPT57bGV0IGU)
-topstarnews.net,islamicfinder.org,secure-signup.net,dramabeans.com,manta.com,tportal.hr,tvtropes.org,wouldurather.io,convertcase.net##+js(rmnt, script, error-report.com)
+topstarnews.net,islamicfinder.org,secure-signup.net,dramabeans.com,manta.com,tportal.hr,tvtropes.org,wouldurather.io,convertcase.net,nana-press.com##+js(rmnt, script, error-report.com)
 ||html-load.com^$redirect=noopjs,domain=aikatu.jp|adintrend.tv|ark-unity.com|cool-style.com.tw|doanhnghiepvn.vn|mynet.com
 aikatu.jp,adintrend.tv,ark-unity.com,cool-style.com.tw,doanhnghiepvn.vn,mynet.com##+js(nostif, error-report.com)
 ||79180284.xyz^
@@ -62529,10 +63150,10 @@ bikesales.com.au##^html > head > :is([name="canonical"], [rel="canonical"]):not(
 @@||track.adtraction.com/*&url=https://www.gog.com/$popup
 ||track.adtraction.com/*^url=https://www.gog.com/$doc,urlskip=?url -blocked
 /t/t?a=*&url=http$doc,to=com|dk,urlskip=?url
-/^https?:\/\/(?:[^.]+\.){2}(?:com|io|net)\/[a-zA-Z0-9]{6}\?subId1=[^&]+&u=http/$doc,to=com|io|net,urlskip=?u +https
-/^https?:\/\/(?:[^.]+\.){2}(?:com|io|net)\/c(?:\/\d+){3}\/?\?.*?&?u=http/$doc,to=com|io|net,urlskip=?u +https
-/^https?:\/\/(?:[^.]+\.){2}(?:com|io|net)\/c(?:\/\d+){3}\/?\?.*?&?url=http/$doc,to=com|io|net,match-case,urlskip=?url +https
-/^https?:\/\/(?:[^.]+\.){2}(?:com|io|net)\/c(?:\/\d+){3}\/?\?.*?&?URL=http/$doc,to=com|io|net,match-case,urlskip=?URL +https
+/^https?:\/\/(?:[^.]+\.){2}(?:com|io|net)\/[a-zA-Z0-9]{6}\?subId1=[^&]+&u=http/$doc,to=com|io|net,urlskip=?u
+/^https?:\/\/(?:[^.]+\.){2}(?:com|io|net)\/c(?:\/\d+){3}\/?\?.*?&?u=http/$doc,to=com|io|net,urlskip=?u
+/^https?:\/\/(?:[^.]+\.){2}(?:com|io|net)\/c(?:\/\d+){3}\/?\?.*?&?url=http/$doc,to=com|io|net,match-case,urlskip=?url
+/^https?:\/\/(?:[^.]+\.){2}(?:com|io|net)\/c(?:\/\d+){3}\/?\?.*?&?URL=http/$doc,to=com|io|net,match-case,urlskip=?URL
 /^https?:\/\/www\.[a-z]+\.(?:com|net)\/click-\d{6,7}-\d{8}\b.*?[?&]url=http/$doc,to=com|net,match-case,urlskip=?url
 /^https?:\/\/www\.[a-z]+\.(?:com|net)\/click-\d{6,7}-\d{8}\b.*?[?&]URL=http/$doc,to=com|net,match-case,urlskip=?URL
 /Proxy.ashx?*&GR_URL=http$doc,urlskip=?GR_URL
@@ -62546,7 +63167,7 @@ bikesales.com.au##^html > head > :is([name="canonical"], [rel="canonical"]):not(
 ||bestbuy.7tiv.net/c/*^u=https%3A%2F%2Fwww.bestbuy.com$doc,urlskip=?u -blocked
 /r.cfm*^urllink=$document,urlskip=?urllink +https,to=shareasale-analytics.com|shareasale.com
 ||cc.*.com/v1/otc/*?merchant=*&url=http$doc,to=com,urlskip=?url
-||click.pstmrk.it/*/$document,urlskip=/\.pstmrk\.it\/[23][mst]{0,2}\/([^\/?#]+)/ -uricomponent +https
+||click.pstmrk.it/*/$doc,urlskip=/\.pstmrk\.it\/[23][mst]{0,2}\/([^\/?#]+)/ -uricomponent +https
 ||howl.me/link*^url=http$doc,urlskip=?url
 ||howl.link/link*^url=http$doc,urlskip=?url
 ||shopping.yahoo.com/rdlw*^gcReferrer=http$doc,urlskip=?gcReferrer
@@ -62564,11 +63185,11 @@ bikesales.com.au##^html > head > :is([name="canonical"], [rel="canonical"]):not(
 ||digidip.net/visit?*url=http$doc,urlskip=?url
 ||action.metaffiliation.com/trk.php*^redir=http$doc,urlskip=?redir
 ||backerkit.com/ahoy/messages/*/click?*url=http$doc,urlskip=?url
-||rd.bizrate.com/rd*^t=http$doc,urlskip=?t +https
+||rd.bizrate.com/rd*^t=http$doc,urlskip=?t
 ||engage.squarespace-mail.com/r*^u=http$doc,urlskip=?u
-/Prod/link-tracker?*redirectUrl=aHR0c$doc,urlskip=?redirectUrl -base64 -uricomponent +https
-.php?*&p=http$doc,to=awin1.com,urlskip=?p +https
-.php?*&ued=http$doc,to=awin1.com,urlskip=?ued +https
+/Prod/link-tracker?*redirectUrl=aHR0c$doc,urlskip=?redirectUrl -base64 -uricomponent
+.php?*&p=http$doc,to=awin1.com,urlskip=?p
+.php?*&ued=http$doc,to=awin1.com,urlskip=?ued
 ||x.chip.de/linktrack/button/?url=http$doc,urlskip=?url
 ||de/trck/eclick/*^url=http$doc,to=pvn.mediamarkt.de|pvn.saturn.de,urlskip=?url
 ||mailchimp.com/mctx/clicks?url=http$doc,urlskip=?url
@@ -62579,14 +63200,14 @@ bikesales.com.au##^html > head > :is([name="canonical"], [rel="canonical"]):not(
 ||t.cfjump.com/*^Url=http$doc,urlskip=?Url
 ||clixgalore.com/Lead.aspx*^LP=$doc,urlskip=?LP -uricomponent +https
 ||clixgalore.com/Lead.aspx*^AffDirectURL=$doc,urlskip=?AffDirectURL -uricomponent +https
-||ojrq.net/p/?return=http$doc,urlskip=?return +https
+||ojrq.net/p/?return=http$doc,urlskip=?return
 ||d.agkn.com/pixel/*^l1=http$doc,urlskip=?l1
-||demdex.net/*^d_rd=http$doc,urlskip=?d_rd +https
+||demdex.net/*^d_rd=http$doc,urlskip=?d_rd
 ||api.bam-x.com/api/v1/clickmate/*^url=http$doc,urlskip=?url
-||valuecommerce.com/servlet/*^vc_url=http$doc,urlskip=?vc_url +https
-||valuecommerce.com/resolve/*^u=http$doc,urlskip=?u +https
-||valuecommerce.ne.jp/cgi-bin/*^vc_url=http$doc,urlskip=?vc_url +https
-||affiliate.shopping.yahoo.co.jp/entry*^vc_url=http$doc,urlskip=?vc_url +https
+||valuecommerce.com/servlet/*^vc_url=http$doc,urlskip=?vc_url
+||valuecommerce.com/resolve/*^u=http$doc,urlskip=?u
+||valuecommerce.ne.jp/cgi-bin/*^vc_url=http$doc,urlskip=?vc_url
+||affiliate.shopping.yahoo.co.jp/entry*^vc_url=http$doc,urlskip=?vc_url
 ||tradedoubler.com/click*^url=http$doc,urlskip=?url
 ||redir.tradedoubler.com/projectr/?_td_deeplink=http$doc,urlskip=?_td_deeplink
 ||track.webgains.com/click.html*^wgtarget=http$doc,urlskip=?wgtarget
@@ -62596,9 +63217,9 @@ bikesales.com.au##^html > head > :is([name="canonical"], [rel="canonical"]):not(
 ||getprice.com.au/prodhits.aspx*^link=http$doc,urlskip=?link
 ||c.pepperjamnetwork.com/click*^url=http$doc,urlskip=?url
 ||avantlink.com/click.php*^url=http$doc,urlskip=?url
-||narrativ.com/api/v0/client_redirect/*^url=http$doc,urlskip=?url +https
+||narrativ.com/api/v0/client_redirect/*^url=http$doc,urlskip=?url
 ||queue.ulta.com/*^t=http$doc,urlskip=?t
-||click.icptrack.com/icp/relay.php*^destination=http$doc,urlskip=?destination +https
+||click.icptrack.com/icp/relay.php*^destination=http$doc,urlskip=?destination
 ||track.effiliation.com/servlet/effi.redir*^url=http$doc,urlskip=?url
 ||tradeinn.com/ts/*^trg=http$doc,urlskip=?trg
 ||fsx.i-run.fr/*^redir=http$doc,urlskip=?redir
@@ -62613,8 +63234,8 @@ bing.com##+js(href-sanitizer, a[href^="/rebates/welcome?url=http"], ?url)
 ||bing.com/alink/link?url=http$doc,urlskip=?url
 ||ds1.nl/redirect/*^dai_url=http$doc,urlskip=?dai_url
 ||c.next2.io/*^link=http$doc,urlskip=?link
-/^https?:\/\/(?:www\.anrdoezrs\.net|cj\.dotomi\.com)\/links(?:-t)?\/\d+\/sid\/[^\/]+\/http/$doc,to=cj.dotomi.com|www.anrdoezrs.net,urlskip=/\/sid\/[^\/]+\/(http[^?]+)/ +https
-||anrdoezrs.net/links/*/type/dlg/http$doc,urlskip=/\/dlg\/(http[^?]+)/ +https
+/^https?:\/\/(?:www\.anrdoezrs\.net|cj\.dotomi\.com)\/links(?:-t)?\/\d+\/sid\/[^\/]+\/http/$doc,to=cj.dotomi.com|www.anrdoezrs.net,urlskip=/\/sid\/[^\/]+\/(http[^?]+)/
+||anrdoezrs.net/links/*/type/dlg/http$doc,urlskip=/\/dlg\/(http[^?]+)/
 /tradetracker/?tt=*&r=http$doc,urlskip=?r
 ||r.bttn.io/?*&btn_pub_ref=*&btn_url=http$doc,urlskip=?btn_url
 ||r.bttn.io/?*&btn_pub_ref=*&btn_desktop_url=http$doc,urlskip=?btn_desktop_url
@@ -62630,12 +63251,13 @@ bing.com##+js(href-sanitizer, a[href^="/rebates/welcome?url=http"], ?url)
 ||sofi.com/atr/p/v1/a?u=http$doc,urlskip=?u
 ||justwatch.com/a?*^r=http$doc,urlskip=?r
 ||click.trafficguard.ai/*^lpurl=http$doc,urlskip=?lpurl
-||awstrack.me/L0/http$doc,urlskip=/\/L0\/(http[^\/?#]+)/ -uricomponent +https
+||awstrack.me/L0/http$doc,urlskip=/\/L0\/(http[^\/?#]+)/ -uricomponent
 ||gate.sc^*url=http$doc,urlskip=?url
 ||page.link/*^ofl=http$doc,urlskip=?ofl
+||invol.co/aff_m?*url=http$doc,urlskip=?url
 html.duckduckgo.com,lite.duckduckgo.com##+js(href-sanitizer, a[href^="//duckduckgo.com/l/?uddg="], ?uddg)
 starstyle.com##+js(href-sanitizer, a[href^="https://go.skimresources.com/"][href*="&url=http"], ?url)
-insidehook.com,nbcnews.com,pcpartpicker.com,space.com##+js(href-sanitizer, a[href^="https://click.linksynergy.com/"][href*="link?id="][href*="&murl=http"], ?murl)
+insidehook.com,nbcnews.com,pcpartpicker.com,space.com,tomshardware.com##+js(href-sanitizer, a[href^="https://click.linksynergy.com/"][href*="link?id="][href*="&murl=http"], ?murl)
 fap18.net,xxxmom.net,fuck55.net,gofucker.com,sexu.tv,vid123.net,babe8.net,beeg.porn##+js(href-sanitizer, a[href^="/vp/player/to/?u=http"]\, a[href^="/vp/download/goto/?u=http"], ?u)
 /vp/player/to/?u=http$doc,urlskip=?u
 /vp/download/goto/?u=http$doc,urlskip=?u
@@ -62667,8 +63289,8 @@ justwatch.com##+js(href-sanitizer, 'a[href*=".justwatch.com/a?"][href*="&r=http"
 variety.com##+js(href-sanitizer, a[href^="https://clicks.trx-hub.com/"][href*="bn5x.net"], ?q?u)
 engadget.com##+js(href-sanitizer, a[href^="https://shopping.yahoo.com/rdlw?"][href*="gcReferrer=http"], ?gcReferrer)
 cnet.com##+js(set, Object.prototype.updateModifiedCommerceUrl, noopFunc)
-cnet.com,dogfoodadvisor.com,hunker.com,insidehook.com,nbcnews.com,pcgamingwiki.com,pcpartpicker.com,purewow.com,sheknows.com,space.com,streetinsider.com,zdnet.com##+js(href-sanitizer, 'a[href*="?"][href*="u=http"]:is([href*=".com/c/"],[href*=".io/c/"],[href*=".net/c/"],[href*="?subId1="],[href^="https://affportal.bhphoto.com/dl/redventures/?"])', ?u)
-androidauthority.com,cnet.com,hunker.com,insidehook.com,jljbacktoclassic.com,nbcnews.com,otherweb.com,pcpartpicker.com,pcgamingwiki.com,purewow.com,space.com,sport-passion.fr,zdnet.com##+js(href-sanitizer, 'a[href*="?"][href*="url=http"]:is([href^="https://cc."][href*=".com/v1/otc/"][href*="merchant="],[href^="https://go.skimresources.com"],[href^="https://go.redirectingat.com"],[href^="https://shop-links.co/link"],[href^="https://track.effiliation.com/servlet/effi.redir?"],[href*=".com/a.ashx?"],[href^="https://www."][href*=".com/t/"],[href*=".prsm1.com/r?"],[href*=".com/click-"],[href*=".net/click-"],a[href*=".com/t/t?a="],a[href*=".dk/t/t?a="])', ?url)
+cnet.com,dogfoodadvisor.com,hunker.com,insidehook.com,nbcnews.com,pcgamingwiki.com,pcpartpicker.com,purewow.com,sheknows.com,space.com,streetinsider.com,tomshardware.com,zdnet.com##+js(href-sanitizer, 'a[href*="?"][href*="u=http"]:is([href*=".com/c/"],[href*=".io/c/"],[href*=".net/c/"],[href*="?subId1="],[href^="https://affportal.bhphoto.com/dl/redventures/?"])', ?u)
+androidauthority.com,cnet.com,hunker.com,insidehook.com,jljbacktoclassic.com,nbcnews.com,otherweb.com,pcpartpicker.com,pcgamingwiki.com,purewow.com,space.com,sport-passion.fr,tomshardware.com,zdnet.com##+js(href-sanitizer, 'a[href*="?"][href*="url=http"]:is([href^="https://cc."][href*=".com/v1/otc/"][href*="merchant="],[href^="https://go.skimresources.com"],[href^="https://go.redirectingat.com"],[href^="https://invol.co/aff_m?"],[href^="https://shop-links.co/link"],[href^="https://track.effiliation.com/servlet/effi.redir?"],[href*=".com/a.ashx?"],[href^="https://www."][href*=".com/t/"],[href*=".prsm1.com/r?"],[href*=".com/click-"],[href*=".net/click-"],a[href*=".com/t/t?a="],a[href*=".dk/t/t?a="])', ?url)
 space.com,tomshardware.com,zdnet.com##+js(href-sanitizer, a[href*="/Proxy.ashx?"][href*="GR_URL=http"], ?GR_URL)
 windowscentral.com##+js(href-sanitizer, a[href^="https://go.redirectingat.com/"][href*="&url=http"], ?url)
 insidehook.com,nbcnews.com,shutupandtakemyyen.com,space.com,thisiswhyimbroke.com,xda-developers.com##+js(href-sanitizer, a[href*="awin1.com/"][href*=".php?"][href*="ued=http"], ?ued)
@@ -63080,7 +63702,7 @@ maxfinishseveral.com##+js(acs, EventTarget.prototype.addEventListener, delete wi
 japscan.lol##+js(norafif, /^/)
 japscan.lol##+js(trusted-set-attr, .navbar-nav > li#navpromo2.nav-item > a, onclick, 'let a=function(){};return false;')
 japscan.lol#@#+js(rmnt, script, Good_2025)
-japscan.lol##+js(trusted-suppress-native-method, Document.prototype.querySelector, '"/^\.Fj/"', abort)
+japscan.lol##+js(rmnt, script, console)
 japscan.lol#@##main > .card:has(a[href*="/manga/?type="][href*="&content="][target="_blank"])
 japscan.lol#@#div.container > [href]
 ||japscan.lol/zjs/$script,replace=/function GoodDay\(\)\{.+?\}\}\}//
@@ -63116,7 +63738,7 @@ poophq.com,veev.to##+js(rmnt, script, /__abburi|ad-provider\.js|while\\x20\(true
 @@||c.adsco.re/|$script,domain=poophq.com|veev.to
 ||adsco.re^$xhr,important,domain=poophq.com|veev.to
 poophq.com,veev.to##+js(no-xhr-if, 162.252.214.4, true)
-poophq.com,veev.to##+js(rpnt, script, "loaded"===this.state, false)
+poophq.com,veev.to##+js(trusted-set, adscoreLibLoader.state, json:"loading")
 *$script,3p,domain=poophq.com|veev.to,redirect-rule=noopjs
 *$other,3p,denyallow=veevcdn.co,domain=poophq.com|veev.to
 @@*$ghide,xhr,domain=poophq.com|veev.to
@@ -63139,8 +63761,10 @@ panel.freemcserver.net##+js(rpnt, script, 'G-1B4LC0KT6C');, 'G-1B4LC0KT6C'); loc
 1001tracklists.com##div[class="nav tabTop"] + div > div:first-child > div:first-child > a:has(> img[src*="/"][src*="_"][alt])
 1001tracklists.com###head + div[id] > div:last-child > div > a:has(> img[src*="/"][src*="_"][alt])
 1001tracklists.com##+js(spoof-css, div[class="nav tabTop"] + div > div:first-child > div:first-child > a:has(> img[src*="/"][src*="_"][alt])\, #head + div[id] > div:last-child > div > a:has(> img[src*="/"][src*="_"][alt]), display, block)
-qn2pi272.fun,stephenking-00qvxikv.fun##+js(nowoif)
-qn2pi272.fun,stephenking-00qvxikv.fun##+js(acs, Math, localStorage['\x)
+https://github.com/uBlockOrigin/uAssets/issues/27173
+file-kg88oaak-embed.com,uw3hosfq.fun,tzodmjqs.fun,ipq9967n.fun,do3jhxk8.fun,s09di1hl.fun,a0rkwq5w.fun,mee-dp6h8dp2.com,xoywkiny.fun,filemoon-ep11lgxt.xyz,5zs4rox7.fun,ft41yaem.fun,iq9jhehu.fun,71pwq6sf.fun,vvoge3du.fun,fle-5r8dchma-moo.com,a-b-f-dd-aa-bb-ccyh5my.fun,stephenking-00qvxikv.fun##+js(nowoif)
+file-kg88oaak-embed.com,uw3hosfq.fun,tzodmjqs.fun,ipq9967n.fun,do3jhxk8.fun,s09di1hl.fun,a0rkwq5w.fun,mee-dp6h8dp2.com,xoywkiny.fun,filemoon-ep11lgxt.xyz,5zs4rox7.fun,ft41yaem.fun,iq9jhehu.fun,71pwq6sf.fun,vvoge3du.fun,fle-5r8dchma-moo.com,a-b-f-dd-aa-bb-ccyh5my.fun,stephenking-00qvxikv.fun##+js(acs, Math, localStorage['\x)
+file-kg88oaak-embed.com,uw3hosfq.fun,tzodmjqs.fun,ipq9967n.fun,do3jhxk8.fun,s09di1hl.fun,a0rkwq5w.fun,mee-dp6h8dp2.com,xoywkiny.fun,filemoon-ep11lgxt.xyz,5zs4rox7.fun,ft41yaem.fun,iq9jhehu.fun,71pwq6sf.fun,vvoge3du.fun,fle-5r8dchma-moo.com,a-b-f-dd-aa-bb-ccyh5my.fun##+js(no-xhr-if, ad)
 u26bekrb.fun##+js(set, adBlockDetected, undefined)
 $frame,3p,domain=filemoon.*|8rm3l0i9.fun,replace='/^/<script>(()=>{window.open=new Proxy(window.open,{apply:(e,t,r)=>{}});const e=new WeakMap,t=(e,t)=>{try{e.dispatchEvent(new Event(t))}catch{}};XMLHttpRequest.prototype;self.XMLHttpRequest=class extends self.XMLHttpRequest{open(t,r,...n){if(e.delete(this),new URL(r).hostname.endsWith(".cdn255.com"))return super.open(t,r,...n);const s={method:t,url:r},a=Object.assign(s,{xhr:this,headers:{date:"","content-type":"","content-length":""},url:s.url,props:{response:{value:""},responseText:{value:""},responseXML:{value:null}}});return e.set(this,a),super.open(t,r,...n)}send(...r){const n=e.get(this);return void 0===n?super.send(...r):!1===n.defer?(n.headers["content-length"]=`${n.props.response.value}`.length,Object.defineProperties(n.xhr,{readyState:{value:4},responseURL:{value:n.url},status:{value:200},statusText:{value:"OK"}}),void Object.defineProperties(n.xhr,n.props)):void Promise.resolve("").then((()=>n)).then((e=>(Object.defineProperties(e.xhr,{readyState:{value:1,configurable:!0},responseURL:{value:n.url}}),t(e.xhr,"readystatechange"),e))).then((e=>(n.headers["content-length"]=`${e.props.response.value}`.length,Object.defineProperties(e.xhr,{readyState:{value:2,configurable:!0},status:{value:200},statusText:{value:"OK"}}),t(e.xhr,"readystatechange"),e))).then((e=>(Object.defineProperties(e.xhr,{readyState:{value:3,configurable:!0}}),Object.defineProperties(e.xhr,e.props),t(e.xhr,"readystatechange"),e))).then((e=>{Object.defineProperties(e.xhr,{readyState:{value:4}}),t(e.xhr,"readystatechange"),t(e.xhr,"load"),t(e.xhr,"loadend")}))}};let r=document.querySelector("script");r.innerHTML.includes("window.open")&&r.parentElement.removeChild(r)})();<\/script>/'
 /^https:\/\/[a-z0-9]{2,}-[a-z0-9]{8}(?:-[a-z0-9]{3,})?\.[a-z]{3}\/[a-z]{1,3}\/[a-z0-9]{12}\b/$frame,3p,match-case,to=~net|~org|~gov|~edu,ipaddress=/^(1(72\.67\.\d{3}|04\.21\.\d+)\.\d+|64:ff9b::[a-f0-9]{4}:[a-f0-9]{1,4})$/,replace='/^/<script>(()=>{window.open=new Proxy(window.open,{apply:(n,o,w)=>{}});let e=document.querySelector("script");e.innerHTML.includes("window.open")&&e.parentElement.removeChild(e)})();<\/script>/i'
@@ -63159,6 +63783,7 @@ $frame,3p,domain=filemoon.*|8rm3l0i9.fun,replace='/^/<script>(()=>{window.open=n
 ||qsiyfgazubcu.top^$popup,doc
 ||sez88e.fun^$popup,doc
 ||vrkonefd.buzz^$popup,doc
+||xpobbwxzhe-l.site^$popup,doc
 *$frame,3p,replace='/^/<script>(()=>{window.open=new Proxy(window.open,{apply:(e,t,r)=>{}});const e=new WeakMap,t=(e,t)=>{try{e.dispatchEvent(new Event(t))}catch{}};XMLHttpRequest.prototype;self.XMLHttpRequest=class extends self.XMLHttpRequest{open(t,r,...n){if(e.delete(this),new URL(r).hostname.endsWith(".cdn255.com"))return super.open(t,r,...n);const s={method:t,url:r},a=Object.assign(s,{xhr:this,headers:{date:"","content-type":"","content-length":""},url:s.url,props:{response:{value:""},responseText:{value:""},responseXML:{value:null}}});return e.set(this,a),super.open(t,r,...n)}send(...r){const n=e.get(this);return void 0===n?super.send(...r):!1===n.defer?(n.headers["content-length"]=`${n.props.response.value}`.length,Object.defineProperties(n.xhr,{readyState:{value:4},responseURL:{value:n.url},status:{value:200},statusText:{value:"OK"}}),void Object.defineProperties(n.xhr,n.props)):void Promise.resolve("").then((()=>n)).then((e=>(Object.defineProperties(e.xhr,{readyState:{value:1,configurable:!0},responseURL:{value:n.url}}),t(e.xhr,"readystatechange"),e))).then((e=>(n.headers["content-length"]=`${e.props.response.value}`.length,Object.defineProperties(e.xhr,{readyState:{value:2,configurable:!0},status:{value:200},statusText:{value:"OK"}}),t(e.xhr,"readystatechange"),e))).then((e=>(Object.defineProperties(e.xhr,{readyState:{value:3,configurable:!0}}),Object.defineProperties(e.xhr,e.props),t(e.xhr,"readystatechange"),e))).then((e=>{Object.defineProperties(e.xhr,{readyState:{value:4}}),t(e.xhr,"readystatechange"),t(e.xhr,"load"),t(e.xhr,"loadend")}))}};let r=document.querySelector("script");r.innerHTML.includes("window.open")&&r.parentElement.removeChild(r)})();<\/script>/',from=u6lyxl0w.skin
 dogdrip.net##html[lang="ko"] [id^="img_"][style]:has(iframe[frameborder="0"][style]):style(clip-path: circle(0) !important;)
 infinityfree.com##html[lang][dir="ltr"] [id^="img_"][style]:has(iframe[frameborder="0"][style]):style(clip-path: circle(0) !important;)
@@ -63175,22 +63800,13 @@ slashdot.org##+js(aeld, , )](this\,...)
 -load.com/script/$xhr,domain=smsonline.cloud
 smsonline.cloud##+js(nostif, (new Error(, 3000-6000)
 smsonline.cloud##aside[class^="css-"]:has(> p:has-text(Advertisement) + ins.adsbygoogle)
-||report.error-report.com^$frame,badfilter
 bing.com##+js(set-attr, 'li.b_algo:has(a[h^="ID=SERP,"][h$=",Ads"])', ads, 1)
 bing.com##li.b_algo[ads="1"]
-rekidai-info.github.io##+js(nostif, /aframe|querySelector/, 1000-)
-rekidai-info.github.io##+js(nosiif, location[_0x)
 ||photopea.com^$doc,replace=/<head>/<head><script>if (typeof localStorage !== 'undefined' && typeof JSON.parse(localStorage._ppp)['0_uid'] === 'undefined') {const originalvisualViewport=window.visualViewport; Object.defineProperty(window, 'visualViewport', {value: new Proxy(originalvisualViewport, {get(target,property) {if (property === 'width') {return document.documentElement.offsetWidth+320} return target[property]}}), configurable:true});}<\/script>/,badfilter
 photopea.com#@#+js(trusted-rpnt, script, added=false;, "added=false;if (typeof localStorage !== 'undefined' && typeof JSON.parse(localStorage._ppp)['0_uid'] === 'undefined') {const originalvisualViewport=window.visualViewport; Object.defineProperty(window, 'visualViewport', {value: new Proxy(originalvisualViewport, {get(target,property) {if (property === 'width') {return document.documentElement.offsetWidth+320} return target[property]}}), configurable:true});}")
-loom.com#@#+js(prevent-fetch, loom.com/insights-api/graphql)
-||loom.com/insights-api/graphql$badfilter
-/ajax/embed-4/banners|$xhr
-/ajax/banner/vpn|$xhr
-/ajax/banners?page=$xhr,1p
-*$script,3p,denyallow=cloudfront.net|disqus.com|disquscdn.com|fastlylb.net,domain=weloma.*,badfilter
-*$script,3p,denyallow=cloudflare.net|cloudfront.net|disqus.com|disquscdn.com|fastlylb.net|jsdelivr.net,domain=weloma.art
-||commoninja.com^$3p,badfilter
 oogiri-chaya.com#@#.adsText
+ameblo.jp#@##entryLi > li.skin-mod-bg-color.skinOpacity
+ameblo.jp#@#div[class^="_"]:empty
 
 filecrypt.*##^script:has-text('{delete window[')
 filecrypt.*##+js(rmnt, script, '{delete window[')
@@ -63383,6 +63999,8 @@ hunterscomics.com##+js(rmnt, script, '{delete window[')
 hunterscomics.com##+js(no-fetch-if, /googlesyndication|doubleclick/, length:10, {"type": "cors"})
 hunterscomics.com##+js(no-xhr-if, pubfuture, length:10)
 /^https:\/\/hunterscomics\.com\/wp-content\/themes(\/[a-f]{6}){2}\.js\?ver=/$script,1p,domain=hunterscomics.com
+bigwarp.io##+js(rmnt, script, popundersPerIP)
+||agl002.org^
 ||bigwarp.io/images/close.png$image
 bigwarp.io###blk1:style(display: none !important;)
 ||visiblyhiemal.shop^
@@ -63548,6 +64166,10 @@ adbypass.org,bypass.city##+js(aopr, Adcash)
 afreesms.com##+js(acs, onload, adblock)
 onlyssh.my.id,whyvpn.my.id##+js(acs, document.querySelector, akadb)
 worldlivetv.stream##.link_overlay
+hi0ti780.fun,a-b-f-dd-aa-bb-ccyh5my.fun,fle-5r8dchma-moo.com,oimsmosy.fun##+js(nowoif)
+hi0ti780.fun,a-b-f-dd-aa-bb-ccyh5my.fun,fle-5r8dchma-moo.com,oimsmosy.fun##+js(acs, Math, localStorage['\x)
+@@?*=$xhr,1p,strict1p,method=get,domain=hi0ti780.fun|a-b-f-dd-aa-bb-ccyh5my.fun|fle-5r8dchma-moo.com|oimsmosy.fun
+cookni.net##+js(no-xhr-if, adsbygoogle)
 
 *_ad_$media,domain=youtube.com,3p
 tv.youtube.com##+js(trusted-replace-xhr-response, '"adPlacements"', '"no_ads"', /playlist\?list=|\/player(?:\?.+)?$|watch\?[tv]=/)
@@ -68991,7 +69613,6 @@ rawstory.com###rc-widget-d9572e
 rawstory.com##[id^="spink_appeal_box"]
 gonzoporn.cc,onlinexxx.cc,tvporn.cc##+js(acs, decodeURI, decodeURIComponent)
 gonzoporn.cc,onlinexxx.cc,tvporn.cc##+js(aopr, exoJsPop101)
-kimochi.info##+js(nosiif, visibility, 1000)
 *$script,redirect-rule=noopjs,domain=linternaute.com
 @@||googletagmanager.com/gtm.js$script,domain=linternaute.com
 samash.com##+js(acs, document.getElementById, for-variations)
