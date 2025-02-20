@@ -8,7 +8,7 @@
 
 ## 📅 **Thông Tin Cập Nhật**
 
-- **Website**: [Lowji194](https://lowji194.github.io)
+- **Website**: [Lowji194](https://theloi.io.vn/)
 - **Dành cho**: uBlock Origin / AdGuard
 - **Tác giả**: Nguyễn Thế Lợi
 - **Mô tả**: Bộ lọc chặn quảng cáo
