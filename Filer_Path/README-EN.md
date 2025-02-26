@@ -8,7 +8,7 @@ This is an advanced ad filter developed by **Nguyen The Loi**. This filter is de
 
 ## 📅 **Update Information**
 
-- **Website**: [Lowji194 Website](https://lowji194.github.io)
+- **Website**: [Lowji194](https://theloi.io.vn/)
 - **For**: uBlock Origin / AdGuard
 - **Author**: Nguyen The Loi
 - **Description**: Ad Blocker Filter
