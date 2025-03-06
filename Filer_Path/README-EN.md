@@ -48,6 +48,8 @@ This filter can be used on browsers that support **uBlock Origin** or **AdGuard*
     https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/Filer_Path/Filter_ADS_P2.txt
     https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/Filer_Path/Filter_ADS_P3.txt
     https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/Filer_Path/Filter_ADS_P4.txt
+    https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/Filer_Path/Filter_ADS_P5.txt
+    https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/Filer_Path/Filter_ADS_P6.txt
 
 
 ### 3. **Enable Filter**
