@@ -8,16 +8,518 @@
 !                               __/ |       __/ |                  !
 !                              |___/       |___/                   !
 !------------------------------------------------------------------!
-! Title:🇻🇳Bộ lọc quảng cáo [P4 - 01-04-2025🔥]   
+! Title:🇻🇳Bộ lọc quảng cáo [P4 - 04-04-2025🔥]   
 ! 🌐 Website: http://github.com/lowji194
 ! 🔥 Profile bộ lọc chặn quảng cáo nâng cao 🔥
-! 📅 Cập nhật: 01-04-2025
+! 📅 Cập nhật: 04-04-2025
 ! 🛠️ Dành cho: uBlock Origin / AdGuard
 ! 👤 Tác giả: Nguyễn Thế Lợi
 ! 📌 Mô tả: Bộ lọc chặn quảng cáo
 ! 📞 SĐT: 0963 159 294
 ! 👮 Facebook: https://www.facebook.com/Lowji194
 !------------------------------------------------------------------!
+||fmnetwork.nl^
+||izooto.com^
+||userreplay.net^
+||smartlook.com^
+||mwtraf.mobi^
+||wbtrk.net^
+||soska.us^
+||getbeacon.io^
+||wzrkt.com^
+||ymetrica.com^
+||dep-x.com^
+||quantcount.com^
+||fandommetrics.com^
+||szsmtk.com^
+||phywi.org^
+||hexagon-analytics.com^
+||stat.media^
+||akstat.io^
+||top10sportsites.com^
+||otik.de^
+||bounce-ads.de^
+||def-platform.com^
+||globalwebindex.net^
+||pfxlive.com^
+||fogl1onf.com^
+||technical-service.net^
+||pro100news.ru^
+||trgtcdn.com^
+||counterfire.info^
+||props.id^
+||gft2.de^
+||geoplugin.net^
+||ktrackdata.com^
+||tda.io^
+||statpipe.ru^
+||bizrate.com^
+||audienceinsights.net^
+||adplus.io^
+||adheart.de^
+||interakt.ru^
+||dmpcloud.net^
+||tanidigital.com^
+://tru.am^
+||0emm.com^
+||0stats.com^
+||1-cl0ud.com^
+||103bees.com^
+||105app.com^
+||11nux.com^
+||123-counter.de^
+||123compteur.com^
+||123count.com^
+||180.76.2.18^
+||1freecounter.com^
+||1pel.com^
+||200stran.ru^
+||200summit.com^
+||204st.us^
+||206solutions.com^
+||247ilabs.com^
+||24counter.com^
+||24log.com^
+||24log.de^
+||24log.ru^
+||2cnt.net^
+||360i.com^
+||360tag.com^
+||360tag.net^
+||3dlivestats.com^
+||3dstats.com^
+||3gl.net^
+||40nuggets.com^
+||4oney.com^
+||4stats.de^
+||50bang.org^
+||55labs.com^
+||66.228.52.30^
+||67.228.151.70^
+||6sc.co^
+||74.55.82.102^
+||77tracking.com^
+||79.125.117.123^
+||7bpeople.com^
+||8020solutions.net^
+||99counters.com^
+||99stats.com^
+||9nl.eu^
+||a-cast.jp^
+||a-counter.kiev.ua^
+||a-counters.com^
+||a-pagerank.net^
+||a013.com^
+||a8ww.net^
+||aaddzz.com^
+||aamsitecertifier.com^
+||abcompteur.com^
+||abcstats.com^
+||abmr.net^
+||absolstats.co.za^
+||acc-hd.de^
+||access-analyze.org^
+||accessintel.com^
+||acecounter.com^
+||acetrk.com^
+||acexedge.com^
+||acint.net^
+||acq.io^
+||acs86.com^
+||active-tracking.de^
+||active-trk7.com^
+||active24stats.nl^
+||activeconversion.com^
+||activemeter.com^
+||activeprospects.com^
+||actnx.com^
+||acxiom-online.com^
+||adc-serv.net^
+||adchemix.com^
+||adchemy.com^
+||adclear.net^
+||addfreestats.com^
+||adelixir.com^
+||adgreed.com^
+||adinsight.com^
+||adinsight.eu^
+||adku.co^
+||adku.com^
+||admantx.com^
+||adobetag.com^
+||adoftheyear.com^
+||adrank24.de^
+||adsensedetective.com^
+||adsettings.com^
+||adspsp.com^
+||adtarget.me^
+||adtelligence.de^
+||adtraxx.de^
+||adultblogtoplist.com^
+||advanced-web-analytics.com^
+||advconversion.com^
+||adyapper.com^
+||adagency.digital^
+||affilae.com^
+||affiliateedge.eu^
+||affinesystems.com^
+||affinitymatrix.com^
+||affistats.com^
+||afsanalytics.com^
+||agentinteractive.com^
+||agillic.eu^
+||agilone.com^
+||agkn.com^
+||aimediagroup.com^
+||airpr.com^
+||akanoo.com^
+||akstat.com^
+||alenty.com^
+||alexacdn.com^
+||alltracked.com^
+||altabold1.com^
+||altastat.com^
+||alvenda.com^
+||alzexa.com^
+||amadesa.com^
+||amavalet.com^
+||amazingcounters.com^
+||amazy.ru^
+||ambercrow.com^
+||amikay.com^
+||amung.us^
+||analoganalytics.com^
+||analyticswizard.com^
+||anametrix.com^
+||anametrix.net^
+||andersenit.dk^
+||andyhoppe.com^
+||angelfishstats.com^
+||angsrvr.com^
+||announcement.ru^
+||anormal-tracker.de^
+||anti-cheat.info^
+||apexstats.com^
+||apextwo.com^
+||apicit.net^
+||apkonline.ru^
+||apollofind.com^
+||appboycdn.com^
+||aprtx.com^
+||aqtracker.com^
+||arcadeweb.com^
+||arena-quantum.co.uk^
+||arkayne.com^
+||arlime.com^
+||arpxs.com^
+||arrowpushengine.com^
+||artefact.is^
+||assoctrac.com^
+||astro-way.com^
+||bm-rx.atatus.com^
+||br-rx.atatus.com^
+||athenainstitute.biz^
+||atraxio.com^
+||atsfi.de^
+||attracta.com^
+||audienceamplify.com^
+||audienceiq.com^
+||audiencerate.com^
+||audrte.com^
+||authorinsights.com^
+||auto-ping.com^
+||autoaffiliatenetwork.com^
+||autoaudience.com^
+||autoid.com^
+||avastats.com^
+||avazudsp.net^
+||avencio.de^
+||avenseo.com^
+||avmws.com^
+||avstat.it^
+||awasete.com^
+||awesomelytics.com^
+||awin1.com^
+||axf8.net^
+||azera-s014.com^
+||b1img.com^
+||b2c.com^
+||babator.com^
+||backlink-test.de^
+||backlinkdino.de^
+||bam-x.com^
+||baptisttop1000.com^
+||barilliance.net^
+||basicstat.com^
+||basilic.io^
+||baynote.net^
+||beanstalkdata.com^
+||beemrdwn.com^
+||beencounter.com^
+||behavioralengine.com^
+||bekannt-im-web.de^
+||beliebtestewebseite.de^
+||belstat.be^
+||belstat.com^
+||belstat.de^
+||belstat.fr^
+||belstat.nl^
+||berg-6-82.com^
+||best-top.de^
+||best-top.ro^
+||besucherstats.de^
+||besucherzaehler-counter.de^
+||besucherzaehler-homepage.de^
+||besucherzaehler-zugriffszaehler.de^
+||besucherzaehler.org^
+||besucherzahlen.com^
+||betarget.com^
+||betarget.de^
+||bfoleyinteractive.com^
+||bhs4.com^
+||bid.run^
+||bidswitch.net^
+||bigcattracks.com^
+||bigsauron.ru^
+||bigstats.net^
+||bigtracker.com^
+||bionicclick.com^
+||bizible.com^
+||bizo.com^
+||bizspring.net^
+||bkvtrack.com^
+||blockbreaker.io^
+||blockmetrics.com^
+||blog-o-rama.de^
+||blog-stat.com^
+||blog-webkatalog.de^
+||blog104.com^
+||blogcounter.com^
+||blogcounter.de^
+||bloggeramt.de^
+||bloggerei.de^
+||blogmeetsbrand.com^
+||blogpatrol.com^
+||blogrankers.com^
+||blogreaderproject.com^
+||blogsontop.com^
+||blogtraffic.de^
+||blogtw.net^
+||blueconic.net^
+||bluecounter.de^
+||bluekai.com^
+||blvdstatus.com^
+||bm23.com^
+||bmlmedia.com^
+||bmmetrix.com^
+||bonitrust.de^
+||bonuscounter.de^
+||boomerang.com.au^
+||boomtrain.com^
+||botscanner.com^
+||botsvisit.com^
+||bounceexchange.com^
+||bouncex.com^
+||brat-online.ro^
+||brcdn.com^
+||bridgevine.com^
+||brightedge.com^
+||brilig.com^
+||bronto.com^
+||browser-statistik.de^
+||browser-update.org^
+||brsrvr.com^
+||bstn-14-ma.com^
+||btbuckets.com^
+||btttag.com^
+||bubblestat.com^
+||burstbeacon.com^
+||burt.io^
+||bux1le001.com^
+||buzzdeck.com^
+||bytemgdd.com^
+||c-o-u-n-t.com^
+||c1exchange.com^
+||c3metrics.com^
+||c3tag.com^
+||c4tw.net^
+||cadreon.com^
+||call-tracking.co.uk^
+||callisto.fm^
+||callmeasurement.com^
+||callrail.com^
+||calltrackingmetrics.com^
+||calltracks.com^
+||campaigncog.com^
+||canddi.com^
+||canopylabs.com^
+||caphyon-analytics.com^
+||captify.co.uk^
+||captivate.ai^
+||cashburners.com^
+||cashcount.com^
+||cccpmo.com^
+||cedexis.com^
+||celebros-analytics.com^
+||certifica.com^
+||cetrk.com^
+||cftrack.com^
+||chart.dk^
+||chartaca.com^
+||chartbeat.com^
+||chartbeat.net^
+||checkeffect.at^
+||checkstat.nl^
+||christiantop1000.com^
+||christmalicious.com^
+||circle.am^
+||cityua.net^
+||claritytag.com^
+||cleveritics.com^
+||clevi.com^
+||click-url.com^
+||click4assistance.co.uk^
+||clickable.net^
+||clickaider.com^
+||clickalyzer.com^
+||clickclick.net^
+||clickdensity.com^
+||clickening.com^
+||clickforensics.com^
+||clicki.cn^
+||clickmanage.com^
+||clickmap.ch^
+||clickmeter.com^
+||clickpathmedia.com^
+||clickprotector.com^
+||clickreport.com^
+||clicksagent.com^
+||clicksen.se^
+||clickshift.com^
+||clicktale.net^
+||clicktracks.com^
+||clickzs.com^
+||clickzzs.nl^
+||clixcount.com^
+||clixpy.com^
+||cloud-exploration.com^
+||cloudtracer101.com^
+||clubcollector.com^
+||cmcore.com^
+||cmmeglobal.com^
+||cmptch.com^
+||cms.lv^
+||cnetcontentsolutions.com^
+||cnstats.ru^
+||cnt1.net^
+||cnxweb.com^
+||cnzz.net^
+||codata.ru^
+||cogmatch.net^
+||cognitivematch.com^
+||cointent.com^
+||collarity.com^
+||collserve.com^
+||commander1.com^
+||company-target.com^
+||compteur-gratuit.org^
+||compteur.cc^
+||confirmational.com^
+||contactmonkey.com^
+||contadorgratis.com^
+||contadorgratis.es^
+||contadorweb.com^
+||contatoreaccessi.com^
+||contemporaryceremonies.ca^
+||contentexchange.me^
+||contentinsights.com^
+||contentspread.net^
+||continue.com^
+||convergetrack.com^
+||conversionlogic.net^
+||conversionly.com^
+||conversionruler.com^
+||convertglobal.com^
+||convertro.com^
+||cooladata.com^
+||copperegg.com^
+||core-cen-54.com^
+||coremetrics.com^
+||coremotives.com^
+||cosmi.io^
+||cost1action.com^
+||count.fr^
+||count24.de^
+||countar.de^
+||countby.com^
+||counter-go.de^
+||counter-gratis.com^
+||counter-kostenlos.info^
+||counter-kostenlos.net^
+||counter-treff.de^
+||counter.de^
+||counter.gd^
+||counter27.ch^
+||counterbot.com^
+||countercentral.com^
+||countercity.de^
+||countercity.net^
+||countergeo.com^
+||counterland.com^
+||counterlevel.de^
+||counteronline.de^
+||counters4u.com^
+||counterseite.de^
+||counterserver.de^
+||countersforlife.com^
+||counterstation.de^
+||counterstatistik.de^
+||countertracker.com^
+||counthis.com^
+||counti.de^
+||counting4free.com^
+||countino.de^
+||countit.ch^
+||countnow.de^
+||counto.de^
+||countok.de^
+||countomat.com^
+||countus.fr^
+||countyou.de^
+||countz.com^
+||cpcmanager.com^
+||cpx.to^
+||cqcounter.com^
+||cquotient.com^
+||craftkeys.com^
+||craktraffic.com^
+||crazyegg.com^
+||crmmetrixwris.com^
+||crosspixel.net^
+||crosswalkmail.com^
+||crowdscience.com^
+||crowdskout.com^
+||crwdcntrl.net^
+||csdata1.com^
+||cuntador.com^
+||customerconversio.com^
+||cya1t.net^
+||cya2.net^
+||cypr.com^
+||dacounter.com^
+||dapxl.com^
+||dashboard.io^
+||databrain.com^
+||datacaciques.com^
+||datafeedfile.com^
+||datam.com^
+||datamaster.com.cn^
+||dataperforma.com^
+||datarating.com^
+||datvantage.com^
+||dc-storm.com^
+||de17a.com^
+||decdna.net^
 ||decibelinsight.net^
 ||decideinteractive.com^
 ||demandbase.com^
@@ -47151,6 +47653,8 @@
 ||wz.allianz.fr^
 ||d1udjti6mtxz9q.cloudfront.net^
 |piwik.
+||sy.ameba.jp^
+||tracker.uira.live^
 ||col.surfside.io^
 ||tsn.dmcmedia.co.kr^
 ||ms.dzen.ru^
@@ -48037,7 +48541,6 @@
 ||analytics.slidesai.io^
 ||idat.production.ippen.space^
 ||snowy.bellroy.com^
-||res.regoo.com^
 ||analytics.crea.ca^
 ||stat.airdroid.com^
 ||tracker.ranker.com^
@@ -49850,7 +50353,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 ||ulog-sdk.gifshow.com^
-||ulogs*.gifshow.com^
+||ulog*.gifshow.com^
 ||logapi-and.zhipin.com^
 ||hilton.data.adobedc.net^
 ||asanalytics.booking.com^
@@ -52453,7 +52956,6 @@ inapps.appsflyersdk.com^
 ||bc-news.net^
 ||cnb.cnews.ru^
 ||api-fangarma.utyug.media^
-||dr5.biz^
 ||kasfas.com^
 ||abqjst.com^
 ||adwist.ru^
@@ -54999,6 +55501,11 @@ inapps.appsflyersdk.com^
 ||azol.de^
 ||twiago.com^
 ||bauernative.com^
+||xj-oss.com^
+||ookaso.com^
+||uuaisp.com^
+||hauqoa.com^
+||telecome.cn^
 ||aizhantj.com^
 ||sm-cloud.yunsafe.top^
 ||dwyeuy.com^
@@ -55873,8 +56380,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-03-31 05:34:03 CEST
-# entries:        1110
+# last updated:   2025-04-01 05:50:53 CEST
+# entries:        1108
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -55936,6 +56443,7 @@ inapps.appsflyersdk.com^
 ||analytics.icagruppen.se^
 ||analytics.ica.se^
 ||analytics.kb.se^
+||analytics.lexbase.se^
 ||analytics.mabra.com^
 ||analytics.motherhood.se^
 ||analytics.nikkasystems.com^
@@ -55975,7 +56483,6 @@ inapps.appsflyersdk.com^
 ||banner.bet365partners.com^
 ||banners.instaforex.com^
 ||banners.wsnonline.dk^
-||barbours.com.se^
 ||bcm.interactives.dk^
 ||bellmetric.net^
 ||bettingstugan.se^
@@ -56166,7 +56673,6 @@ inapps.appsflyersdk.com^
 ||nitroscripts.com^
 ||norranstats.azurewebsites.net^
 ||ntrfr.expekt.se^
-||nucleusanalytics.io^
 ||omni-ad-blocket.herokuapp.com^
 ||openx.financialpublishers.nl^
 ||openx.gamereactor.dk^
@@ -56282,7 +56788,6 @@ inapps.appsflyersdk.com^
 ||tourn.co^
 ||tourn.se^
 ||tr.apsisforms.com^
-||track.yetric.app^
 ||tracker.zummycloud.com^
 ||tracker.kollega.open-analytics.se^
 ||tracker.kulturradet.open-analytics.se^
@@ -56491,50 +56996,33 @@ inapps.appsflyersdk.com^
 ||188affiliates.com^
 ||accesstrade.co.id^
 ||ad-loupe.com^
-||adbsys.icu^
 ||addesigner.com^
 ||admarketplace.net^
 ||adnety.com^
 ||adpop-1.com^
-||adpstatic.com^
 ||adreach.co^
-||adreviewcamp.com^
-||ads-link.net^
 ||ads.d21.media^
 ||ads.indosatooredoo.com^
 ||ads.telkomsel.com^
 ||adsbingo.com^
-||adscpm.site^
-||adshost.site^
 ||adsimg.kompas.com^
 ||adstarsmedia.co.id^
-||adtimeselaras.com^
 ||alertpay.com^
 ||ampclicks.com^
-||anekaiklan.com^
 ||baliadv.com^
 ||bellaads.com^
 ||brand.ad^
-||caribanner.bid^
 ||cdnasiaclub.com^
 ||cfs.uzone.id^
 ||cfs2.uzone.id^
-||clickmedia.co.id^
-||compulsivehemisphere.com^
 ||csf.uzone.id^
-||d01.notifa.info^
-||dewsburg.info^
 ||digiads.co.id^
-||ena-native-ads4.com^
 ||etoads.net^
-||filebanner.com^
 ||forumiklan.com^
-||goingsilltrusty.com^
 ||groupiklan.com^
 ||gudangbanner.com^
 ||halal.ad^
 ||herdethi.net^
-||hosillfir.site^
 ||ibnads.xl.co.id^
 ||iklan-laris.com^
 ||iklanads.com^
@@ -56544,76 +57032,42 @@ inapps.appsflyersdk.com^
 ||iklanbogor.com^
 ||iklandenpasar.com^
 ||iklangratis.com^
-||iklangratis88.com^
 ||iklanhemat.com^
 ||iklanhoki.com^
 ||iklanoke.com^
 ||iklantelevisi.com^
 ||iklantext.com^
-||iklantop.net^
 ||iklanumum.com^
 ||indoadsnet.com^
 ||indobanner.com^
-||indofreeads.com^
 ||istana-impian.com^
-||istana-impian2.com^
-||istanaiklan.com^
 ||istanaimpian1.com^
 ||istanaimpian2.com^
 ||istanaimpian3.com^
-||jagoiklan.com^
 ||jagopromo.com^
 ||jasaiklan.com^
-||javaiklan.com^
 ||klikajadeh.com^
-||kotaksilver.casa^
 ||lokeriklan.com^
 ||luckyads.com^
-||luven.xyz^
-||masteriklan.net^
-||mediab.uy^
 ||mesiniklan.andipublisher.com^
-||newsupdatewe.info^
 ||offdeck.telkomsel.com^
 ||offerjuice.me^
-||onigagalai.ru^
 ||openadserving.com^
-||p01.notifa.info^
-||p02.notifa.info^
-||p03.notifa.info^
-||p04.notifa.info^
-||p05.notifa.info^
 ||padssup.com^
 ||paidforfree.com^
-||parentelement.ml^
 ||pasangiklan.com^
-||pasariklanbaris.com^
-||payingbeswim.com^
 ||paypopup.com^
 ||pc3ads.com^
 ||pondokiklan.com^
 ||popclck.net^
-||popunderjs.club^
-||presbanise.pw^
-||promobagus.com^
 ||promotioncamp.com^
 ||publish.web.id^
-||pusatiklan.com^
-||s2pops.club^
 ||sanglah.com^
 ||sarapbeh.com^
-||scriptall.ml^
-||sebar.idblognetwork.com^
 ||see-work.info^
-||sentrapromosi.com^
-||serbapromo.com^
-||shiiuojjccp.com^
 ||shiokambing2.com^
 ||sitti.co.id^
-||situsiklanbaris.com^
-||spanuletubings.com^
 ||sumberiklan.com^
-||suryaiklan.com^
 ||teliad.com^
 ||theclickers.net^
 ||tinggalklik.com^
@@ -56623,94 +57077,31 @@ inapps.appsflyersdk.com^
 ||uadexchange.com^
 ||useads.com^
 ||webiklan.com^
-||weblogiklan.com^
 ||yesads.com^
-||34667c8ece5.com^
 ||64p3am9x95ct.com^
-||9icmzvn6.website^
 ||a63t9o1azf.com^
 ||abrts.pro^
 ||adeumssp.com^
 ||afbcashidr.com^
-||ahcnxuepput.com^
-||aj1052.online^
-||aopxnvrugx.com^
 ||auredzeon.com^
-||axzsd.pro^
-||azxsd.pro^
-||bcajjtbzmdrl.com^
-||bubblekraken.com^
-||chqspuonctkgz.com^
 ||craydark.pw^
-||daero.pw^
-||dearerfonder.info^
 ||edomz.com^
-||edspectsm.fun^
 ||flexterkita.com^
-||furocmay.com^
 ||gbrrrxbodqdlq.com^
-||ghaahq.com^
-||hegarberetrof.pro^
-||hoegutvie.com^
-||ihqfiimrbcf.com^
-||iupqelechcmj.com^
 ||iwtserve.com^
-||jjekxle.com^
-||juruiklan.com^
-||kdbumyha.com^
-||kozoysnsx.com^
-||ld82ydd.com^
-||leoceran.pw^
-||lpaizureik.com^
-||lsgqlgoc.com^
 ||midgerelativelyhoax.com^
-||mifsirnhvvrps.top^
-||motosal.net^
 ||mousheen.net^
-||naetoris.pw^
-||oardjnay.com^
-||olkrzytv.com^
-||ourtherss.top^
-||phudrour.net^
-||pvwtkxcpsrcsd.com^
-||q1xyxm89.com^
-||replase.gq^
-||replase.ml^
-||ridingintractable.com^
-||sekaneemits.com^
-||shiiticprating.com^
-||shqbsdjatunl.com^
-||tidnqztumpnk.com^
-||torflegorb.com^
-||trendlope.com^
-||trvwjyjgkgeagd.com^
-||tummiarunzpf.com^
-||uamrnaakv.com^
 ||ueuodgnrhb.com^
-||uieoogjarimcey.com^
-||uoarbhxfyygn.com^
-||uofmnbkm.com^
-||vrewpywootyu.com^
-||wbaogaqvrukprx.com^
-||whjibbprhng.com^
-||wkuave.com^
-||ys3e965d.top^
-||zuyejecgb.com^
-||browsertelemetry.tk^
 ||c-stat.eu^
 ||cfs1.uzone.id^
-||hesftig.site^
 ||moneyfree.co^
 ||rajatraffic.com^
 ||track.aptitudemedia.co^
-||track.avxid.com^
 ||track.zerofriend.com^
-||trackdan.com^
 ||tracker.beritagar.id^
 ||tracker.lazada.co.id^
 ||trackingclick.net^
 ||traffic-monetizer.com^
-||trk.cpaoptimizer.com^
 ||24h-ad.24hstatic.com^
 ||24h-ipad-ad.24hstatic.com^
 ||ad-us.24hstatic.com^
@@ -57957,6 +58348,7 @@ inapps.appsflyersdk.com^
 ||clubleadershipsolutions.com^
 ||clzl.pro^
 ||cmvietcombank.com^
+||cn.hothue.top^
 ||cnaptheaz.com^
 ||cnvietcombank.com^
 ||codb2b.shop^
@@ -61723,6 +62115,7 @@ inapps.appsflyersdk.com^
 ||vn-vongquaylol.cf^
 ||vn-vp.xyz^
 ||vn.btaynguyenfood.com^
+||vn.hothue.top^
 ||vn.vnhao123.xyz^
 ||vn11268shp.com^
 ||vn11568p.com^
@@ -62116,6 +62509,24 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||dreiquksz.com^
+||so04030koaq.com^
+||pqnonh.top^
+||zwgqzgo.icu^
+||rinl.cn^
+||dhorzivnn.com^
+||phozeksr.com^
+||nrlupu.top^
+||biabfqq.icu^
+||chitshuqh.com^
+||oieo.cn^
+||caxhuuzto.com^
+||so04010koaq.com^
+||lsjarh.top^
+||duyhlct.icu^
+||wqrv.cn^
+||dephriezm.com^
+||uu09cjylmzsym.top^
 ||yasorlbeu.com^
 ||jtdltu.top^
 ||xsti.cn^
@@ -65695,6 +66106,7 @@ inapps.appsflyersdk.com^
 ||zt2088.com^
 ||ztyumn.ifeng.com^
 ||adasset.flixfiend.top^
+||ad.parkvv.com^
 @@||ad.10010.com^
 @@||ad.abchina.com^
 @@||ad.kazakinfo.com^
@@ -67804,7 +68216,6 @@ thepiratebay3.com^
 ||onenightchicko.com^
 ||nudepopsy71c.com^
 ||mamielournes.buzz^
-||miahershberger.buzz^
 ||sanjuanitaliscano.click^
 ||c0nt4ct-me.pages.dev^
 ||ogtrk.net^
@@ -68075,7 +68486,6 @@ thepiratebay3.com^
 ||cdypsqghdgrw.com^
 ||ch3l.net^
 ||chl3.net^
-||clubfukugyou.work^
 ||date-app.net^
 ||days-neighborhood.com^
 ||determinatioon.jp^
@@ -68346,7 +68756,6 @@ thepiratebay3.com^
 ||make2022.com^
 ||salon.beauty202201.com^
 ||sbfw.work^
-||sokkinjobmasu.work^
 ||tim.time-time-zyunizi.com^
 ||xxxmake.com^
 ||1litteno.home-walil1.jp^
@@ -68603,11 +69012,9 @@ thepiratebay3.com^
 ||circle7-bd.com^
 ||club-house.link^
 ||cocoro-liberty.com^
-||coin-of-fate.jp^
 ||d-sr.net^
 ||d-will.net^
 ||daylighteel.com^
-||digital-mail.jp^
 ||divination-truth.com^
 ||during-the-holiday.com^
 ||every-au.com^
@@ -68741,7 +69148,6 @@ thepiratebay3.com^
 ||chatchu.jp^
 ||cupid-chat.net^
 ||fx640b4a8v2n.net^
-||maiwai2.jp^
 ||moonlight-ebbandflow.com^
 ||nanroom.net^
 ||nowtuma.net^
@@ -69130,7 +69536,6 @@ thepiratebay3.com^
 ||media-matching-pair.jp^
 ||mimiray-k.jp^
 ||miray-k.jp^
-||kaimiray-k.jp^
 ||luna-ria.jp^
 ||msiv5.com^
 ||free-ren.jp^
@@ -69149,8 +69554,6 @@ thepiratebay3.com^
 ||jap.cookingsboss.com^
 ||jap.cookinggenuine.com^
 ||ai-referee.com^
-||present-folio.jp^
-||surprise-folio.jp^
 ||gamecygenn.com^
 ||cryp-prel.com^
 ||lowsoop.com^
@@ -69254,7 +69657,6 @@ thepiratebay3.com^
 ||star789h.fun^
 ||g5chat.com^
 ||matchtap.site^
-||adak.adm1r3.com^
 ||buzz-gric.com^
 ||crowd-nrgt.com^
 ||drg-mcre.com^
@@ -69394,6 +69796,9 @@ thepiratebay3.com^
 ||fortune-moon.net^
 ||hoshinokouranai.com^
 ||irene-fortuna.com^
+||t-tousen.online^
+||t-haifu.space^
+||t-haifu.monster^
 ||apkmirror.co^
 ||webogram.org^
 ||webogram.ru^
@@ -69555,7 +69960,6 @@ thepiratebay3.com^
 ||cloudsonicwave.com^
 ||open-project.org^
 ||epicgames-store.org^
-||blcnder.org^
 ||trelconf.com^
 ||trelconf.net^
 ||noitons.net^
@@ -69698,7 +70102,6 @@ thepiratebay3.com^
 ||report.case-referency.com^
 ||facebook-guidelines.com^
 ||certify-issues-details-case.netlify.app^
-||meta-accessibility.io.vn^
 ||facebock-page-center.com^
 ||mfacebook-com.vn^
 ||www-mfacebook.
@@ -69711,7 +70114,6 @@ thepiratebay3.com^
 ||vww-facebook.com.vn^
 ||www-facebooks.com.vn^
 ||faceb00k.com.vn^
-||facebooks-com.vn^
 ||mobile-facebook.com.vn^
 ||m-facebookk.com.vn^
 ||mfacebookk.com.vn^
@@ -70076,7 +70478,6 @@ thepiratebay3.com^
 ||iqpoll.cn^
 ||zhandouxian.com^
 ||tempisite.com^
-||sunpass-etoll-id.kupu.desa.id^
 ||tracker.club-os.com^
 ||livestreaming24.xyz^
 ||the-north-face.gr^
@@ -83028,6 +83429,7 @@ thepiratebay3.com^
 0.0.0.0 5toft8or7on8tt.com
 0.0.0.0 5vbs96dea.com
 0.0.0.0 5vpbnbkiey24.com
+0.0.0.0 62ad.com
 0.0.0.0 6v41p4bsq.com
 0.0.0.0 79xmz3lmss.com
 0.0.0.0 7ca78m3csgbrid7ge.com
@@ -83884,6 +84286,7 @@ thepiratebay3.com^
 0.0.0.0 ak.ceegriwuwoa.net
 0.0.0.0 ak.groaxonsoow.net
 0.0.0.0 ak.litaudrootsa.net
+0.0.0.0 ak.offstaryutor.com
 0.0.0.0 ak.oneegrou.net
 0.0.0.0 ak.ptailadsol.net
 0.0.0.0 ak.unblitzlean.com
@@ -84125,6 +84528,7 @@ thepiratebay3.com^
 0.0.0.0 baithoph.net
 0.0.0.0 baitpros.net
 0.0.0.0 baivideewou.com
+0.0.0.0 bajavdafwafp.com
 0.0.0.0 balancebreath.com
 0.0.0.0 balor-ghn.com
 0.0.0.0 balphyra.com
@@ -85146,6 +85550,7 @@ thepiratebay3.com^
 0.0.0.0 ehiibetu.com
 0.0.0.0 ejyymghi.com
 0.0.0.0 ekgloczbsblg.com
+0.0.0.0 ekkrgsqygqp.com
 0.0.0.0 elasticchange.com
 0.0.0.0 elderlybean.com
 0.0.0.0 elderlytown.com
@@ -85242,6 +85647,7 @@ thepiratebay3.com^
 0.0.0.0 extracthorizontaldashing.com
 0.0.0.0 extreme-dm.com
 0.0.0.0 extremetracking.com
+0.0.0.0 exxohwvxupjv.com
 0.0.0.0 eyeblaster.com
 0.0.0.0 eyebrowscrambledlater.com
 0.0.0.0 eyereturn.com
@@ -85952,6 +86358,7 @@ thepiratebay3.com^
 0.0.0.0 kixgpapwia.com
 0.0.0.0 kiynew.com
 0.0.0.0 kjdvn1340-ads.blogspot.com
+0.0.0.0 kkoobzmirh.com
 0.0.0.0 klclick1.com
 0.0.0.0 kliks.nl
 0.0.0.0 klkchits.com
@@ -86889,6 +87296,7 @@ thepiratebay3.com^
 0.0.0.0 playvideoclub.com
 0.0.0.0 plinsaqhsu.com
 0.0.0.0 plista.com
+0.0.0.0 pltraffic8.com
 0.0.0.0 plufdsb.com
 0.0.0.0 plugrush.com
 0.0.0.0 plusungratefulinstruction.com
@@ -87052,6 +87460,7 @@ thepiratebay3.com^
 0.0.0.0 puffyloss.com
 0.0.0.0 puffypull.com
 0.0.0.0 puffypurpose.com
+0.0.0.0 pukqysdsgt.com
 0.0.0.0 pulse360.com
 0.0.0.0 pulseadnetwork.com
 0.0.0.0 pulvinioreodon.com
@@ -87090,6 +87499,7 @@ thepiratebay3.com^
 0.0.0.0 qa.shboshbok.com
 0.0.0.0 qakzfubfozaj.com
 0.0.0.0 qarhrytwyqp.com
+0.0.0.0 qavhivvcex.com
 0.0.0.0 qcerujcajnme.com
 0.0.0.0 qctop.com
 0.0.0.0 qdfxeqhnjuknyy.com
@@ -87300,6 +87710,7 @@ thepiratebay3.com^
 0.0.0.0 roofprison.com
 0.0.0.0 rose.ixbt.com
 0.0.0.0 rosolicdalapon.com
+0.0.0.0 rosysolvingscallion.com
 0.0.0.0 rot.spotsniper.ru
 0.0.0.0 rotabol.com
 0.0.0.0 rotumal.com
@@ -87310,6 +87721,7 @@ thepiratebay3.com^
 0.0.0.0 roxr.net
 0.0.0.0 rozamimo9za10.com
 0.0.0.0 rprinc6etodn9kunjiv.com
+0.0.0.0 rqaefhvkkxls.com
 0.0.0.0 rsalcau.com
 0.0.0.0 rsalcch.com
 0.0.0.0 rtb.gamoshi.io
@@ -88204,6 +88616,7 @@ thepiratebay3.com^
 0.0.0.0 vtacibqzopiw.com
 0.0.0.0 vteskyombq.com
 0.0.0.0 vtracy.de
+0.0.0.0 vudachisouxouk.net
 0.0.0.0 vugnubier.com
 0.0.0.0 vugpakba.com
 0.0.0.0 vujdudspear.com
@@ -89367,6 +89780,7 @@ thepiratebay3.com^
 .ashx?AdID=
 .aspx?adid=
 .az/adv/$~xmlhttprequest
+.biz/?te=$third-party
 .br/ads/$~xmlhttprequest
 .ca/ads/$~xmlhttprequest
 .cfm?ad=
@@ -89905,6 +90319,7 @@ thepiratebay3.com^
 /publicidades/*$~xmlhttprequest
 /push/p.js?$third-party
 /rad_singlepageapp.js$script
+/rb/agent2.php?spot=
 /RdmAdFeed.js$script
 /rdrr/renderer.js$third-party
 /RealMedia/ads/*$~xmlhttprequest
@@ -89921,6 +90336,7 @@ thepiratebay3.com^
 /resources/ads/*$~xmlhttprequest
 /responsive/ad_$subdocument
 /responsive_ads.js$script
+/revopush_v2.js
 /right_ads.$~xmlhttprequest
 /rightad.js$script
 /s.ashx?btag$script
@@ -90117,9 +90533,9 @@ _reklama_$domain=~youtube.com
 ||online.*/promoredirect?key=
 ?bd=ppd&r=$document
 /ad-shield/e/*$script,third-party
-://www.*.xyz/contents/*/-1/$script,subdocument,third-party,xmlhttprequest
-://www.*.xyz/contents/*/a/$subdocument,third-party
-://www.*.xyz/contents/*?h=$script,third-party
+://www.*.xyz/content/*/-1/$script,subdocument,third-party,xmlhttprequest
+://www.*.xyz/content/*/a/$subdocument,third-party
+://www.*.xyz/content/*?h=$script,third-party
 ://www.*.xyz/script/*.com.js|$script,third-party
 wss://www.*.xyz/ws^$third-party
 .com/ed/java.js$script
@@ -90615,6 +91031,7 @@ _800x80_
 ://ads.$popup,domain=~smartnews.com
 ://adv.$popup,domain=~adv.kompas.id|~adv.lack-girl.com
 =ppd&$popup,third-party
+?cs=*&pid=$popup
 |javascript:*setTimeout$popup
 |javascript:*window.location$popup
 |data:text$popup,domain=~clker.com
@@ -95186,7 +95603,6 @@ _800x80_
 ##._ads
 ##._ads-full
 ##._ap_adrecover_ad
-##._ap_apex_ad
 ##._articleAdvert
 ##._bannerAds
 ##._bottom_ad_wrapper
@@ -99602,419 +100018,3 @@ _800x80_
 ##.bannerAdSearch
 ##.bannerAdSidebar
 ##.bannerAdTower
-##.bannerAdWrap
-##.bannerAds
-##.bannerAdvert
-##.bannerAside
-##.bannerGoogle
-##.bannerRightAd
-##.banner_160x600
-##.banner_240x400
-##.banner_250x250
-##.banner_300_250
-##.banner_300x250
-##.banner_300x600
-##.banner_468_60
-##.banner_468x60
-##.banner_728_90
-##.banner_ad-728x90
-##.banner_ad_300x250
-##.banner_ad_728x90
-##.banner_ad_container
-##.banner_ad_footer
-##.banner_ad_full
-##.banner_ad_leaderboard
-##.banner_ad_link
-##.banner_ad_wrapper
-##.banner_ads1
-##.banner_reklam
-##.banner_reklam2
-##.banner_slot
-##.bannerad
-##.bannerad3
-##.banneradd
-##.bannerads
-##.banneradv
-##.bannerandads
-##.bannergroup-ads
-##.bannermpu
-##.banners_ad
-##.bannervcms
-##.bar_ad
-##.base-ad-mpu
-##.base-ad-slot
-##.base-ad-top
-##.base_ad
-##.baseboard-ad
-##.bb-ad
-##.bb-ad-mrec
-##.bbccom-advert
-##.bbccom_advert
-##.bcom_ad
-##.before-header-ad
-##.before-injected-ad
-##.below-ad-border
-##.below-article-ad-sidebar
-##.below-nav-ad
-##.belowMastheadWrapper
-##.belowNavAds
-##.below_game_ad
-##.below_nav_ad_wrap
-##.below_player_ad
-##.bg-ad-gray
-##.bg-ads
-##.bg-ads-space
-##.bg-grey-ad
-##.bgAdBlue
-##.bg_ad
-##.bg_ads
-##.bgcolor_ad
-##.bgr-ad-leaderboard
-##.bh-ads
-##.bh_ad_container
-##.bidbarrel-ad
-##.big-ad
-##.big-ads
-##.big-advertisement
-##.big-box-ad
-##.big-right-ad
-##.bigAd
-##.bigAdContainer
-##.bigAds
-##.bigAdvBanner
-##.bigBoxAdArea
-##.bigCubeAd
-##.big_ad
-##.big_ad2
-##.big_ads
-##.bigad
-##.bigad1
-##.bigad2
-##.bigadleft
-##.bigadright
-##.bigads
-##.bigadtxt1
-##.bigbox-ad
-##.bigbox.ad
-##.bigbox_ad
-##.bigboxad
-##.bigsponsor
-##.billboard-ad
-##.billboard-ad-one
-##.billboard-ad-space
-##.billboard-ads
-##.billboard.ad
-##.billboardAd
-##.billboard__advert
-##.billboard_ad
-##.billboard_ad_wrap
-##.billboard_adwrap
-##.bing-ads-wrapper
-##.bing-native-ad
-##.bl300_ad
-##.block--ad
-##.block--ads
-##.block--dfp
-##.block--doubleclick
-##.block--simpleads
-##.block-ad
-##.block-ad-entity
-##.block-ad-header
-##.block-ad-leaderboard
-##.block-ad-wrapper
-##.block-admanager
-##.block-ads
-##.block-ads-bottom
-##.block-ads-home
-##.block-ads-system
-##.block-ads-top
-##.block-ads-yahoo
-##.block-ads1
-##.block-ads2
-##.block-ads3
-##.block-ads_top
-##.block-adsense
-##.block-adtech
-##.block-adv
-##.block-advert
-##.block-advertisement
-##.block-advertisement-banner-block
-##.block-advertising
-##.block-adzerk
-##.block-bg-advertisement
-##.block-boxes-ad
-##.block-cdw-google-ads
-##.block-dfp
-##.block-dfp-ad
-##.block-dfp-blocks
-##.block-doubleclick_ads
-##.block-fusion-ads
-##.block-google-admanager
-##.block-openads
-##.block-openx
-##.block-quartz-ads
-##.block-reklama
-##.block-simpleads
-##.block-skyscraper-ad
-##.block-sponsor
-##.block-sponsored-links
-##.block-the-dfp
-##.block-wrap-ad
-##.block-yt-ads
-##.blockAd
-##.blockAds
-##.blockAdvertise
-##.block__ads__ad
-##.block_ad
-##.block_ad1
-##.block_ad303x1000_left
-##.block_ad303x1000_right
-##.block_ad_middle
-##.block_ad_top
-##.block_ads
-##.block_adslot
-##.block_adv
-##.block_advert
-##.block_article_ad
-##.blockad
-##.blocked-ads
-##.blog-ad
-##.blog-ad-image
-##.blog-ads
-##.blog-advertisement
-##.blogAd
-##.blogAdvertisement
-##.blog_ad
-##.blogads
-##.bmd_advert
-##.bn_ads
-##.bnr_ad
-##.body-ad
-##.body-ads
-##.body-top-ads
-##.bodyAd
-##.body_ad
-##.bodyads
-##.bodyads2
-##.bordered-ad
-##.botAd
-##.bot_ad
-##.bot_ads
-##.bottom-ad
-##.bottom-ad--bigbox
-##.bottom-ad-banner
-##.bottom-ad-box
-##.bottom-ad-container
-##.bottom-ad-desktop
-##.bottom-ad-large
-##.bottom-ad-placeholder
-##.bottom-ad-wrapper
-##.bottom-ad-zone
-##.bottom-ad2
-##.bottom-ads
-##.bottom-ads-container
-##.bottom-ads-sticky
-##.bottom-ads-wrapper
-##.bottom-adv
-##.bottom-adv-container
-##.bottom-banner-ad
-##.bottom-fixed-ad
-##.bottom-left-ad
-##.bottom-main-adsense
-##.bottom-mobile-ad
-##.bottom-mpu-ad
-##.bottom-post-ad-space
-##.bottom-post-ads
-##.bottom-right-advert
-##.bottom-side-advertisement
-##.bottomAd
-##.bottomAdBlock
-##.bottomAdContainer
-##.bottomAds
-##.bottomAdvert
-##.bottomAdvertisement
-##.bottom_ad
-##.bottom_ad_block
-##.bottom_ad_placeholder
-##.bottom_ad_responsive
-##.bottom_ads
-##.bottom_adsense
-##.bottom_adspace
-##.bottom_banner_ad
-##.bottom_banner_advert_text
-##.bottom_bar_ads
-##.bottom_left_advert
-##.bottom_right_ad
-##.bottom_rightad
-##.bottom_side_ad
-##.bottom_sponsor
-##.bottom_sticky_ad
-##.bottomad
-##.bottomads
-##.bottomadvert
-##.botton_advertisement
-##.box-ad
-##.box-ad-middle
-##.box-ads
-##.box-adsense
-##.box-adsense-top
-##.box-advert
-##.box-advertisement
-##.box-advertising
-##.box-adverts
-##.box-bannerads
-##.box-bannerads-leaderboard-fallback
-##.box-entry-ad
-##.box-fixed-ads
-##.box-footer-ad
-##.boxAd
-##.boxAdContainer
-##.boxAds
-##.boxAds2
-##.boxAdvertisement
-##.boxSponsor
-##.box_ad
-##.box_ad_container
-##.box_ad_content
-##.box_ad_horizontal
-##.box_ad_spacer
-##.box_ad_wrap
-##.box_ads
-##.box_adv
-##.box_adv_728
-##.box_advert
-##.box_advertising
-##.box_content_ad
-##.box_content_ads
-##.box_layout_ad
-##.box_publicidad
-##.box_sidebar-ads
-##.boxad
-##.boxad1
-##.boxad2
-##.boxadcont
-##.boxads
-##.boxadv
-##.bps-ad-wrapper
-##.bps-advertisement
-##.bq_adleaderboard
-##.bq_rightAd
-##.br-ad
-##.br-ad-wrapper
-##.breadads
-##.break-ads
-##.breaker-ad
-##.breakerAd
-##.briefNewsAd
-##.brn-ads-box
-##.brn-ads-mobile-container
-##.brn-ads-sticky-wrapper
-##.broker-ad
-##.browse-ad-container
-##.browsi-ad
-##.btm_ad
-##.btn_ad
-##.bump-ad
-##.bunyad-ad
-##.buttom_ad
-##.buttom_ad_size
-##.button-ad
-##.button-ads
-##.buttonAd
-##.buttonAdSpot
-##.buttonAds
-##.button_ad
-##.button_ads
-##.button_advert
-##.button_left_ad
-##.button_right_ad
-##.buttonad
-##.buttonadbox
-##.buttonads
-##.buySellAdsContainer
-##.buysellAds
-##.buzzAd
-##.c-Ad
-##.c-Adhesion
-##.c-ArticleAds
-##.c-ad
-##.c-ad--adStickyContainer
-##.c-ad--bigbox
-##.c-ad--header
-##.c-ad-flex
-##.c-ad-fluid
-##.c-ad-placeholder
-##.c-ad-size2
-##.c-ad-size3
-##.c-adDisplay
-##.c-adDisplay_container
-##.c-adOmnibar
-##.c-adSense
-##.c-adSkyBox
-##.c-adbutler-ad
-##.c-adbutler-ad__wrapper
-##.c-adcontainer
-##.c-ads
-##.c-adunit
-##.c-adunit--billboard
-##.c-adunit--first
-##.c-adunit__container
-##.c-adv3__inner
-##.c-advert
-##.c-advert-app
-##.c-advert-superbanner
-##.c-advertisement
-##.c-advertisement--billboard
-##.c-advertisement--rectangle
-##.c-advertising
-##.c-advertising__banner-area
-##.c-adverts
-##.c-advscrollingzone
-##.c-box--advert
-##.c-gallery-vertical__advert
-##.c-googleadslot
-##.c-gpt-ad
-##.c-header__ad
-##.c-header__advert-container
-##.c-pageArticleSingle_bottomAd
-##.c-prebid
-##.c-sidebar-ad-stream__ad
-##.c-sitenav-adslot
-##.c-sitenavPlaceholder__ad
-##.c_nt_ad
-##.cableads
-##.cactus-ads
-##.cactus-header-ads
-##.caja_ad
-##.california-ad
-##.california-sidebar-ad
-##.calloutAd
-##.carbon-ad
-##.carbon_ads
-##.carbonad
-##.carbonad-tag
-##.carbonads-widget
-##.card--ad
-##.card--article-ad
-##.card-ad
-##.card-ads
-##.card-article-ads
-##.cardAd
-##.catalog_ads
-##.category-ad:not(html):not(body):not(.post)
-##.category-ads:not(html):not(body):not(.post)
-##.categoryMosaic-advertising
-##.categoryMosaic-advertisingText
-##.cazAd
-##.cb-ad-banner
-##.cb-ad-container
-##.cbd_ad_manager
-##.cbs-ad
-##.cc-advert
-##.center-ad
-##.center-ad-long
-##.center-tag-rightad
-##.centerAD
-##.centerAd
-##.centerAds
-##.center_ad
