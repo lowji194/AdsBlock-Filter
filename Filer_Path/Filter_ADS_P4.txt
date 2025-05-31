@@ -8,16 +8,229 @@
 !                               __/ |       __/ |                  !
 !                              |___/       |___/                   !
 !------------------------------------------------------------------!
-! Title:🇻🇳Bộ lọc quảng cáo [P4 - 31-05-2025🔥]   
+! Title:🇻🇳Bộ lọc quảng cáo [P4 - 01-06-2025🔥]   
 ! 🌐 Website: http://github.com/lowji194
 ! 🔥 Profile bộ lọc chặn quảng cáo nâng cao 🔥
-! 📅 Cập nhật: 31-05-2025
+! 📅 Cập nhật: 01-06-2025
 ! 🛠️ Dành cho: uBlock Origin / AdGuard
 ! 👤 Tác giả: Nguyễn Thế Lợi
 ! 📌 Mô tả: Bộ lọc chặn quảng cáo
 ! 📞 SĐT: 0963 159 294
 ! 👮 Facebook: https://www.facebook.com/Lowji194
 !------------------------------------------------------------------!
+||toequiet.website^
+||toffeebigot.com^
+||toforebhut.top^
+||togemantedious.top^
+||togenron.com^
+||togerspas.com^
+||toglooman.com^
+||togothitaa.com^
+||toiletpaper.life^
+||toireink.top^
+||toisecindery.top^
+||toitingtansy.top^
+||toitoidotkin.shop^
+||tokenads.com^
+||toksoudsoab.net^
+||tolerantignorancepicturesque.com^
+||tomatoesstripemeaningless.com^
+||tomatoitch.com^
+||tomatoqqamber.click^
+||tomawilea.com^
+||tombaltiled.top^
+||tombsspinner.com^
+||tomdsfpeyrsoo.vip^
+||tomechyki.pro^
+||tomekas.com^
+||tomeletparton.top^
+||tomladvert.com^
+||tomlldahehun.org^
+||tommyholysnapped.com^
+||tomorroweducated.com^
+||tomorrowspanelliot.com^
+||tomorrowtardythe.com^
+||tomsooko.com^
+||tonapplaudfreak.com^
+||tonemedia.com^
+||tonsilsuggestedtortoise.com^
+||tonsilyearling.com^
+||tonsmurre.top^
+||tontrinevengre.com^
+||tooglidanog.net^
+||toojaipi.net^
+||toolspaflinch.com^
+||toomanyrelation.com^
+||tooniboy.com^
+||toonujoops.net^
+||toopsoug.net^
+||toostaupsoobaul.net^
+||toothbrushlimbperformance.com^
+||toothcauldron.com^
+||toourmarketingef.org^
+||toozouchoor.net^
+||top-performance.best^
+||top-performance.club^
+||top-performance.top^
+||top-performance.work^
+||topadsservices.com^
+||topatincompany.com^
+||topatternbackache.com^
+||topbetfast.com^
+||topblockchainsolutions.nl^
+||topcpmcreativeformat.com^
+||topcreativeformat.com^
+||topdatingshub.com^
+||topdisplaycontent.com^
+||topdisplayformat.com^
+||topdisplaynetwork.com^
+||topduppy.info^
+||topeesabusee.shop^
+||topeltof.com^
+||tophaw.com^
+||topiccorruption.com^
+||topincome.cc^
+||topnews-24.com^
+||topnewsfeeds.net^
+||topnewsgo.com^
+||topperformance.xyz^
+||toppleunit.com^
+||topprofitablecpm.com^
+||topprofitablegate.com^
+||topqualitylink.com^
+||toprevenuecpmnetwork.com^
+||toprevenuegate.com^
+||topsrcs.com^
+||toptoys.store^
+||toptrendyinc.com^
+||topworkredbay.shop^
+||toquetbircher.com^
+||torebureaucracytrade.com^
+||toreddorize.com^
+||torejogging.com^
+||torhydona.com^
+||torioluor.com^
+||torngetawaycurious.com^
+||tororango.com^
+||torpsol.com^
+||torrango.com^
+||torrent-protection.com^
+||torrentsuperintend.com^
+||tortoisesun.com^
+||toscytheran.com^
+||tosfeed.com^
+||tossquicklypluck.com^
+||tostervar.shop^
+||totalab.xyz^
+||totemcash.com^
+||totenoltood.com^
+||totentacruelor.com^
+||totesnobis.com^
+||totjbbqm.com^
+||totlnkbn.com^
+||totlnkcl.com^
+||totlov.com^
+||totogetica.com^
+||touched35one.pro^
+||tougaipteehuboo.xyz^
+||toughhire.com^
+||touphototee.com^
+||tournamentdouble.com^
+||touroumu.com^
+||toursignabo.com^
+||tourukaustoglee.net^
+||toutsneskhi.com^
+||tovespiquener.com^
+||towardsturtle.com^
+||towardwhere.com^
+||towersalighthybrids.com^
+||towersresent.com^
+||townrusisedpriva.org^
+||toworkwither.org^
+||toxemiaslier.com^
+||toxemichallows.shop^
+||toxodonsinify.shop^
+||toxtren.com^
+||tozoruaon.com^
+||tpcserve.com^
+||tpdads.com^
+||tpmedia-reactads.com^
+||tpmr.com^
+||tpn134.com^
+||tpoqbkqesgoig.one^
+||tpvmdlxpvcenz.vip^
+||tqlkg.com^
+||tqlqfhmvainmn.one^
+||tqqctepjjhia.com^
+||tqrgivpfygemxft.com^
+||tr-boost.com^
+||tr-bouncer.com^
+||tr-monday.xyz^
+||tr-rollers.xyz^
+||tr-usual.xyz^
+||traatcamjwra.com^
+||tracemonitorusa.life^
+||tracepath.cc^
+||tracevictory.com^
+||track-victoriadates.com^
+||track.afrsportsbetting.com^
+||track.totalav.com^
+||track4ref.com^
+||trackad.cz^
+||trackapi.net^
+||trackcherry.com^
+||tracker-2.com^
+||tracker-tds.info^
+||trackerflw.com^
+||trackerrr.com^
+||trackeverything.co^
+||tracking-aws-5.com^
+||trackingmembers.com^
+||trackingrouter.com^
+||trackingtraffo.com^
+||trackmundo.com^
+||trackpshgoto.win^
+||trackpush.com^
+||tracks20.com^
+||tracksfaster.com^
+||trackspeeder.com^
+||trackstracker.com^
+||tracktds.com^
+||tracktds.live^
+||tracktilldeath.club^
+||trackvbmobs.click^
+||trackvisible.com^
+||trackvol.com^
+||trackvoluum.com^
+||trackwilltrk.com^
+||trackzd.com^
+||tracot.com^
+||tradbypass.com^
+||tradeadexchange.com^
+||traditionallyenquired.com^
+||traditionallyrecipepiteous.com^
+||traff01traff02.site^
+||traffdaq.com^
+||traffic.club^
+||traffic.name^
+||trafficad-biz.com^
+||trafficbass.com^
+||trafficborder.com^
+||trafficdecisions.com^
+||trafficdok.com^
+||trafficfactory.biz^
+||traffichunt.com^
+||trafficircles.com^
+||trafficjunky.net^
+||trafficlide.com^
+||trafficmoon.com^
+||trafficmoose.com^
+||trafficportsrv.com^
+||trafficshop.com^
+||traffictraders.com^
+||traffmgnt.name^
+||trafforsrv.com^
+||traffprogo20.com^
 ||trafget.com^
 ||trafogon.com^
 ||trafsupr.com^
@@ -177,6 +390,7 @@
 ||truanet.com^
 ||trucelabwits.com^
 ||trucemallow.website^
+||truckwinding.com^
 ||true-girlstheconnection.com^
 ||true-sweets-dreampartner.com^
 ||truelivewell.com^
@@ -903,6 +1117,7 @@
 ||vapedia.com^
 ||vapjcusfua.com^
 ||vaqykqeoeaywm.top^
+||vaqykqyvvazbz.top^
 ||variationsradio.com^
 ||variedpretenceclasped.com^
 ||variedslimecloset.com^
@@ -1205,6 +1420,7 @@
 ||vivtrihcavf.com^
 ||vixentycckwtz.buzz^
 ||vixzkewa.com^
+||vizierspavan.com^
 ||vizoalygrenn.com^
 ||vizoredcheerly.com^
 ||vjdciu.com^
@@ -1481,6 +1697,7 @@
 ||watchcpm.com^
 ||watcheraddictedpatronize.com^
 ||watcherdisastrous.com^
+||watchetifuters.cloud^
 ||watchheeddandy.com^
 ||watchingthat.com^
 ||watchingthat.net^
@@ -2282,6 +2499,7 @@
 ||xoqod.sbs^
 ||xoxnetwork.com^
 ||xoxyxaxtgkryj.club^
+||xpfsmgxc.com^
 ||xpollo.com^
 ||xporn.in^
 ||xpvv0rkn.fun^
@@ -2368,6 +2586,7 @@
 ||y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me^
 ||yaamsptzttes.com^
 ||yabbymosette.top^
+||yackedcuttage.com^
 ||yahdrctswmvax.space^
 ||yahuu.org^
 ||yajeinsogged.shop^
@@ -74965,6 +75184,21 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||7x9i88rvn.com^
+||jkn05310loi.com^
+||jkn05311loi.com^
+||mc5e9p8qx.com^
+||yeuviq.icu^
+||riht.cn^
+||u408n6z4f.top^
+||mwgehrudb.com^
+||cockersbehint.com^
+||aldusmiskals.com^
+||lbjupq.top^
+||w9uwz5966.com^
+||0a0atz2sh.top^
+||yuelmodqhrw.com^
+||yimc.cn^
 ||f9gv87zoq2.com^
 ||aoydwg.icu^
 ||3exfu7vaxu.com^
@@ -75033,7 +75267,6 @@ inapps.appsflyersdk.com^
 ||m8zgls6zt.com^
 ||aitongji.vip^
 ||lcvl.cn^
-||hghngh.com^
 ||mmkkkkk.com^
 ||dalofq.top^
 ||y1n1n3e0v.com^
@@ -75049,6 +75282,7 @@ inapps.appsflyersdk.com^
 ||gavm.cn^
 ||bbjzly.top^
 ||fup5qxstgi.com^
+||hghngh.com^
 ||cdjst7i1v.com^
 ||9oru1vh0w.com^
 ||uwxez.com^
@@ -83270,6 +83504,7 @@ thepiratebay3.com^
 ||hardware-gui.su^
 ||splendlddate.com^
 ||plotp.mazamob.space^
+||win32diskimager.org^
 0.0.0.0 admicro.vcmedia.com
 0.0.0.0 ad-hn.24hstatic.com
 0.0.0.0 ad-hcm.24hstatic.com
@@ -99783,238 +100018,3 @@ thepiratebay3.com^
 0.0.0.0 ojgzyztrmr.com
 0.0.0.0 ojhtpopwofm.com
 0.0.0.0 ojooo.com
-0.0.0.0 ojqbnqdwycws.com
-0.0.0.0 ojwoqdpiwdt.com
-0.0.0.0 okspeechlessamong.com
-0.0.0.0 okueroskynt.com
-0.0.0.0 okxparnalc.com
-0.0.0.0 olkhtegk.com
-0.0.0.0 olmsoneenh.info
-0.0.0.0 olnalbogxra.com
-0.0.0.0 oltnukjafo.com
-0.0.0.0 olxxugltoku.com
-0.0.0.0 olzlmemumcwe.com
-0.0.0.0 omazeiros.com
-0.0.0.0 ombwzonwupu.com
-0.0.0.0 omciecoa37tw4.com
-0.0.0.0 omgcoool.com
-0.0.0.0 omlbaftroofj.com
-0.0.0.0 ommentsere.biz
-0.0.0.0 omnatuor.com
-0.0.0.0 omniscientspark.com
-0.0.0.0 omniture.com
-0.0.0.0 omzostzuswm.com
-0.0.0.0 on-mobi.com
-0.0.0.0 onclasrv.com
-0.0.0.0 onclickads.net
-0.0.0.0 onclickalgo.com
-0.0.0.0 onclickgenius.com
-0.0.0.0 onclickmega.com
-0.0.0.0 onclickperformance.com
-0.0.0.0 onclicksuper.com
-0.0.0.0 oneandonlynetwork.com
-0.0.0.0 oneegrou.net
-0.0.0.0 onemboaran.com
-0.0.0.0 onenetworkdirect.com
-0.0.0.0 onestat.com
-0.0.0.0 onestatfree.com
-0.0.0.0 onetouch12.com
-0.0.0.0 ongaromusket.com
-0.0.0.0 online.miarroba.com
-0.0.0.0 onlinecash.com
-0.0.0.0 onlinecashmethod.com
-0.0.0.0 onlinerewardcenter.com
-0.0.0.0 onlyfanssubscriber.com
-0.0.0.0 onmanectrictor.com
-0.0.0.0 onmarshtompor.com
-0.0.0.0 onmobile.com
-0.0.0.0 onstunkyr.com
-0.0.0.0 ontosocietyweary.com
-0.0.0.0 onvictinitor.com
-0.0.0.0 onwardperishvaluables.com
-0.0.0.0 ootchoft.com
-0.0.0.0 opcharizardon.com
-0.0.0.0 opdhoxor.com
-0.0.0.0 open.oneplus.net
-0.0.0.0 openad.tf1.fr
-0.0.0.0 openad.travelnow.com
-0.0.0.0 openads.friendfinder.com
-0.0.0.0 openads.org
-0.0.0.0 openclick.com
-0.0.0.0 openmarket.com
-0.0.0.0 openvideoads.org
-0.0.0.0 openx.angelsgroup.org.uk
-0.0.0.0 operatorexperienced.com
-0.0.0.0 ophoacit.com
-0.0.0.0 opienetwork.com
-0.0.0.0 opinionstage.com
-0.0.0.0 opntwymri.com
-0.0.0.0 opsivesh.net
-0.0.0.0 optimallimit.com
-0.0.0.0 optimost.com
-0.0.0.0 optiontwentiethhart.com
-0.0.0.0 optmd.com
-0.0.0.0 optmstr.com
-0.0.0.0 opvanillishan.com
-0.0.0.0 opxaxqxaqo.com
-0.0.0.0 opzazcvitci.com
-0.0.0.0 oqdavkguftan.com
-0.0.0.0 oqdtuqat.com
-0.0.0.0 oqfoczdfyag.com
-0.0.0.0 oqnjfotketk.com
-0.0.0.0 oranegfodnd.com
-0.0.0.0 orangeads.fr
-0.0.0.0 orbsclawand.com
-0.0.0.0 orcpfawzuvfe.com
-0.0.0.0 orest-vlv.com
-0.0.0.0 orfabfbu.com
-0.0.0.0 organicbonus.com
-0.0.0.0 organizationwoundedvast.com
-0.0.0.0 orhavpfavxu.com
-0.0.0.0 orige-duo.com
-0.0.0.0 origunix.com
-0.0.0.0 oriori.com
-0.0.0.0 orlotalers.com
-0.0.0.0 ornpuxmucb.com
-0.0.0.0 ortshk.tapas.net
-0.0.0.0 orywrjsf.com
-0.0.0.0 osamagenius.com
-0.0.0.0 osamaimpact.com
-0.0.0.0 osfkfaacqx.com
-0.0.0.0 osknimkihvr.com
-0.0.0.0 osrxzucira.com
-0.0.0.0 osrzawox.com
-0.0.0.0 ostaigukeshoak.com
-0.0.0.0 ota.cartrawler.com
-0.0.0.0 othniqvu.com
-0.0.0.0 otqxvqzdgl.com
-0.0.0.0 oufauthy.net
-0.0.0.0 ouftukoo.net
-0.0.0.0 oustoope.com
-0.0.0.0 out-there-media.com
-0.0.0.0 outabsola.com
-0.0.0.0 outbidplacardshowman.com
-0.0.0.0 outflednailbin.com
-0.0.0.0 outlayinvoice.com
-0.0.0.0 outloginequity.com
-0.0.0.0 outlookabsorb.com
-0.0.0.0 outoctillerytor.com
-0.0.0.0 outpagefitroot.shop
-0.0.0.0 outrotomr.com
-0.0.0.0 outsliggooa.com
-0.0.0.0 outtimburrtor.com
-0.0.0.0 outwoodeuropa.com
-0.0.0.0 ov.gumdropolena.com
-0.0.0.0 overcrowdsillyturret.com
-0.0.0.0 oversnubbulltor.com
-0.0.0.0 overture.com
-0.0.0.0 ovlliiwtxgjlz.com
-0.0.0.0 ovmhwiccikr.com
-0.0.0.0 ovrcuncunxp.com
-0.0.0.0 ovxhhurafpi.com
-0.0.0.0 owebmoney.ru
-0.0.0.0 owjwhuaklf.com
-0.0.0.0 owlqahovgog.com
-0.0.0.0 owlsr.us
-0.0.0.0 owlunimmvn.com
-0.0.0.0 owneriq.net
-0.0.0.0 owrkwilxbw.com
-0.0.0.0 owvobdogd.com
-0.0.0.0 owxqunparw.com
-0.0.0.0 ox4h1dk85.com
-0.0.0.0 oxado.com
-0.0.0.0 oxcash.com
-0.0.0.0 oxen.hillcountrytexas.com
-0.0.0.0 oxthrilled.com
-0.0.0.0 ozbkfuhpuolf.com
-0.0.0.0 ozbnagojbop.com
-0.0.0.0 ozctkohaqmc.com
-0.0.0.0 ozkpkocib.com
-0.0.0.0 ozmahtadn.com
-0.0.0.0 ozmbzowg.com
-0.0.0.0 ozongees.com
-0.0.0.0 ozqoztrkoaj.com
-0.0.0.0 ozxakfawm.com
-0.0.0.0 p.hogmc.net
-0.0.0.0 p23hxejm1.com
-0.0.0.0 p4r24.eu
-0.0.0.0 pacekami.com
-0.0.0.0 paddlemoscowsplit.com
-0.0.0.0 padsims.com
-0.0.0.0 padstm.com
-0.0.0.0 pagefair.com
-0.0.0.0 pagerank-server7.de
-0.0.0.0 pageranktop.com
-0.0.0.0 pagiwp.com
-0.0.0.0 paikoasa.tv
-0.0.0.0 pajnutas.com
-0.0.0.0 palaceunlituntouched.com
-0.0.0.0 palaroleg.guru
-0.0.0.0 paleleaf.com
-0.0.0.0 pallet.fm
-0.0.0.0 pallivermis.shop
-0.0.0.0 panaxive.com
-0.0.0.0 pangle.pangleglobal.com
-0.0.0.0 pansymerbaby.com
-0.0.0.0 papaneecorche.com
-0.0.0.0 papayamobile.com
-0.0.0.0 papmeatidigbo.com
-0.0.0.0 parchedsofa.com
-0.0.0.0 parentlargevia.com
-0.0.0.0 parisjeroleinpg.com
-0.0.0.0 parking.godaddy.com
-0.0.0.0 parsimoniouspolice.com
-0.0.0.0 partage-facile.com
-0.0.0.0 particularundoubtedly.com
-0.0.0.0 partner-ads.com
-0.0.0.0 partner.pelikan.cz
-0.0.0.0 partnercash.de
-0.0.0.0 partnerlinks.io
-0.0.0.0 partners.priceline.com
-0.0.0.0 partners.urbanistnetwork.com
-0.0.0.0 partnerstack.com
-0.0.0.0 pasbstbovc.com
-0.0.0.0 pasheeheghie.net
-0.0.0.0 pasjcutadak.com
-0.0.0.0 passeura.com
-0.0.0.0 passfixx.com
-0.0.0.0 passion-4.net
-0.0.0.0 passtechusa.com
-0.0.0.0 patro-sfe.com
-0.0.0.0 pauewr4cw2xs5q.com
-0.0.0.0 paupsoborofoow.net
-0.0.0.0 paxzfenara.com
-0.0.0.0 pay-ads.com
-0.0.0.0 pay4results24.eu
-0.0.0.0 paychat.fuse-cloud.com
-0.0.0.0 paycounter.com
-0.0.0.0 paypopup.com
-0.0.0.0 payserve.com
-0.0.0.0 pblcpush.com 
-0.0.0.0 pbnet.ru
-0.0.0.0 pbterra.com
-0.0.0.0 pc2ads.com
-0.0.0.0 pcash.imlive.com
-0.0.0.0 pcmclk.com
-0.0.0.0 pearlysweepoverface.com
-0.0.0.0 pebadu.com
-0.0.0.0 pectationselea.info
-0.0.0.0 peelismramona.com
-0.0.0.0 peep-auktion.de
-0.0.0.0 peer39.com
-0.0.0.0 peevautauceept.com
-0.0.0.0 pefsustazvzgop.com
-0.0.0.0 pejzeexukxo.com
-0.0.0.0 pelagicmismate.com
-0.0.0.0 penbouncingmagpie.com
-0.0.0.0 pencilcongress.com
-0.0.0.0 pennilesscomingall.com
-0.0.0.0 pennyweb.com
-0.0.0.0 pepepush.net
-0.0.0.0 peppaping.xyz
-0.0.0.0 pepperjamnetwork.com
-0.0.0.0 peppy2lon1g1stalk.com
-0.0.0.0 perceivequarter.com
-0.0.0.0 percentmobile.com
-0.0.0.0 perfectaudience.com
-0.0.0.0 perfiliate.com
