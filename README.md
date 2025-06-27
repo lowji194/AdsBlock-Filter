@@ -51,17 +51,6 @@ Bộ lọc này được tạo ra để giúp bạn chặn quảng cáo, pop-up,
 
 ---
 
-## 📌 **Liên Hệ**
-
-Nếu bạn gặp phải bất kỳ vấn đề nào hoặc muốn đóng góp vào dự án, bạn có thể liên hệ với tôi qua:
-
-- **SĐT**: 0963 159 294
-- **Facebook**: [Lowji194](https://www.facebook.com/Lowji194/)
-
----
-
----
-
 ## 📫 Liên hệ với tôi
 
 - 📞 **SĐT:** 0963 159 294
