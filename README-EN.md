@@ -62,3 +62,8 @@ If you encounter any problems or want to contribute to the project, you can cont
 - **Facebook**: [Lowji194](https://www.facebook.com/Lowji194/)
 
 ---
+
+## ☕ **Support me with a coffee**
+<p align="center">
+  <img src="https://theloi.io.vn/pay/QR.png?text=QR+Code" alt="Mời cà phê" width="240" />
+</p>
