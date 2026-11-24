@@ -56,13 +56,13 @@ https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/AdGuard_
 
 ### 3. **Kích Hoạt Bộ Lọc**
 
-**Desktop (Chrome / Edge / Firefox):** Bộ lọc Lowji194 Desktop chứa các quy tắc bổ sung cá nhân và quy tắc có phạm vi .vn từ AdGuard chính thức. Hãy bật **AdGuard Base filter**, **AdGuard Tracking Protection filter** (hoặc EasyPrivacy), **AdGuard Quick Fixes filter** nếu có và bộ lọc bảo mật **uBlock Origin – Badware risks** (nếu có) trong danh sách tích hợp sẵn của extension. Không nhập lại các bộ lọc lớn bằng URL tùy chỉnh. ABPVN Free không còn được tổng hợp; nếu cần lọc quảng cáo Việt Nam, có thể bật ABPVN tích hợp hoặc đăng ký bộ lọc thuê bao cá nhân riêng.
+**Desktop (Chrome / Edge / Firefox):** Bộ lọc Lowji194 Desktop chứa quy tắc cá nhân và các quy tắc ưu tiên từ nguồn AdGuard công khai. Hãy bật **AdGuard Base filter**, **AdGuard Tracking Protection filter** (hoặc EasyPrivacy), **AdGuard Quick Fixes filter** nếu có và bộ lọc bảo mật **uBlock Origin – Badware risks** (nếu có) trong danh sách tích hợp sẵn của extension. Không nhập lại các bộ lọc lớn bằng URL tùy chỉnh. ABPVN Free không còn được tổng hợp; nếu cần lọc quảng cáo Việt Nam, có thể bật ABPVN tích hợp hoặc đăng ký bộ lọc thuê bao cá nhân riêng.
 
 **Android:** Bộ lọc tổng hợp từ các nguồn AdGuard công khai, không bao gồm ABPVN Free và không áp dụng ngân sách rule Desktop.
 
 Sau khi thêm URL, hãy bật bộ lọc và kiểm tra trạng thái bảo vệ trong AdGuard. Bạn có thể cập nhật, bật hoặc tắt bộ lọc bất kỳ lúc nào trong phần cài đặt.
 
-> **Lưu ý:** Chỉ thêm bộ lọc tương ứng với thiết bị, không nhập cả hai URL. Trên Android, sử dụng bộ lọc nội dung thay vì DNS filter; khả năng lọc HTTPS phụ thuộc ứng dụng và thiết lập thiết bị. Không đánh dấu bộ lọc là trusted. Chrome/Edge Manifest V3 có giới hạn quy tắc động và regex dùng chung. Worker giới hạn Desktop ở tối đa 3.000 dòng quy tắc thô để chừa ngân sách; số rule DNR thực tế sau chuyển đổi có thể khác. Xem [tài liệu MV3 của AdGuard](https://adguard.com/kb/adguard-browser-extension/mv3-version/). Nếu sử dụng URL cũ, hãy chuyển sang URL mới ở trên.
+> **Lưu ý:** Chỉ thêm bộ lọc tương ứng với thiết bị, không nhập cả hai URL. Trên Android, sử dụng bộ lọc nội dung thay vì DNS filter; khả năng lọc HTTPS phụ thuộc ứng dụng và thiết lập thiết bị. Không đánh dấu bộ lọc là trusted. Chrome/Edge Manifest V3 có giới hạn quy tắc động và regex dùng chung. Worker giới hạn Desktop ở tối đa 20.000 dòng quy tắc thô để chừa ngân sách; số rule DNR thực tế sau chuyển đổi có thể khác. Xem [tài liệu MV3 của AdGuard](https://adguard.com/kb/adguard-browser-extension/mv3-version/). Nếu sử dụng URL cũ, hãy chuyển sang URL mới ở trên.
 
 ---
 
@@ -88,7 +88,7 @@ Bộ lọc công khai sử dụng các biến thể tương thích AdGuard từ 
 
 - **Chu kỳ:** 7 ngày/lần (03:00 sáng thứ Hai, UTC+7).
 - **Hệ thống:** Python Worker + Systemd Timer trên VPS.
-- **Ngân sách Desktop:** Tối đa 3.000 quy tắc thô, gồm quy tắc cá nhân và quy tắc .vn từ nguồn công khai. Nếu vượt ngưỡng, dừng xuất bản thay vì cắt tùy tiện các rule hoặc ngoại lệ. Không giới hạn Android theo chính sách này.
+- **Ngân sách Desktop:** Tối đa 20.000 quy tắc thô, gồm quy tắc cá nhân và quy tắc ưu tiên và ngoại lệ từ nguồn công khai. Nếu vượt ngưỡng, dừng xuất bản thay vì cắt tùy tiện các rule hoặc ngoại lệ. Không giới hạn Android theo chính sách này.
 - **Quy trình:** Tải nguồn → kiểm tra dữ liệu → lọc trùng → tạo hai bộ lọc → cập nhật GitHub nếu nội dung thay đổi.
 - **An toàn:** Tự thử lại tối đa 3 lần; nếu nguồn lỗi hoặc số quy tắc giảm bất thường, giữ nguyên bản đã xuất bản.
 - **Vận hành:** Worker và cấu hình nguồn được lưu riêng; repository này chỉ phát hành bộ lọc và tài liệu sử dụng.
