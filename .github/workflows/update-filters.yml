@@ -1,0 +1,72 @@
+name: Update AdGuard filters
+
+on:
+  schedule:
+    # Monday 03:00 Vietnam time (Sunday 20:00 UTC).
+    - cron: '0 20 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: adsblock-filter-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.repository == 'lowji194/AdsBlock-Filter' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout public filters
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          ref: main
+      - name: Build and validate public subscriptions
+        shell: bash
+        env:
+          ADSBLOCK_WORKER_BUNDLE: ${{ secrets.ADSBLOCK_WORKER_BUNDLE }}
+          ADSBLOCK_PUBLIC_OUTPUT: ${{ github.workspace }}/filters
+        run: |
+          set -euo pipefail
+          umask 077
+          work="$(mktemp -d)"
+          trap 'rm -rf "$work"' EXIT
+          test -n "$ADSBLOCK_WORKER_BUNDLE" || { echo "::error::Worker secret missing"; exit 1; }
+          printf '%s' "$ADSBLOCK_WORKER_BUNDLE" | base64 -d | tar -xz -C "$work"
+          unset ADSBLOCK_WORKER_BUNDLE
+          if ! python3 -m unittest discover -s "$work/worker" -p 'test_*.py' > "$work/test.log" 2>&1; then
+            echo "::error::Worker tests failed; existing filters retained"
+            exit 1
+          fi
+          echo "Worker tests passed"
+          if ! python3 "$work/worker/update.py" > "$work/build.log" 2>&1; then
+            echo "::error::Source download or filter validation failed; existing filters retained"
+            exit 1
+          fi
+          python3 - <<'PY'
+          from pathlib import Path
+          for name,minimum,maximum in [('Desktop',100,20000),('Android',1000,2000000)]:
+              p=Path('filters')/f'AdGuard_{name}.txt'
+              header,sep,body=p.read_text(encoding='utf-8').partition('! End header\n')
+              rules=body.splitlines()
+              assert sep and minimum <= len(rules) <= maximum
+              assert len(rules)==len(set(rules)) and all(rules)
+              assert f'! Rules: {len(rules)}' in header.splitlines()
+              assert not any(x.startswith(('! Source:','! Content-SHA256:','! Policy:')) for x in header.splitlines())
+              print(f'{name}: {len(rules)} unique rules')
+          PY
+      - name: Publish validated filters
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add -- filters/AdGuard_Desktop.txt filters/AdGuard_Android.txt
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore(filters): automated AdGuard refresh'
+          git push origin HEAD:main
