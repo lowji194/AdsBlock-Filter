@@ -1,17 +1,11 @@
 [Adblock Plus 2.0]
 ! Title: Lowji194 - AdGuard Android
-! Version: 20261124155726
-! Last modified: 2026-11-24T15:57:26Z
+! Version: 20261124160300
+! Last modified: 2026-11-24T16:03:00Z
 ! Expires: 7 days
 ! Homepage: https://github.com/lowji194/AdsBlock-Filter
 ! License: GPL-3.0; upstream attribution: see README.md
 ! Rules: 100770
-! Content-SHA256: c5f226b9d6ea84e74ab21894c34ae5a00af4389318586ad24cd4037f8416afc2
-! Source: local:myfilter.txt
-! Source: https://filters.adtidy.org/android/filters/2_optimized.txt
-! Source: https://filters.adtidy.org/android/filters/118_optimized.txt
-! Source: https://filters.adtidy.org/android/filters/257_optimized.txt
-! Source: https://filters.adtidy.org/android/filters/11_optimized.txt
 ! End header
 ||ads-api.twitter.com^
 ||log.fc.yahoo.com^
