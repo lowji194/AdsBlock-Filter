@@ -1,0 +1,11 @@
+[Unit]
+Description=Refresh AdGuard filters weekly
+
+[Timer]
+OnCalendar=Mon *-*-* 03:00:00 Asia/Ho_Chi_Minh
+Persistent=true
+RandomizedDelaySec=0
+Unit=adsblock-filter.service
+
+[Install]
+WantedBy=timers.target
