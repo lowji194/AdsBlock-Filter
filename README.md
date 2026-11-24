@@ -78,12 +78,12 @@ Bộ lọc được tạo ra để giúp chặn quảng cáo, pop-up, các trìn
 | [EasyPrivacy](https://github.com/easylist/easylist) | Tích hợp sẵn | ✅ |
 | [ABPVN List](https://github.com/abpvn/abpvn) | ✅ | ✅ |
 | [uBlock Badware risks (bản tối ưu cho AdGuard)](https://github.com/uBlockOrigin/uAssets) | Tích hợp sẵn | ✅ |
-| [Bộ lọc bổ sung của Lowji194](source/myfilter.txt) | ✅ | ✅ |
+| [Bộ lọc bổ sung của Lowji194](https://github.com/lowji194) | ✅ | ✅ |
 | [AdGuard Mobile Ads](https://github.com/AdguardTeam/AdguardFilters) | — | ✅ |
 
 Các mục "Tích hợp sẵn" là khuyến nghị bật trực tiếp trong extension, không nằm trong file Desktop.
 
-Danh sách nguồn: [List_Filter_ADS.txt](source/List_Filter_ADS.txt). Sử dụng các biến thể phù hợp với AdGuard; không tổng hợp nguồn VIP/premium chưa được phép phân phối lại, danh sách DNS tổng hợp hoặc URLhaus định dạng cũ.
+Bộ lọc công khai sử dụng các biến thể tương thích AdGuard từ nguồn công khai; không bao gồm các nguồn thuê bao cá nhân.
 
 ### **Cơ Chế Cập Nhật Tự Động**
 
@@ -92,21 +92,16 @@ Danh sách nguồn: [List_Filter_ADS.txt](source/List_Filter_ADS.txt). Sử dụ
 - **Ngân sách Desktop:** Tối đa 3.000 quy tắc thô, ưu tiên ABPVN và quy tắc cá nhân. Nếu vượt ngưỡng, dừng xuất bản thay vì cắt tùy tiện các rule hoặc ngoại lệ. Không giới hạn Android theo chính sách này.
 - **Quy trình:** Tải nguồn → kiểm tra dữ liệu → lọc trùng → tạo hai bộ lọc → cập nhật GitHub nếu nội dung thay đổi.
 - **An toàn:** Tự thử lại tối đa 3 lần; nếu nguồn lỗi hoặc số quy tắc giảm bất thường, giữ nguyên bản đã xuất bản.
-- **Mã nguồn:** [Worker](worker/) · [Systemd](systemd/).
+- **Vận hành:** Worker và cấu hình nguồn được lưu riêng; repository này chỉ phát hành bộ lọc và tài liệu sử dụng.
 
-Trên VPS hiện tại, systemd unit được đặt tại /usr/local/lib/systemd/system/ và liên kết với timers.target do /etc chỉ đọc. Timer đang hoạt động, nhưng chưa kiểm thử khởi động lại VPS. Lệnh cập nhật thủ công:
+Bộ lọc được cập nhật tự động trên VPS. Người dùng không cần cài đặt worker hoặc systemd.
 
-```bash
-systemctl start adsblock-filter.service
-systemctl list-timers adsblock-filter.timer
-journalctl -u adsblock-filter.service -n 50 --no-pager
-```
 
 ### **Giấy Phép và Tương Thích**
 
-Bản tổng hợp đã được sửa đổi và worker được phân phối theo [GPL-3.0](LICENSE). Bản quyền thuộc các tác giả nguồn tương ứng; điều khoản giấy phép upstream vẫn áp dụng (EasyList/EasyPrivacy có lựa chọn giấy phép theo dự án). Nguồn được ghi trong header của mỗi file.
+Bản tổng hợp đã được sửa đổi và worker được phân phối theo [GPL-3.0](README-EN.md#license). Bản quyền thuộc các tác giả nguồn tương ứng; điều khoản giấy phép upstream vẫn áp dụng (EasyList/EasyPrivacy có lựa chọn giấy phép theo dự án). Nguồn được ghi trong header của mỗi file.
 
-Đây là dự án độc lập, không phải bộ lọc chính thức của AdGuard. Không dùng cho AdGuard Home hoặc Android Private DNS. Worker đã được kiểm thử và URL đã được xác minh; chưa kiểm thử nhập trực tiếp trên thiết bị. Không bảo đảm chặn mọi quảng cáo hoặc thay thế phần mềm chống mã độc.
+Đây là dự án độc lập, không phải bộ lọc chính thức của AdGuard. Không dùng cho AdGuard Home hoặc Android Private DNS. Hệ thống cập nhật đã được kiểm thử và URL đã được xác minh; chưa kiểm thử nhập trực tiếp trên thiết bị. Không bảo đảm chặn mọi quảng cáo hoặc thay thế phần mềm chống mã độc.
 
 ---
 
