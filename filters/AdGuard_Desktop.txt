@@ -1,16 +1,19 @@
 [Adblock Plus 2.0]
 ! Title: Lowji194 - AdGuard Desktop
-! Version: 20261124154858
-! Last modified: 2026-11-24T15:48:58Z
+! Version: 20261124155726
+! Last modified: 2026-11-24T15:57:26Z
 ! Expires: 7 days
 ! Homepage: https://github.com/lowji194/AdsBlock-Filter
 ! License: GPL-3.0; upstream attribution: see README.md
-! Rules: 12
-! Content-SHA256: 7626ea0dd12db99fa72aebfb9a632f8415e4095424c082020c73edd0c8318d66
-! Policy: supplement-v2
+! Rules: 112
+! Content-SHA256: 24f2452c2e7f1374b979a1e22fdcfa1a4303618e94b2c1e283ed4f9467dc65a0
+! Policy: supplement-v3
 ! Raw-rule budget: 3000
-! Desktop supplement: enable built-in Base, tracking protection, Quick Fixes and security filters in AdGuard.
+! Desktop supplement: public .vn-scoped AdGuard rules and local rules; enable built-in Base, privacy, Quick Fixes and security filters.
 ! Source: local:myfilter.txt
+! Source: https://filters.adtidy.org/extension/chromium/filters/2_optimized.txt
+! Source: https://filters.adtidy.org/extension/chromium/filters/118_optimized.txt
+! Source: https://filters.adtidy.org/extension/chromium/filters/257_optimized.txt
 ! End header
 ||ads-api.twitter.com^
 ||log.fc.yahoo.com^
@@ -24,3 +27,103 @@
 ||metrika.yandex.ru^
 /pagead.js$domain=d3ward.github.io
 /widget/ads.
+||static.accesstrade.vn^
+||adtimaserver.vn^$third-party
+||adpia.vn^$third-party
+||amcdn.vn^$third-party
+||yomedia.vn^$third-party
+win10.vn#%#//scriptlet("abort-current-inline-script", "document.addEventListener", "|kcolbdakcolb|")
+||delivery.vtcnews.vn/dist/adsbyvtc_ver1.js
+truyenqq.com.vn##a[href^="http://s.shopee.vn/"]
+truyenqq.com.vn#%#//scriptlet('prevent-setTimeout', 'popup()')
+truyenqq.com.vn#%#//scriptlet('abort-current-inline-script', 'addEventListener', 'flyer')
+||ad.vietbao.vn^
+danet.vn#%#//scriptlet('prevent-setTimeout', 'offsetHeight')
+danet.vn#%#//scriptlet('prevent-fetch', '.js?_=')
+danet.vn#%#//scriptlet('google-ima3')
+cafef.vn##div[id^="admzone"]
+cafef.vn##div[class^="ads_admzone"]
+we25.vn#%#//scriptlet('prevent-window-open', 'link')
+||static.adconnect.vn^
+dantri.com.vn##article ~ div.sidebar
+vtvgiaitri.vn#%#//scriptlet('prevent-fetch', 'www3.doubleclick.net')
+vtv.vn##.ads
+||webapi.dantri.com.vn/bn/list-pos
+fshare.vn###showVideo #myElementz
+||fshare.vn/lib/jwplayer/jwplayer.js
+fshare.vn##div[class^="quang-cao-"]
+win10.vn#%#//scriptlet("abort-current-inline-script", "eval", "ignielAdBlock")
+tinhte.vn##div[style="width:320px;height:100px"]
+tinhte.vn##div[style="width:300px;height:600px"]
+howkteam.vn#%#//scriptlet("set-constant", "canRunAds", "true")
+tinhte.vn##div[style="width:300px;height:250px"]
+thanhnien.vn##div[id^="dablewidget_"]
+win10.vn#%#//scriptlet("set-constant", "canRunAds", "true")
+vtvgiaitri.vn#@##adblock
+yan.vn###divInpageBanner
+24h.com.vn##section[id^="ADS_"][id$="s_container"]
+game8.vn##.col-sm-9 > .box_text_qc
+game8.vn##.thumb > a[href^="https://goo.gl/"][target="_blank"] > img
+game8.vn##.box_quangcao_top > a[href^="http://goo.gl/"][rel="nofollow"] > img
+game8.vn##a[href^="http://zxc.world/"]
+game8.vn##.box_quangcao_top > .btn_close_popup
+game8.vn##.box_quangcao_top > a[href][target="_blank"] > img
+game8.vn##.bn1
+game8.vn##.bn2
+game8.vn##.bn3
+game8.vn##.thumb > a[href][target="_blank"] > img[alt^="Banner"][alt$="Adsense"]
+||game8.vn/Partial/Adv*_=
+||game8.vn/Partial/Adv728x90
+||game8.vn/Partial/All_*AdvPartial
+||game8.vn/Partial/All_AdvWidth*Partial
+||game8.vn/Partial/AdvMobileContent?IdAdv=
+game8.vn##.box_quangcao_mobile_320x50
+tinhte.vn#$#.adWidget { position: absolute!important; left: -3000px!important; }
+@@||game24h.vn/js/ads_v*.js?v=$domain=game24h.vn
+khoindvn.io.vn#%#//scriptlet('abort-on-property-read', 'LieDetector')
+vnptioffice.vn#@#body[onbeforeunload="return myFunction()"]
+@@||image.mp3.zdn.vn/banner/
+eva.vn#@##right_ads
+||admicro.vn^
+||ambientplatform.vn^
+||eclick.vn^$third-party
+||gostats.vn^$third-party
+||accesstrade.vn/js/trackingtag/
+||f-emc.ngsp.gov.vn^
+||tracking.aita.gov.vn^
+||za.zdn.vn^
+||omtrdc.jobstreet.vn^
+||sa.adidas.com.vn^
+||saa.dyson.vn^
+||smetrics.kone.vn^
+||smetrics.marketing.lighting.philips.com.vn^
+||smetrics.schindler.vn^
+||smetrics.sony.com.vn^
+||smetrics.sunlife.com.vn^
+||somtrdc.jobstreet.vn^
+||target.sunlife.com.vn^
+||cgctsw.mytour.vn^
+||ctyjsf.cellphones.com.vn^
+||fbycnk.chiaki.vn^
+||msfvwi.sieuthiyte.com.vn^
+||pciidk.shopee.vn^
+||raqwjl.dienthoaigiakho.vn^
+||xsrzqh.vietnamplus.vn^
+||email-am.joneslanglasalle.com.vn^
+||email-ap.joneslanglasalle.com.vn^
+||email-cm.joneslanglasalle.com.vn^
+||engage.3m.com.vn^
+||tk.airfrance.vn^
+||log.ttbc-hcm.gov.vn^
+||logsbin.dantri.com.vn^
+||tka.tiki.vn/pixel/
+||track-srv.vietnamnet.vn^
+||fullcrack.vn^$all
+||formspark.rongviet.com.vn^$all
+||vww-facebook.com.vn^$all
+||www-facebooks.com.vn^$all
+||faceb00k.com.vn^$all
+||m-facebookk.com.vn^$all
+||faecbook.vn^$all
+||taikhoanvps.com.vn^$all
+||vienthongviettel.vn^$all
