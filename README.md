@@ -53,6 +53,8 @@ Cấu trúc:
 - worker/ — trình tổng hợp và xuất bản.
 - systemd/ — service và timer mẫu.
 
+Trên VPS hiện tại, unit được cài trong /usr/local/lib/systemd/system/ và timer được nối trực tiếp vào timers.target qua thư mục timers.target.wants (do /etc chỉ đọc). systemctl có thể hiển thị UnitFileState=disabled dù timer đang active và đã có dependency khởi động. Không cần cron.
+
 Chạy cập nhật thủ công trên VPS đã triển khai:
 
     systemctl start adsblock-filter.service

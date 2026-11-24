@@ -16,3 +16,5 @@ The VPS systemd timer runs every Monday at 03:00 Asia/Ho_Chi_Minh. It downloads 
 Sources: [configuration](source/List_Filter_ADS.txt), [AdGuard Filters](https://github.com/AdguardTeam/AdguardFilters), [EasyList/EasyPrivacy](https://github.com/easylist/easylist), [ABPVN](https://github.com/abpvn/abpvn), [uAssets](https://github.com/uBlockOrigin/uAssets), and [local rules](source/myfilter.txt). Modified aggregate and worker: [GPL-3.0](LICENSE). Upstream copyright and license terms apply; see the Vietnamese README for details. No unauthorized premium lists are included.
 
 Legacy Filer_Path and Lowji194_Filter_ADS.txt URLs have been retired. See [README.md](README.md) for operation and troubleshooting.
+
+Deployment note: units are installed under /usr/local/lib/systemd/system with a persistent timers.target.wants dependency because /etc is read-only. The timer may report disabled as its unit-file state even while active and included in the boot target.
