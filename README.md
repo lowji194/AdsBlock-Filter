@@ -2,7 +2,7 @@
 ---
 # **🔥Bộ Lọc Quảng Cáo By Lợi Nguyễn🔥**
 
-Đây là bộ lọc quảng cáo nâng cao được phát triển bởi **Nguyễn Thế Lợi**. Bộ lọc tổng hợp các nguồn công khai, được tối ưu riêng cho **AdGuard Browser Extension (Desktop)** và **AdGuard for Android**, giúp chặn quảng cáo, hạn chế theo dõi và cải thiện trải nghiệm duyệt web.
+Đây là bộ lọc quảng cáo nâng cao được phát triển bởi **Nguyễn Thế Lợi**. Bộ lọc được tối ưu riêng cho **AdGuard Browser Extension (Desktop)** và **AdGuard for Android**, giúp chặn quảng cáo, hạn chế theo dõi và cải thiện trải nghiệm duyệt web.
 
 ---
 
@@ -12,8 +12,8 @@
 - **Dành cho**: AdGuard Browser Extension / AdGuard for Android
 - **Tác giả**: Nguyễn Thế Lợi
 - **Mô tả**: Bộ lọc chặn quảng cáo và bảo vệ quyền riêng tư
-- **Cập nhật**: Tự động mỗi 7 ngày, lúc 03:00 sáng thứ Hai (UTC+7)
-- **Mã nguồn**: [GitHub](https://github.com/lowji194/AdsBlock-Filter)
+- **Cập nhật**: Tự động mỗi 7 ngày
+- **Dự án**: [GitHub](https://github.com/lowji194/AdsBlock-Filter)
 - **SĐT**: 0963 159 294
 - **Facebook**: [Nguyễn Thế Lợi](https://www.facebook.com/Lowji194/)
 
@@ -56,51 +56,26 @@ https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/AdGuard_
 
 ### 3. **Kích Hoạt Bộ Lọc**
 
-**Desktop (Chrome / Edge / Firefox):** Bộ lọc Lowji194 Desktop chứa quy tắc cá nhân và các quy tắc ưu tiên từ nguồn AdGuard công khai. Hãy bật **AdGuard Base filter**, **AdGuard Tracking Protection filter** (hoặc EasyPrivacy), **AdGuard Quick Fixes filter** nếu có và bộ lọc bảo mật **uBlock Origin – Badware risks** (nếu có) trong danh sách tích hợp sẵn của extension. Không nhập lại các bộ lọc lớn bằng URL tùy chỉnh. ABPVN Free không còn được tổng hợp; nếu cần lọc quảng cáo Việt Nam, có thể bật ABPVN tích hợp hoặc đăng ký bộ lọc thuê bao cá nhân riêng.
+**Desktop:** Bật bộ lọc vừa thêm. Nên bật các bộ lọc chặn quảng cáo, bảo vệ quyền riêng tư và khắc phục lỗi website tích hợp trong AdGuard.
 
-**Android:** Bộ lọc tổng hợp từ các nguồn AdGuard công khai, không bao gồm ABPVN Free và không áp dụng ngân sách rule Desktop.
+**Android:** Bật bộ lọc vừa thêm trong mục Chặn quảng cáo.
 
-Sau khi thêm URL, hãy bật bộ lọc và kiểm tra trạng thái bảo vệ trong AdGuard. Bạn có thể cập nhật, bật hoặc tắt bộ lọc bất kỳ lúc nào trong phần cài đặt.
+> **Lưu ý:** Chỉ sử dụng URL tương ứng với thiết bị. Không đánh dấu bộ lọc là trusted. Nếu trình duyệt thông báo vượt giới hạn quy tắc, hãy giảm số bộ lọc tùy chỉnh đang bật.
 
-> **Lưu ý:** Chỉ thêm bộ lọc tương ứng với thiết bị, không nhập cả hai URL. Trên Android, sử dụng bộ lọc nội dung thay vì DNS filter; khả năng lọc HTTPS phụ thuộc ứng dụng và thiết lập thiết bị. Không đánh dấu bộ lọc là trusted. Chrome/Edge Manifest V3 có giới hạn quy tắc động và regex dùng chung. Worker giới hạn Desktop ở tối đa 20.000 dòng quy tắc thô để chừa ngân sách; số rule DNR thực tế sau chuyển đổi có thể khác. Xem [tài liệu MV3 của AdGuard](https://adguard.com/kb/adguard-browser-extension/mv3-version/). Nếu sử dụng URL cũ, hãy chuyển sang URL mới ở trên.
 
 ---
 
 ## ⚙️ **Thông Tin Kỹ Thuật**
 
-Bộ lọc được tạo ra để giúp chặn quảng cáo, pop-up, các trình theo dõi và một số nội dung không mong muốn. Hệ thống worker tự động tổng hợp nguồn, chuẩn hóa quy tắc, loại bỏ trùng lặp và phân loại theo từng nền tảng.
+- Chặn quảng cáo, cửa sổ bật lên và các thành phần theo dõi.
+- Hỗ trợ AdGuard Browser Extension và AdGuard for Android.
+- Cập nhật tự động mỗi 7 ngày.
+- Đây là bộ lọc nội dung, không dùng cho AdGuard Home hoặc Private DNS.
 
-### **Nguồn Bộ Lọc**
+### **Giấy Phép**
 
-| Nguồn | Desktop | Android |
-|---|:---:|:---:|
-| [AdGuard Base / EasyList](https://github.com/AdguardTeam/AdguardFilters) | Tích hợp sẵn | ✅ |
-| [EasyPrivacy](https://github.com/easylist/easylist) | Tích hợp sẵn | ✅ |
-| [uBlock Badware risks (bản tối ưu cho AdGuard)](https://github.com/uBlockOrigin/uAssets) | Tích hợp sẵn | ✅ |
-| [Bộ lọc bổ sung của Lowji194](https://github.com/lowji194) | ✅ | ✅ |
-| [AdGuard Mobile Ads](https://github.com/AdguardTeam/AdguardFilters) | — | ✅ |
+Bộ lọc tổng hợp được cung cấp theo [GPL-3.0](README-EN.md#license). Bản quyền và các điều khoản giấy phép của các dự án gốc vẫn được áp dụng. Ghi nhận đóng góp: AdGuard Filters, EasyList, EasyPrivacy và uBlock Origin uAssets.
 
-Các mục "Tích hợp sẵn" là khuyến nghị bật trực tiếp trong extension, không nằm trong file Desktop.
-
-Bộ lọc công khai sử dụng các biến thể tương thích AdGuard từ nguồn công khai; không bao gồm các nguồn thuê bao cá nhân.
-
-### **Cơ Chế Cập Nhật Tự Động**
-
-- **Chu kỳ:** 7 ngày/lần (03:00 sáng thứ Hai, UTC+7).
-- **Hệ thống:** Python Worker + Systemd Timer trên VPS.
-- **Ngân sách Desktop:** Tối đa 20.000 quy tắc thô, gồm quy tắc cá nhân và quy tắc ưu tiên và ngoại lệ từ nguồn công khai. Nếu vượt ngưỡng, dừng xuất bản thay vì cắt tùy tiện các rule hoặc ngoại lệ. Không giới hạn Android theo chính sách này.
-- **Quy trình:** Tải nguồn → kiểm tra dữ liệu → lọc trùng → tạo hai bộ lọc → cập nhật GitHub nếu nội dung thay đổi.
-- **An toàn:** Tự thử lại tối đa 3 lần; nếu nguồn lỗi hoặc số quy tắc giảm bất thường, giữ nguyên bản đã xuất bản.
-- **Vận hành:** Worker và cấu hình nguồn được lưu riêng; repository này chỉ phát hành bộ lọc và tài liệu sử dụng.
-
-Bộ lọc được cập nhật tự động trên VPS. Người dùng không cần cài đặt worker hoặc systemd.
-
-
-### **Giấy Phép và Tương Thích**
-
-Bản tổng hợp đã được sửa đổi và worker được phân phối theo [GPL-3.0](README-EN.md#license). Bản quyền thuộc các tác giả nguồn tương ứng; điều khoản giấy phép upstream vẫn áp dụng (EasyList/EasyPrivacy có lựa chọn giấy phép theo dự án). Nguồn được ghi trong header của mỗi file.
-
-Đây là dự án độc lập, không phải bộ lọc chính thức của AdGuard. Không dùng cho AdGuard Home hoặc Android Private DNS. Hệ thống cập nhật đã được kiểm thử và URL đã được xác minh; chưa kiểm thử nhập trực tiếp trên thiết bị. Không bảo đảm chặn mọi quảng cáo hoặc thay thế phần mềm chống mã độc.
 
 ---
 

@@ -1,7 +1,7 @@
 [![🇻🇳 Tiếng Việt](https://img.shields.io/badge/Ngôn_ngữ-Tiếng_Việt-red?style=for-the-badge&logo=Google%20Translate)](README.md)
 # **🔥Ad Filter By Loi Nguyen🔥**
 
-This is an advanced ad filter developed by **Nguyen The Loi**. It combines public filter sources into separate subscriptions optimized for **AdGuard Browser Extension (Desktop)** and **AdGuard for Android**, helping block ads, reduce tracking, and improve your browsing experience.
+This is an advanced ad filter developed by **Nguyen The Loi**. It provides separate subscriptions optimized for **AdGuard Browser Extension (Desktop)** and **AdGuard for Android**, helping block ads, reduce tracking, and improve your browsing experience.
 
 ---
 
@@ -11,8 +11,8 @@ This is an advanced ad filter developed by **Nguyen The Loi**. It combines publi
 - **For**: AdGuard Browser Extension / AdGuard for Android
 - **Author**: Nguyen The Loi
 - **Description**: Ad blocking and privacy protection
-- **Updates**: Automatically every 7 days, Monday at 03:00 (UTC+7)
-- **Source code**: [GitHub](https://github.com/lowji194/AdsBlock-Filter)
+- **Updates**: Automatically every 7 days
+- **Project**: [GitHub](https://github.com/lowji194/AdsBlock-Filter)
 - **Phone**: 0963 159 294
 - **Facebook**: [Nguyen The Loi](https://www.facebook.com/Lowji194/)
 
@@ -55,51 +55,26 @@ https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/AdGuard_
 
 ### 3. **Enable the Filter**
 
-**Desktop (Chrome / Edge / Firefox):** Lowji194 Desktop is a lightweight supplement containing public custom rules and prioritized rules from official AdGuard sources. Enable **AdGuard Base filter**, **AdGuard Tracking Protection filter** (or EasyPrivacy), **AdGuard Quick Fixes filter** when available, and the built-in **uBlock Origin – Badware risks** security filter if available. Do not import these large lists again through custom URLs. ABPVN Free is no longer included; enable the built-in ABPVN filter if needed, or subscribe to a personal paid list separately.
+**Desktop:** Enable your new filter. Keep AdGuard's built-in ad blocking, privacy protection and website fixes enabled.
 
-**Android:** The public AdGuard aggregate excludes ABPVN Free and is not subject to the Desktop budget.
+**Android:** Enable your new filter in Ad blocking settings.
 
-After adding the URL, enable the filter and check your protection status in AdGuard. You can update, enable, or disable it at any time in the settings.
+> **Note:** Use only the URL for your device. Do not mark the filter as trusted. If the browser reports a rule limit, reduce the number of enabled custom filters.
 
-> **Note:** Add only the URL matching your device. On Android, use content filters, not DNS filters. HTTPS filtering depends on the application and device configuration. Do not mark this list as trusted. Chrome/Edge Manifest V3 shares dynamic and regex quotas. The worker caps Desktop at 20,000 raw rules to leave headroom; the actual converted DNR rule count may differ. See [AdGuard MV3 documentation](https://adguard.com/kb/adguard-browser-extension/mv3-version/). Replace any legacy subscription URLs with the new ones above.
 
 ---
 
 ## ⚙️ **Technical Information**
 
-These filters help block ads, pop-ups, tracking services, and some other unwanted content. The automated worker combines sources, normalizes rules, removes exact duplicates, and builds platform-specific subscriptions.
+- Blocks ads, pop-ups and tracking elements.
+- Supports AdGuard Browser Extension and AdGuard for Android.
+- Automatically updated every 7 days.
+- Content filters only; not intended for AdGuard Home or Private DNS.
 
-### **Filter Sources**
+### **License and Attribution**
 
-| Source | Desktop | Android |
-|---|:---:|:---:|
-| [AdGuard Base / EasyList](https://github.com/AdguardTeam/AdguardFilters) | Built-in | ✅ |
-| [EasyPrivacy](https://github.com/easylist/easylist) | Built-in | ✅ |
-| [uBlock Badware risks (AdGuard-optimized)](https://github.com/uBlockOrigin/uAssets) | Built-in | ✅ |
-| [Lowji194 custom rules](https://github.com/lowji194) | ✅ | ✅ |
-| [AdGuard Mobile Ads](https://github.com/AdguardTeam/AdguardFilters) | — | ✅ |
+The combined filters are provided under [GPL-3.0](README-EN.md#license). Upstream copyright and license terms still apply. Credits: AdGuard Filters, EasyList, EasyPrivacy and uBlock Origin uAssets.
 
-Entries marked "Built-in" are recommended extension filters, not included in the Desktop subscription.
-
-The public filters use public AdGuard-compatible sources and exclude personal paid subscriptions.
-
-### **Automatic Updates**
-
-- **Schedule:** Every 7 days (Monday at 03:00, UTC+7).
-- **System:** Python worker and systemd timer on a VPS.
-- **Desktop budget:** Maximum 20,000 raw rules, containing local supplementary rules and prioritized public AdGuard rules and exceptions. If the budget is exceeded, publishing stops rather than arbitrarily truncating rules or exceptions. Android is not subject to this policy.
-- **Process:** Download → validate → deduplicate → build two filters → publish changes to GitHub.
-- **Safety:** Up to three attempts per source; failed downloads or unusually large rule-count drops preserve the previously published version.
-- **Operation:** Worker and source configuration are maintained privately; this repository publishes only filters and user documentation.
-
-Subscriptions are updated automatically on the VPS. Users do not need to install the worker or systemd.
-
-
-### **License and Compatibility**
-
-The modified aggregate and worker are distributed under [GPL-3.0](README-EN.md#license). Upstream copyright and license terms apply (including the license options offered by EasyList/EasyPrivacy). Source URLs are recorded in each filter header.
-
-This independent project is not an official AdGuard filter. Not intended for AdGuard Home or Android Private DNS. The update system and raw URLs have been verified; actual device imports have not been tested. No filter guarantees blocking every ad or replaces dedicated malware protection.
 
 ---
 
