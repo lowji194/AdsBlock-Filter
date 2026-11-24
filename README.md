@@ -1,68 +1,118 @@
-# AdsBlock Filter — Lowji194
+[![🇺🇸 English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge&logo=Google%20Translate)](README-EN.md)
+---
+# **🔥Bộ Lọc Quảng Cáo By Lợi Nguyễn🔥**
 
-[English](README-EN.md) · [Website](https://theloi.io.vn/)
+Đây là bộ lọc quảng cáo nâng cao được phát triển bởi **Nguyễn Thế Lợi**. Bộ lọc tổng hợp các nguồn công khai, được tối ưu riêng cho **AdGuard Browser Extension (Desktop)** và **AdGuard for Android**, giúp chặn quảng cáo, hạn chế theo dõi và cải thiện trải nghiệm duyệt web.
 
-Bộ lọc quảng cáo và theo dõi tổng hợp từ các nguồn công khai, dành riêng cho AdGuard Browser Extension (máy tính) và AdGuard Android (ứng dụng đầy đủ).
+---
 
-## Đăng ký bộ lọc
+## 📅 **Thông Tin Cập Nhật**
 
-| Thiết bị | Link đăng ký |
-|---|---|
-| Desktop | [AdGuard_Desktop.txt](https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/AdGuard_Desktop.txt) |
-| Android | [AdGuard_Android.txt](https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/AdGuard_Android.txt) |
+- **Website**: [Lowji194](https://theloi.io.vn/)
+- **Dành cho**: AdGuard Browser Extension / AdGuard for Android
+- **Tác giả**: Nguyễn Thế Lợi
+- **Mô tả**: Bộ lọc chặn quảng cáo và bảo vệ quyền riêng tư
+- **Cập nhật**: Tự động mỗi 7 ngày, lúc 03:00 sáng thứ Hai (UTC+7)
+- **Mã nguồn**: [GitHub](https://github.com/lowji194/AdsBlock-Filter)
+- **SĐT**: 0963 159 294
+- **Facebook**: [Nguyễn Thế Lợi](https://www.facebook.com/Lowji194/)
 
-**Chỉ thêm một bộ lọc tương ứng với thiết bị.** Không nhập hai file cùng lúc.
+---
 
-### Desktop
+## 🚀 **Hướng Dẫn Sử Dụng**
 
-Cài [AdGuard Browser Extension](https://adguard.com/en/adguard-browser-extension/overview.html), mở Settings → Filters → Custom → Add custom filter, dán URL Desktop rồi lưu và bật bộ lọc.
+Bộ lọc được chia thành hai phiên bản riêng biệt dành cho máy tính và Android. Bạn chỉ cần cài AdGuard và đăng ký một URL phù hợp với thiết bị của mình.
 
-### Android
+### 1. **Cài Đặt AdGuard**
 
-Cài [AdGuard for Android](https://adguard.com/en/adguard-android/overview.html), mở Protection → Ad blocking → Filters → Custom filters → Add custom filter, dán URL Android. Tên mục có thể khác theo phiên bản ứng dụng. Dùng bộ lọc nội dung, không nhập vào DNS filters hay Android Private DNS. Để lọc HTTPS cần bật tính năng tương ứng theo hướng dẫn AdGuard; không phải mọi ứng dụng đều hỗ trợ lọc HTTPS.
+- 🖥️ **AdGuard Browser Extension (Desktop)**: Cài đặt từ [Chrome Web Store](https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg), [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/adguard-adblocker/) hoặc [trang tải chính thức](https://adguard.com/en/adguard-browser-extension/overview.html).
+- 📱 **AdGuard for Android**: Tải ứng dụng đầy đủ từ [trang chủ AdGuard](https://adguard.com/en/adguard-android/overview.html).
 
-### Lưu ý
+### 2. **Thêm Bộ Lọc vào AdGuard**
 
-- Đây là bộ lọc tùy chỉnh tổng hợp, không phải bộ lọc chính thức của AdGuard. Không cần bật thêm nhiều bộ lọc trùng nội dung; nên giữ các bộ lọc chính thức cần thiết cho scriptlet đáng tin cậy và các tính năng không có trong bản tổng hợp.
-- Chrome/Edge Manifest V3 có giới hạn rule; một phần rule có thể không được áp dụng. Nếu gặp cảnh báo giới hạn, dùng các bộ lọc chính thức tối ưu hoặc Firefox. Chưa kiểm thử nhập trực tiếp trên thiết bị.
-- Không bật chế độ trusted chỉ để cài bộ lọc này. Worker loại bỏ scriptlet yêu cầu quyền trusted và cú pháp uBlock riêng không tương thích.
-- Không bảo đảm chặn mọi quảng cáo, nhất là YouTube/quảng cáo tích hợp trong nội dung ứng dụng. Nếu website/app lỗi, thử tắt bộ lọc hoặc tạo ngoại lệ.
-- Không dùng các file này cho AdGuard Home.
+#### 🖥️ AdGuard Browser Extension — Desktop
 
-## Nguồn và giấy phép
+1. Nhấp vào biểu tượng **AdGuard** trên trình duyệt.
+2. Chọn **Cài đặt (Settings)** → **Bộ lọc (Filters)**.
+3. Mở mục **Tùy chỉnh (Custom)**, chọn **Thêm bộ lọc (Add custom filter)** và nhập URL sau:
 
-Danh sách cập nhật: [source/List_Filter_ADS.txt](source/List_Filter_ADS.txt). Các nguồn hiện tại:
+```text
+https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/AdGuard_Desktop.txt
+```
 
-- [AdGuard Filters](https://github.com/AdguardTeam/AdguardFilters) — GPL-3.0; Base (bao gồm EasyList) và Mobile Ads (Android).
-- [EasyList / EasyPrivacy](https://github.com/easylist/easylist) — giấy phép theo upstream (GPL-3.0 hoặc CC BY-SA theo điều khoản của dự án); dùng bản EasyPrivacy tối ưu do AdGuard phân phối.
-- [ABPVN](https://github.com/abpvn/abpvn) — GPL-3.0; bản AdGuard, ưu tiên website Việt Nam.
-- [uBlock Origin uAssets](https://github.com/uBlockOrigin/uAssets) — GPL-3.0; bản Badware risks tối ưu cho AdGuard.
-- [Quy tắc bổ sung](source/myfilter.txt) — Lowji194.
+[![Desktop](https://img.shields.io/badge/AdGuard-Desktop-4285F4?style=for-the-badge&logo=adguard&logoColor=white)](https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/AdGuard_Desktop.txt)
 
-Bản tổng hợp đã được sửa đổi: chuẩn hóa hosts/domain, loại trùng chính xác, loại cú pháp không phù hợp và phân loại theo nền tảng. Bản tổng hợp và worker được phân phối theo [GPL-3.0](LICENSE), giữ bản quyền của các tác giả upstream. URL nguồn được ghi trong header của từng file. Không tổng hợp nguồn VIP/premium chưa có quyền phân phối lại, danh sách DNS tổng hợp, raw uBlock hoặc URLhaus dạng không phù hợp. Badware risks chỉ bổ sung, không thay thế bảo vệ malware chuyên dụng.
+#### 📱 AdGuard for Android — Mobile
 
-## Cập nhật tự động
+1. Mở ứng dụng **AdGuard** và vào **Bảo vệ (Protection)**.
+2. Chọn **Chặn quảng cáo (Ad blocking)** → **Bộ lọc (Filters)** → **Bộ lọc tùy chỉnh (Custom filters)**.
+3. Chọn **Thêm bộ lọc** và nhập URL sau:
 
-Worker chạy trên VPS bằng systemd mỗi thứ Hai lúc 03:00 (UTC+7). Tải song song nguồn công khai, retry 3 lần, kiểm tra định dạng/số lượng, lọc trùng và chỉ commit khi nội dung thay đổi. Nếu một nguồn bị lỗi hoặc số lượng rule giảm bất thường, không xuất bản bản mới. Git push sử dụng xác thực GitHub CLI đã cấu hình trên VPS, không lưu token trong repository.
+```text
+https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/AdGuard_Android.txt
+```
 
-Cấu trúc:
+[![Android](https://img.shields.io/badge/AdGuard-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/AdGuard_Android.txt)
 
-- source/List_Filter_ADS.txt — danh sách nguồn theo [common], [desktop], [android].
-- source/myfilter.txt — quy tắc bổ sung thủ công.
-- filters/ — hai file kết quả.
-- worker/ — trình tổng hợp và xuất bản.
-- systemd/ — service và timer mẫu.
+### 3. **Kích Hoạt Bộ Lọc**
 
-Trên VPS hiện tại, unit được cài trong /usr/local/lib/systemd/system/ và timer được nối trực tiếp vào timers.target qua thư mục timers.target.wants (do /etc chỉ đọc). systemctl có thể hiển thị UnitFileState=disabled dù timer đang active và đã có dependency khởi động. Không cần cron.
+Sau khi thêm URL, hãy bật bộ lọc và kiểm tra trạng thái bảo vệ trong AdGuard. Bạn có thể cập nhật, bật hoặc tắt bộ lọc bất kỳ lúc nào trong phần cài đặt.
 
-Chạy cập nhật thủ công trên VPS đã triển khai:
+> **Lưu ý:** Chỉ thêm bộ lọc tương ứng với thiết bị, không nhập cả hai URL. Trên Android, sử dụng bộ lọc nội dung thay vì DNS filter; khả năng lọc HTTPS phụ thuộc ứng dụng và thiết lập thiết bị. Không đánh dấu bộ lọc là trusted. Chrome/Edge Manifest V3 có giới hạn số quy tắc; hiệu quả thực tế phụ thuộc phiên bản AdGuard. Nếu sử dụng URL cũ, hãy chuyển sang URL mới ở trên.
 
-    systemctl start adsblock-filter.service
-    systemctl list-timers adsblock-filter.timer
-    journalctl -u adsblock-filter.service -n 50 --no-pager
+---
 
-Các URL cũ trong Filer_Path và Lowji194_Filter_ADS.txt đã ngừng sử dụng; hãy chuyển sang URL mới ở trên.
+## ⚙️ **Thông Tin Kỹ Thuật**
 
-## Liên hệ
+Bộ lọc được tạo ra để giúp chặn quảng cáo, pop-up, các trình theo dõi và một số nội dung không mong muốn. Hệ thống worker tự động tổng hợp nguồn, chuẩn hóa quy tắc, loại bỏ trùng lặp và phân loại theo từng nền tảng.
 
-[GitHub](https://github.com/lowji194) · [Website](https://theloi.io.vn/)
+### **Nguồn Bộ Lọc**
+
+| Nguồn | Desktop | Android |
+|---|:---:|:---:|
+| [AdGuard Base / EasyList](https://github.com/AdguardTeam/AdguardFilters) | ✅ | ✅ |
+| [EasyPrivacy](https://github.com/easylist/easylist) | ✅ | ✅ |
+| [ABPVN List](https://github.com/abpvn/abpvn) | ✅ | ✅ |
+| [uBlock Badware risks (bản tối ưu cho AdGuard)](https://github.com/uBlockOrigin/uAssets) | ✅ | ✅ |
+| [Bộ lọc bổ sung của Lowji194](source/myfilter.txt) | ✅ | ✅ |
+| [AdGuard Mobile Ads](https://github.com/AdguardTeam/AdguardFilters) | — | ✅ |
+
+Danh sách nguồn: [List_Filter_ADS.txt](source/List_Filter_ADS.txt). Sử dụng các biến thể phù hợp với AdGuard; không tổng hợp nguồn VIP/premium chưa được phép phân phối lại, danh sách DNS tổng hợp hoặc URLhaus định dạng cũ.
+
+### **Cơ Chế Cập Nhật Tự Động**
+
+- **Chu kỳ:** 7 ngày/lần (03:00 sáng thứ Hai, UTC+7).
+- **Hệ thống:** Python Worker + Systemd Timer trên VPS.
+- **Quy trình:** Tải nguồn → kiểm tra dữ liệu → lọc trùng → tạo hai bộ lọc → cập nhật GitHub nếu nội dung thay đổi.
+- **An toàn:** Tự thử lại tối đa 3 lần; nếu nguồn lỗi hoặc số quy tắc giảm bất thường, giữ nguyên bản đã xuất bản.
+- **Mã nguồn:** [Worker](worker/) · [Systemd](systemd/).
+
+Trên VPS hiện tại, systemd unit được đặt tại /usr/local/lib/systemd/system/ và liên kết với timers.target do /etc chỉ đọc. Timer đang hoạt động, nhưng chưa kiểm thử khởi động lại VPS. Lệnh cập nhật thủ công:
+
+```bash
+systemctl start adsblock-filter.service
+systemctl list-timers adsblock-filter.timer
+journalctl -u adsblock-filter.service -n 50 --no-pager
+```
+
+### **Giấy Phép và Tương Thích**
+
+Bản tổng hợp đã được sửa đổi và worker được phân phối theo [GPL-3.0](LICENSE). Bản quyền thuộc các tác giả nguồn tương ứng; điều khoản giấy phép upstream vẫn áp dụng (EasyList/EasyPrivacy có lựa chọn giấy phép theo dự án). Nguồn được ghi trong header của mỗi file.
+
+Đây là dự án độc lập, không phải bộ lọc chính thức của AdGuard. Không dùng cho AdGuard Home hoặc Android Private DNS. Worker đã được kiểm thử và URL đã được xác minh; chưa kiểm thử nhập trực tiếp trên thiết bị. Không bảo đảm chặn mọi quảng cáo hoặc thay thế phần mềm chống mã độc.
+
+---
+
+## 📫 Liên hệ với tôi
+
+- 📞 **SĐT:** 0963 159 294
+- 🌐 **Website:** [lowji194.github.io](https://lowji194.github.io)
+- 📌 **Facebook:** [Lowji194](https://facebook.com/Lowji194)
+
+---
+
+## ☕ Nếu bạn thấy dự án này hữu ích, một ly cà phê từ bạn sẽ là động lực tuyệt vời để mình tiếp tục phát triển thêm!
+
+<p align="center">
+  <img src="https://theloi.io.vn/pay/QR.png?text=QR+Code" alt="Mời cà phê" width="240" />
+</p>
