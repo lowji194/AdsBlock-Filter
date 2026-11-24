@@ -6,9 +6,9 @@ https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn_adguard.txt
 https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/refs/heads/main/source/myfilter.txt
 
 [desktop]
-https://filters.adtidy.org/extension/chromium/filters/2_optimized.txt
-https://filters.adtidy.org/extension/chromium/filters/118_optimized.txt
-https://filters.adtidy.org/extension/chromium/filters/257_optimized.txt
+# Desktop supplement: common rules only by default.
+# Enable Base, privacy and security filters in AdGuard itself (built-in rules).
+# Do not add large general-purpose lists here.
 
 [android]
 https://filters.adtidy.org/android/filters/2_optimized.txt

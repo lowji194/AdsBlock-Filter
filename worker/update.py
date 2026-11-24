@@ -17,6 +17,9 @@ SOURCE = ROOT / "source/List_Filter_ADS.txt"
 LOCAL = "https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/refs/heads/main/source/myfilter.txt"
 FILES = {"desktop": "AdGuard_Desktop.txt", "android": "AdGuard_Android.txt"}
 MAX_BYTES = 40 * 1024 * 1024
+# Conservative raw-rule budget, not a DNR converted-rule count.
+DESKTOP_MAX_RULES = 3000
+DESKTOP_POLICY = "supplement-v1"
 DOMAIN = re.compile(r"(?=.{1,253}$)(?:[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?", re.I)
 HOST = re.compile(r"^(?:0\.0\.0\.0|127\.0\.0\.1|::|::1)\s+(\S+)(?:\s+#.*)?$")
 TRUSTED = re.compile(r"#(?:@)?%#(?!//scriptlet\()|#(?:@)?%#//scriptlet\(\s*['\"]trusted-", re.I)
@@ -112,6 +115,26 @@ def make_body(urls, fetched):
                 rules.append(rule)
     return rules, total - len(rules)
 
+def validate_budget(target, rules, old):
+    if target == "desktop" and len(rules) > DESKTOP_MAX_RULES:
+        raise ValueError(
+            f"Desktop raw-rule budget exceeded: {len(rules)} > {DESKTOP_MAX_RULES}; "
+            "review sources instead of truncating rules or exceptions"
+        )
+    if len(rules) < (100 if target == "desktop" else 1000):
+        raise ValueError(f"Too few total rules for {target}")
+    if not old:
+        return
+    old_rules = sum(bool(l) and not l.startswith(("!", "[")) for l in old.splitlines())
+    # Only allow migration from the legacy oversized Desktop list.
+    legacy_desktop = (
+        target == "desktop"
+        and old_rules > DESKTOP_MAX_RULES
+        and f"! Policy: {DESKTOP_POLICY}\n" not in old
+    )
+    if not legacy_desktop and len(rules) < old_rules * 0.75:
+        raise ValueError(f"Suspicious rule count drop for {target}: {old_rules} -> {len(rules)}")
+
 def build():
     targets = sources()
     urls = list(dict.fromkeys(u for group in targets.values() for u in group))
@@ -123,16 +146,13 @@ def build():
     outputs = {}
     for target, name in FILES.items():
         rules, duplicates = make_body(targets[target], fetched)
-        if len(rules) < 1000:
-            raise ValueError(f"Too few total rules for {target}")
         path = ROOT / "filters" / name
         old = path.read_text(encoding="utf-8") if path.exists() else ""
         body = "\n".join(rules) + "\n"
         digest = hashlib.sha256(("\n".join(targets[target]) + "\n" + body).encode()).hexdigest()
-        if old:
-            old_rules = sum(bool(l) and not l.startswith(("!", "[")) for l in old.splitlines())
-            if len(rules) < old_rules * 0.75:
-                raise ValueError(f"Suspicious rule count drop for {target}: {old_rules} -> {len(rules)}")
+        validate_budget(target, rules, old)
+        if target == "desktop":
+            print(f"desktop raw-rule budget: {len(rules)}/{DESKTOP_MAX_RULES}", flush=True)
         print(f"{target}: {len(rules)} unique, {duplicates} duplicates removed", flush=True)
         if f"! Content-SHA256: {digest}\n" in old and old.split("! End header\n", 1)[-1] == body:
             continue
@@ -143,6 +163,8 @@ def build():
             "! Expires: 7 days", "! Homepage: https://github.com/lowji194/AdsBlock-Filter",
             "! License: GPL-3.0; upstream attribution: see README.md",
             f"! Rules: {len(rules)}", f"! Content-SHA256: {digest}",
+            *([f"! Policy: {DESKTOP_POLICY}", f"! Raw-rule budget: {DESKTOP_MAX_RULES}",
+               "! Desktop supplement: enable built-in Base, tracking protection, Quick Fixes and security filters in AdGuard."] if target == "desktop" else []),
             *("! Source: " + u for u in targets[target]), "! End header"
         ]
         outputs[path] = "\n".join(header) + "\n" + body

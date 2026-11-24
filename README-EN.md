@@ -55,9 +55,13 @@ https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/AdGuard_
 
 ### 3. **Enable the Filter**
 
+**Desktop (Chrome / Edge / Firefox):** Lowji194 Desktop is a lightweight supplement. Enable **AdGuard Base filter**, **AdGuard Tracking Protection filter** (or EasyPrivacy), **AdGuard Quick Fixes filter** when available, and the built-in **uBlock Origin – Badware risks** security filter if available. Do not import these large lists again through custom URLs. ABPVN is already included in Lowji194 Desktop; avoid enabling duplicate ABPVN lists.
+
+**Android:** The full aggregate is unchanged and is not subject to the Desktop budget.
+
 After adding the URL, enable the filter and check your protection status in AdGuard. You can update, enable, or disable it at any time in the settings.
 
-> **Note:** Add only the URL matching your device. On Android, use content filters, not DNS filters. HTTPS filtering depends on the application and device configuration. Do not mark this list as trusted. Chrome/Edge Manifest V3 imposes rule limits; actual coverage depends on your AdGuard version. Replace any legacy subscription URLs with the new ones above.
+> **Note:** Add only the URL matching your device. On Android, use content filters, not DNS filters. HTTPS filtering depends on the application and device configuration. Do not mark this list as trusted. Chrome/Edge Manifest V3 shares dynamic and regex quotas. The worker caps Desktop at 3,000 raw rules to leave headroom; the actual converted DNR rule count may differ. See [AdGuard MV3 documentation](https://adguard.com/kb/adguard-browser-extension/mv3-version/). Replace any legacy subscription URLs with the new ones above.
 
 ---
 
@@ -69,12 +73,14 @@ These filters help block ads, pop-ups, tracking services, and some other unwante
 
 | Source | Desktop | Android |
 |---|:---:|:---:|
-| [AdGuard Base / EasyList](https://github.com/AdguardTeam/AdguardFilters) | ✅ | ✅ |
-| [EasyPrivacy](https://github.com/easylist/easylist) | ✅ | ✅ |
+| [AdGuard Base / EasyList](https://github.com/AdguardTeam/AdguardFilters) | Built-in | ✅ |
+| [EasyPrivacy](https://github.com/easylist/easylist) | Built-in | ✅ |
 | [ABPVN List](https://github.com/abpvn/abpvn) | ✅ | ✅ |
-| [uBlock Badware risks (AdGuard-optimized)](https://github.com/uBlockOrigin/uAssets) | ✅ | ✅ |
+| [uBlock Badware risks (AdGuard-optimized)](https://github.com/uBlockOrigin/uAssets) | Built-in | ✅ |
 | [Lowji194 custom rules](source/myfilter.txt) | ✅ | ✅ |
 | [AdGuard Mobile Ads](https://github.com/AdguardTeam/AdguardFilters) | — | ✅ |
+
+Entries marked "Built-in" are recommended extension filters, not included in the Desktop subscription.
 
 Source configuration: [List_Filter_ADS.txt](source/List_Filter_ADS.txt). AdGuard-compatible variants are used; unauthorized premium lists, DNS-only aggregates, and the legacy URLhaus format are excluded.
 
@@ -82,6 +88,7 @@ Source configuration: [List_Filter_ADS.txt](source/List_Filter_ADS.txt). AdGuard
 
 - **Schedule:** Every 7 days (Monday at 03:00, UTC+7).
 - **System:** Python worker and systemd timer on a VPS.
+- **Desktop budget:** Maximum 3,000 raw rules, prioritizing ABPVN and local rules. If the budget is exceeded, publishing stops rather than arbitrarily truncating rules or exceptions. Android is not subject to this policy.
 - **Process:** Download → validate → deduplicate → build two filters → publish changes to GitHub.
 - **Safety:** Up to three attempts per source; failed downloads or unusually large rule-count drops preserve the previously published version.
 - **Source code:** [Worker](worker/) · [Systemd](systemd/).
