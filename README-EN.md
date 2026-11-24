@@ -55,9 +55,9 @@ https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/AdGuard_
 
 ### 3. **Enable the Filter**
 
-**Desktop (Chrome / Edge / Firefox):** Lowji194 Desktop is a lightweight supplement. Enable **AdGuard Base filter**, **AdGuard Tracking Protection filter** (or EasyPrivacy), **AdGuard Quick Fixes filter** when available, and the built-in **uBlock Origin – Badware risks** security filter if available. Do not import these large lists again through custom URLs. ABPVN is already included in Lowji194 Desktop; avoid enabling duplicate ABPVN lists.
+**Desktop (Chrome / Edge / Firefox):** Lowji194 Desktop is a lightweight supplement containing only public custom rules. Enable **AdGuard Base filter**, **AdGuard Tracking Protection filter** (or EasyPrivacy), **AdGuard Quick Fixes filter** when available, and the built-in **uBlock Origin – Badware risks** security filter if available. Do not import these large lists again through custom URLs. ABPVN Free is no longer included; enable the built-in ABPVN filter if needed, or subscribe to a personal paid list separately.
 
-**Android:** The full aggregate is unchanged and is not subject to the Desktop budget.
+**Android:** The public AdGuard aggregate excludes ABPVN Free and is not subject to the Desktop budget.
 
 After adding the URL, enable the filter and check your protection status in AdGuard. You can update, enable, or disable it at any time in the settings.
 
@@ -75,7 +75,6 @@ These filters help block ads, pop-ups, tracking services, and some other unwante
 |---|:---:|:---:|
 | [AdGuard Base / EasyList](https://github.com/AdguardTeam/AdguardFilters) | Built-in | ✅ |
 | [EasyPrivacy](https://github.com/easylist/easylist) | Built-in | ✅ |
-| [ABPVN List](https://github.com/abpvn/abpvn) | ✅ | ✅ |
 | [uBlock Badware risks (AdGuard-optimized)](https://github.com/uBlockOrigin/uAssets) | Built-in | ✅ |
 | [Lowji194 custom rules](https://github.com/lowji194) | ✅ | ✅ |
 | [AdGuard Mobile Ads](https://github.com/AdguardTeam/AdguardFilters) | — | ✅ |
@@ -88,7 +87,7 @@ The public filters use public AdGuard-compatible sources and exclude personal pa
 
 - **Schedule:** Every 7 days (Monday at 03:00, UTC+7).
 - **System:** Python worker and systemd timer on a VPS.
-- **Desktop budget:** Maximum 3,000 raw rules, prioritizing ABPVN and local rules. If the budget is exceeded, publishing stops rather than arbitrarily truncating rules or exceptions. Android is not subject to this policy.
+- **Desktop budget:** Maximum 3,000 raw rules, containing local supplementary rules. If the budget is exceeded, publishing stops rather than arbitrarily truncating rules or exceptions. Android is not subject to this policy.
 - **Process:** Download → validate → deduplicate → build two filters → publish changes to GitHub.
 - **Safety:** Up to three attempts per source; failed downloads or unusually large rule-count drops preserve the previously published version.
 - **Operation:** Worker and source configuration are maintained privately; this repository publishes only filters and user documentation.

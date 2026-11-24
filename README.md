@@ -56,9 +56,9 @@ https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/AdGuard_
 
 ### 3. **Kích Hoạt Bộ Lọc**
 
-**Desktop (Chrome / Edge / Firefox):** Bộ lọc Lowji194 Desktop là bộ lọc bổ sung nhẹ. Hãy bật **AdGuard Base filter**, **AdGuard Tracking Protection filter** (hoặc EasyPrivacy), **AdGuard Quick Fixes filter** nếu có và bộ lọc bảo mật **uBlock Origin – Badware risks** (nếu có) trong danh sách tích hợp sẵn của extension. Không nhập lại các bộ lọc lớn bằng URL tùy chỉnh. Nếu ABPVN tích hợp đã bật, có thể tắt bản tích hợp để tránh trùng với ABPVN trong Lowji194 Desktop.
+**Desktop (Chrome / Edge / Firefox):** Bộ lọc Lowji194 Desktop hiện chỉ chứa các quy tắc bổ sung cá nhân được phép công khai. Hãy bật **AdGuard Base filter**, **AdGuard Tracking Protection filter** (hoặc EasyPrivacy), **AdGuard Quick Fixes filter** nếu có và bộ lọc bảo mật **uBlock Origin – Badware risks** (nếu có) trong danh sách tích hợp sẵn của extension. Không nhập lại các bộ lọc lớn bằng URL tùy chỉnh. ABPVN Free không còn được tổng hợp; nếu cần lọc quảng cáo Việt Nam, có thể bật ABPVN tích hợp hoặc đăng ký bộ lọc thuê bao cá nhân riêng.
 
-**Android:** Bộ lọc tổng hợp đầy đủ như trước, không áp dụng ngân sách rule Desktop.
+**Android:** Bộ lọc tổng hợp từ các nguồn AdGuard công khai, không bao gồm ABPVN Free và không áp dụng ngân sách rule Desktop.
 
 Sau khi thêm URL, hãy bật bộ lọc và kiểm tra trạng thái bảo vệ trong AdGuard. Bạn có thể cập nhật, bật hoặc tắt bộ lọc bất kỳ lúc nào trong phần cài đặt.
 
@@ -76,7 +76,6 @@ Bộ lọc được tạo ra để giúp chặn quảng cáo, pop-up, các trìn
 |---|:---:|:---:|
 | [AdGuard Base / EasyList](https://github.com/AdguardTeam/AdguardFilters) | Tích hợp sẵn | ✅ |
 | [EasyPrivacy](https://github.com/easylist/easylist) | Tích hợp sẵn | ✅ |
-| [ABPVN List](https://github.com/abpvn/abpvn) | ✅ | ✅ |
 | [uBlock Badware risks (bản tối ưu cho AdGuard)](https://github.com/uBlockOrigin/uAssets) | Tích hợp sẵn | ✅ |
 | [Bộ lọc bổ sung của Lowji194](https://github.com/lowji194) | ✅ | ✅ |
 | [AdGuard Mobile Ads](https://github.com/AdguardTeam/AdguardFilters) | — | ✅ |
@@ -89,7 +88,7 @@ Bộ lọc công khai sử dụng các biến thể tương thích AdGuard từ 
 
 - **Chu kỳ:** 7 ngày/lần (03:00 sáng thứ Hai, UTC+7).
 - **Hệ thống:** Python Worker + Systemd Timer trên VPS.
-- **Ngân sách Desktop:** Tối đa 3.000 quy tắc thô, ưu tiên ABPVN và quy tắc cá nhân. Nếu vượt ngưỡng, dừng xuất bản thay vì cắt tùy tiện các rule hoặc ngoại lệ. Không giới hạn Android theo chính sách này.
+- **Ngân sách Desktop:** Tối đa 3.000 quy tắc thô, chứa các quy tắc bổ sung cá nhân. Nếu vượt ngưỡng, dừng xuất bản thay vì cắt tùy tiện các rule hoặc ngoại lệ. Không giới hạn Android theo chính sách này.
 - **Quy trình:** Tải nguồn → kiểm tra dữ liệu → lọc trùng → tạo hai bộ lọc → cập nhật GitHub nếu nội dung thay đổi.
 - **An toàn:** Tự thử lại tối đa 3 lần; nếu nguồn lỗi hoặc số quy tắc giảm bất thường, giữ nguyên bản đã xuất bản.
 - **Vận hành:** Worker và cấu hình nguồn được lưu riêng; repository này chỉ phát hành bộ lọc và tài liệu sử dụng.
