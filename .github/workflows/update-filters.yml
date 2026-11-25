@@ -47,8 +47,8 @@ jobs:
           fi
           python3 - <<'PY'
           from pathlib import Path
-          for name,minimum,maximum in [('Desktop',100,20000),('Android',1000,2000000)]:
-              p=Path('filters')/f'AdGuard_{name}.txt'
+          for name,minimum,maximum in [('Desktop',100,20000),('Mobile',1000,2000000)]:
+              p=Path('filters')/f'Vietnam_Filter_{name}.txt'
               header,sep,body=p.read_text(encoding='utf-8').partition('! End header\n')
               rules=body.splitlines()
               assert sep and minimum <= len(rules) <= maximum
@@ -61,7 +61,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          git add -- filters/AdGuard_Desktop.txt filters/AdGuard_Android.txt
+          git add -- filters/Vietnam_Filter_Desktop.txt filters/Vietnam_Filter_Mobile.txt
           if git diff --cached --quiet; then
             echo "No changes"
             exit 0
