@@ -1,7 +1,8 @@
 [Adblock Plus 2.0]
-! Title: Lowji194 - AdGuard Desktop
-! Version: 20261124160300
-! Last modified: 2026-11-24T16:03:00Z
+! Title: 🇻🇳 Lowji194 – Vietnam Filter (Desktop)
+! Description: General-purpose ad blocking and privacy protection, with priority for Vietnamese websites.
+! Version: 20261125114844
+! Last modified: 2026-11-25T11:48:44Z
 ! Expires: 7 days
 ! Homepage: https://github.com/lowji194/AdsBlock-Filter
 ! License: GPL-3.0; upstream attribution: see README.md

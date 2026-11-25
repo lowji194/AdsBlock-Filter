@@ -1,96 +1,52 @@
-[![🇻🇳 Tiếng Việt](https://img.shields.io/badge/Ngôn_ngữ-Tiếng_Việt-red?style=for-the-badge&logo=Google%20Translate)](README.md)
-# **🔥Ad Filter By Loi Nguyen🔥**
+[Tiếng Việt](README.md)
 
-This is an advanced ad filter developed by **Nguyen The Loi**. It provides separate subscriptions optimized for **AdGuard Browser Extension (Desktop)** and **AdGuard for Android**, helping block ads, reduce tracking, and improve your browsing experience.
+# 🇻🇳 Lowji194 – Vietnam Filter
 
----
+A general-purpose ad blocking and privacy filter prioritizing Vietnamese websites. Maintained by **Lowji194 (Nguyen The Loi)** and independent of any specific ad blocker brand.
 
-## 📅 **Update Information**
+## Features
 
-- **Website**: [Lowji194](https://lowji194.github.io)
-- **For**: AdGuard Browser Extension / AdGuard for Android
-- **Author**: Nguyen The Loi
-- **Description**: Ad blocking and privacy protection
-- **Updates**: Automatically every 7 days
-- **Project**: [GitHub](https://github.com/lowji194/AdsBlock-Filter)
-- **Phone**: 0963 159 294
-- **Facebook**: [Nguyen The Loi](https://www.facebook.com/Lowji194/)
+- Content filtering for ads, pop-ups and tracking elements.
+- Vietnamese websites prioritized, with international coverage.
+- Automatic updates every 7 days.
+- Compatible with ABP-style custom filter subscriptions, subject to each application's supported syntax.
 
----
+## Subscriptions
 
-## 🚀 **User Guide**
+| Edition | Intended use | URL |
+| --- | --- | --- |
+| 🇻🇳 Desktop | Browser extensions, rule-budgeted list | [Subscribe / TXT](https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/AdGuard_Desktop.txt) |
+| 🇻🇳 Mobile | Extended list for mobile content blockers | [Subscribe / TXT](https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/AdGuard_Android.txt) |
 
-Two separate filter subscriptions are available for desktop browsers and Android. Install AdGuard and subscribe to the URL matching your device.
-
-### 1. **Install AdGuard**
-
-- 🖥️ **AdGuard Browser Extension (Desktop)**: Install from the [Chrome Web Store](https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg), [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/adguard-adblocker/), or the [official download page](https://adguard.com/en/adguard-browser-extension/overview.html).
-- 📱 **AdGuard for Android**: Download the full application from the [official AdGuard website](https://adguard.com/en/adguard-android/overview.html).
-
-### 2. **Add Filters to AdGuard**
-
-#### 🖥️ AdGuard Browser Extension — Desktop
-
-1. Click the **AdGuard** icon in your browser.
-2. Open **Settings** → **Filters**.
-3. Open **Custom**, select **Add custom filter**, and enter the following URL:
-
+**Desktop**
 ```text
 https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/AdGuard_Desktop.txt
 ```
 
-[![Desktop](https://img.shields.io/badge/AdGuard-Desktop-4285F4?style=for-the-badge&logo=adguard&logoColor=white)](https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/AdGuard_Desktop.txt)
-
-#### 📱 AdGuard for Android — Mobile
-
-1. Open **AdGuard** and go to **Protection**.
-2. Select **Ad blocking** → **Filters** → **Custom filters**.
-3. Select **Add custom filter** and enter the following URL:
-
+**Mobile**
 ```text
 https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/AdGuard_Android.txt
 ```
 
-[![Android](https://img.shields.io/badge/AdGuard-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/AdGuard_Android.txt)
+## Installation
 
-### 3. **Enable the Filter**
+1. Open the filter list manager of your content blocker (e.g. Origin uBlock, uBlock Origin, AdGuard or Adblock Plus, where custom URL subscriptions are supported).
+2. Add a custom filter using the appropriate URL and enable it.
+3. Refresh the subscription to obtain updates.
 
-**Desktop:** Enable your new filter. Keep AdGuard's built-in ad blocking, privacy protection and website fixes enabled.
+Choose one edition. Do not mark it as trusted. MV3 blockers have DNR limits and may skip unsupported rules. This is not a DNS or hosts list. Legacy filenames are retained for existing subscriptions. Flag rendering depends on the application UI.
 
-**Android:** Enable your new filter in Ad blocking settings.
+## License and attribution
 
-> **Note:** Use only the URL for your device. Do not mark the filter as trusted. If the browser reports a rule limit, reduce the number of enabled custom filters.
+The combined filters are provided under [GPL-3.0](#license). Upstream copyright and license terms still apply. Credits: AdGuard Filters, EasyList, EasyPrivacy and uBlock Origin uAssets.
 
+## Contact and support
 
----
+- [GitHub Issues](https://github.com/lowji194/AdsBlock-Filter/issues)
+- [Website](https://lowji194.github.io)
+- [Facebook](https://facebook.com/Lowji194)
 
-## ⚙️ **Technical Information**
-
-- Blocks ads, pop-ups and tracking elements.
-- Supports AdGuard Browser Extension and AdGuard for Android.
-- Automatically updated every 7 days.
-- Content filters only; not intended for AdGuard Home or Private DNS.
-
-### **License and Attribution**
-
-The combined filters are provided under [GPL-3.0](README-EN.md#license). Upstream copyright and license terms still apply. Credits: AdGuard Filters, EasyList, EasyPrivacy and uBlock Origin uAssets.
-
-
----
-
-## 📌 **Contact**
-
-If you encounter any problems or want to contribute to the project, you can contact me via:
-
-- **Phone**: 0963 159 294
-- **Facebook**: [Lowji194](https://www.facebook.com/Lowji194/)
-
----
-
-## ☕ **Support me with a coffee**
-<p align="center">
-  <img src="https://theloi.io.vn/pay/QR.png?text=QR+Code" alt="Mời cà phê" width="240" />
-</p>
+<p align="center"><img src="https://theloi.io.vn/pay/QR.png?text=QR+Code" alt="Support with a coffee" width="240" /></p>
 
 ---
 

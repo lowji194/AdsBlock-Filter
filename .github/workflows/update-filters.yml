@@ -1,4 +1,4 @@
-name: Update AdGuard filters
+name: Update Vietnam Filter
 
 on:
   schedule:
@@ -68,5 +68,5 @@ jobs:
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -m 'chore(filters): automated AdGuard refresh'
+          git commit -m 'chore(filters): automated Vietnam Filter refresh'
           git push origin HEAD:main
