@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Title: Global AdBlock Filter (Desktop)
+! Title: Lowji Shield (Desktop)
 ! Description: Worldwide ad blocking and privacy protection for compatible content blockers.
-! Version: 20261126033918
-! Last modified: 2026-11-26T03:39:18Z
+! Version: 20261126034039
+! Last modified: 2026-11-26T03:40:39Z
 ! Expires: 7 days
 ! Homepage: https://github.com/lowji194/AdsBlock-Filter
 ! License: GPL-3.0; upstream attribution: see README.md

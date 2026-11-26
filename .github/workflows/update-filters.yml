@@ -1,4 +1,4 @@
-name: Update Global AdBlock Filter
+name: Update Lowji Shield
 
 on:
   schedule:
@@ -48,14 +48,14 @@ jobs:
           python3 - <<'PY'
           from pathlib import Path
           for name,minimum,maximum in [('Desktop',100,20000),('Mobile',1000,2000000)]:
-              p=Path('filters')/f'Global_AdBlock_{name}.txt'
+              p=Path('filters')/f'Lowji_Shield_{name}.txt'
               header,sep,body=p.read_text(encoding='utf-8').partition('! End header\n')
               rules=body.splitlines()
               assert sep and minimum <= len(rules) <= maximum
               assert len(rules)==len(set(rules)) and all(rules)
               assert f'! Rules: {len(rules)}' in header.splitlines()
               assert not any(x.startswith(('! Source:','! Content-SHA256:','! Policy:')) for x in header.splitlines())
-              assert f'! Title: Global AdBlock Filter ({name})' in header.splitlines()
+              assert f'! Title: Lowji Shield ({name})' in header.splitlines()
               assert '! Description: Worldwide ad blocking and privacy protection for compatible content blockers.' in header.splitlines()
               print(f'{name}: {len(rules)} unique rules')
           PY
@@ -64,14 +64,16 @@ jobs:
         run: |
           set -euo pipefail
           # Keep existing subscriptions working during the naming migration.
-          cp -- filters/Global_AdBlock_Desktop.txt filters/Vietnam_Filter_Desktop.txt
-          cp -- filters/Global_AdBlock_Mobile.txt filters/Vietnam_Filter_Mobile.txt
-          git add -- filters/Global_AdBlock_Desktop.txt filters/Global_AdBlock_Mobile.txt filters/Vietnam_Filter_Desktop.txt filters/Vietnam_Filter_Mobile.txt
+          cp -- filters/Lowji_Shield_Desktop.txt filters/Vietnam_Filter_Desktop.txt
+          cp -- filters/Lowji_Shield_Mobile.txt filters/Vietnam_Filter_Mobile.txt
+          cp -- filters/Lowji_Shield_Desktop.txt filters/Global_AdBlock_Desktop.txt
+          cp -- filters/Lowji_Shield_Mobile.txt filters/Global_AdBlock_Mobile.txt
+          git add -- filters/Lowji_Shield_Desktop.txt filters/Lowji_Shield_Mobile.txt filters/Global_AdBlock_Desktop.txt filters/Global_AdBlock_Mobile.txt filters/Vietnam_Filter_Desktop.txt filters/Vietnam_Filter_Mobile.txt
           if git diff --cached --quiet; then
             echo "No changes"
             exit 0
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -m 'chore(filters): automated Global AdBlock Filter refresh'
+          git commit -m 'chore(filters): automated Lowji Shield refresh'
           git push origin HEAD:main

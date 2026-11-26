@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🌐 Global AdBlock Filter
+# 🌐 Lowji Shield
 
 **Worldwide ad blocking and privacy protection**
 
@@ -23,7 +23,7 @@ Block ads, reduce tracking and improve your browsing experience.
 
 ## 📖 Introduction
 
-**Global AdBlock Filter** is a combined content filtering list maintained by **Nguyen The Loi (Lowji194)**. It is designed for worldwide browsing without country-specific rule prioritization. The project is independent of any specific ad blocker brand and can be used with applications and extensions that support ABP-style filter subscriptions via URL.
+**Lowji Shield** is a combined content filtering list maintained by **Nguyen The Loi (Lowji194)**. It is designed for worldwide browsing without country-specific rule prioritization. The project is independent of any specific ad blocker brand and can be used with applications and extensions that support ABP-style filter subscriptions via URL.
 
 The goal is to balance ad blocking, privacy protection, compatibility and performance. Two editions are provided to suit different filtering environments and resource limits without requiring users to combine many lists themselves.
 
@@ -41,7 +41,7 @@ The goal is to balance ad blocking, privacy protection, compatibility and perfor
 
 | Property | Information |
 | --- | --- |
-| Name | Global AdBlock Filter |
+| Name | Lowji Shield |
 | Maintainer | Nguyen The Loi (Lowji194) |
 | Coverage | Worldwide websites |
 | Format | TXT content filters, ABP-style syntax and supported extensions |
@@ -54,24 +54,24 @@ The goal is to balance ad blocking, privacy protection, compatibility and perfor
 
 ## 🔗 Filter subscriptions
 
-### 🖥️ Global AdBlock Filter – Desktop
+### 🖥️ Lowji Shield – Desktop
 
 Designed primarily for browser extensions with rule-count limits. Suitable as a supplemental list alongside the essential built-in filters of your application.
 
-[![Desktop](https://img.shields.io/badge/Global%20AdBlock%20Filter-Desktop-4285F4?style=for-the-badge)](https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Global_AdBlock_Desktop.txt)
+[![Desktop](https://img.shields.io/badge/Lowji%20Shield-Desktop-4285F4?style=for-the-badge)](https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Lowji_Shield_Desktop.txt)
 
 ```text
-https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Global_AdBlock_Desktop.txt
+https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Lowji_Shield_Desktop.txt
 ```
 
-### 📱 Global AdBlock Filter – Mobile
+### 📱 Lowji Shield – Mobile
 
 An extended edition intended for mobile content blockers or environments supporting larger filter lists. It is not restricted to Android; importing and rule limits depend on the application.
 
-[![Mobile](https://img.shields.io/badge/Global%20AdBlock%20Filter-Mobile-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Global_AdBlock_Mobile.txt)
+[![Mobile](https://img.shields.io/badge/Lowji%20Shield-Mobile-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Lowji_Shield_Mobile.txt)
 
 ```text
-https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Global_AdBlock_Mobile.txt
+https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Lowji_Shield_Mobile.txt
 ```
 
 | Comparison | Desktop | Mobile |
@@ -153,7 +153,7 @@ Menu names may differ by operating system, language and version. Do not mark the
 
 **Why does my extension show fewer rules than the TXT file?** Each engine parses, combines and discards unsupported rules differently and has its own resource limits.
 
-**What if a website breaks?** Temporarily disable Global AdBlock Filter and reload the website to isolate the issue. Report the URL, browser, extension version and screenshot through [GitHub Issues](https://github.com/lowji194/AdsBlock-Filter/issues). Do not share cookies, tokens or credentials.
+**What if a website breaks?** Temporarily disable Lowji Shield and reload the website to isolate the issue. Report the URL, browser, extension version and screenshot through [GitHub Issues](https://github.com/lowji194/AdsBlock-Filter/issues). Do not share cookies, tokens or credentials.
 
 **Does the filter block every ad?** No. Server-side ads, ads embedded in content and anti-blocking techniques may not be handled by every blocker.
 

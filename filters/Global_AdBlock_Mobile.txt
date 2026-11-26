@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Title: Global AdBlock Filter (Mobile)
+! Title: Lowji Shield (Mobile)
 ! Description: Worldwide ad blocking and privacy protection for compatible content blockers.
-! Version: 20261126034011
-! Last modified: 2026-11-26T03:40:11Z
+! Version: 20261126034039
+! Last modified: 2026-11-26T03:40:39Z
 ! Expires: 7 days
 ! Homepage: https://github.com/lowji194/AdsBlock-Filter
 ! License: GPL-3.0; upstream attribution: see README.md
-! Rules: 101074
+! Rules: 101065
 ! End header
 ||ads-api.twitter.com^
 ||log.fc.yahoo.com^
@@ -28632,7 +28632,6 @@ browsershots.org#@#.advert_area
 ||backsetretallylethes.qpon^
 ||backspinreentryupright.com^
 ||badgegirdle.com^
-||badgerflower.mobi^
 ||badgertulip.com^
 ||badjocks.com^
 ||badlandlispyippee.com^
@@ -30482,7 +30481,6 @@ browsershots.org#@#.advert_area
 ||covppmkwvcyzk.space^
 ||cowardphysiciancries.com^
 ||cowardsfumbler.cyou^
-||cowgirlguestenmanzas.cyou^
 ||cowkinecloven.cfd^
 ||cowpockspines.cyou^
 ||cowshutringedlaugher.cyou^
@@ -31491,7 +31489,6 @@ browsershots.org#@#.advert_area
 ||dsixon.com^
 ||dsixzz.com^
 ||dsiyow.com^
-||dsjgdd.com^
 ||dsjxkh.com^
 ||dskrgl.com^
 ||dskwun.com^
@@ -31704,7 +31701,6 @@ browsershots.org#@#.advert_area
 ||ebetoni.com^
 ||ebkpaqronws.com^
 ||eblastengine.com^
-||ebnwqpqjhwtdb.online^
 ||ebojbucloaxgw.website^
 ||ebpsqbrlnhdqa.space^
 ||ebuzzing.com^
@@ -33033,7 +33029,6 @@ browsershots.org#@#.advert_area
 ||georgianamortalemployed.com^
 ||geotrkclknow.com^
 ||geqedmme.com^
-||gerdvsvshbsgg.online^
 ||germiergroszy.cfd^
 ||germima.click^
 ||gestenfreezes.click^
@@ -33059,7 +33054,6 @@ browsershots.org#@#.advert_area
 ||gfpxw.com^
 ||gfstrck.com^
 ||gftidukiy.com^
-||gfuqwplijbefe.site^
 ||gfvayojvzswxr.site^
 ||gfxdn.pics^
 ||ggceomkffyyhu.website^
@@ -38676,7 +38670,6 @@ browsershots.org#@#.advert_area
 ||pwmctl.com^
 ||pwqkktxddgblg.space^
 ||pwrgrowthapi.com^
-||pwrrtyfexaenv.site^
 ||pwuwukmaga.in^
 ||pwyamrbild.in^
 ||px3792.com^
@@ -38992,7 +38985,6 @@ browsershots.org#@#.advert_area
 ||radiusfellowship.com^
 ||radiusmarketing.com^
 ||raegkyil.com^
-||raeonsgcxhjtk.site^
 ||raffleprotectionbow.com^
 ||rafikfangas.com^
 ||ragapa.com^
@@ -43475,7 +43467,6 @@ browsershots.org#@#.advert_area
 ||yrtajivgfzoqr.site^
 ||yrzrmvgzxteuq.site^
 ||ysaafgyzqdxjd.online^
-||yscexilehvsqq.site^
 ||yseemjov.com^
 ||yskadkhizcgep.online^
 ||ytasozwfwgilm.online^

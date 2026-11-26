@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🌐 Global AdBlock Filter
+# 🌐 Lowji Shield
 
 **Bộ lọc quảng cáo toàn cầu · Ad blocking & Privacy protection**
 
@@ -23,7 +23,7 @@ Chặn quảng cáo, hạn chế theo dõi và nâng cao trải nghiệm duyệt
 
 ## 📖 Giới thiệu
 
-**Global AdBlock Filter** là bộ lọc nội dung tổng hợp do **Nguyễn Thế Lợi (Lowji194)** duy trì, hướng đến môi trường duyệt web toàn cầu, không ưu tiên riêng quốc gia nào. Dự án không giới hạn ở một thương hiệu trình chặn quảng cáo: bạn có thể sử dụng danh sách trên những ứng dụng và extension hỗ trợ nhập bộ lọc dạng ABP qua URL.
+**Lowji Shield** là bộ lọc nội dung tổng hợp do **Nguyễn Thế Lợi (Lowji194)** duy trì, hướng đến môi trường duyệt web toàn cầu, không ưu tiên riêng quốc gia nào. Dự án không giới hạn ở một thương hiệu trình chặn quảng cáo: bạn có thể sử dụng danh sách trên những ứng dụng và extension hỗ trợ nhập bộ lọc dạng ABP qua URL.
 
 Mục tiêu của dự án là cân bằng giữa khả năng chặn quảng cáo, bảo vệ quyền riêng tư, tính tương thích và hiệu suất. Hai phiên bản được cung cấp để người dùng lựa chọn theo môi trường lọc và giới hạn của phần mềm, thay vì phải tự tổng hợp nhiều danh sách.
 
@@ -41,7 +41,7 @@ Mục tiêu của dự án là cân bằng giữa khả năng chặn quảng cá
 
 | Thuộc tính | Thông tin |
 | --- | --- |
-| Tên | Global AdBlock Filter |
+| Tên | Lowji Shield |
 | Tác giả | Nguyễn Thế Lợi (Lowji194) |
 | Phạm vi | Toàn cầu |
 | Định dạng | Danh sách TXT, cú pháp lọc nội dung ABP và phần mở rộng tương thích |
@@ -54,24 +54,24 @@ Mục tiêu của dự án là cân bằng giữa khả năng chặn quảng cá
 
 ## 🔗 Đường dẫn bộ lọc
 
-### 🖥️ Global AdBlock Filter – Desktop
+### 🖥️ Lowji Shield – Desktop
 
 Phiên bản ưu tiên cho trình duyệt và extension có giới hạn số quy tắc. Phù hợp làm danh sách bổ sung bên cạnh các bộ lọc cơ bản có sẵn trong ứng dụng.
 
-[![Desktop](https://img.shields.io/badge/Global%20AdBlock%20Filter-Desktop-4285F4?style=for-the-badge)](https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Global_AdBlock_Desktop.txt)
+[![Desktop](https://img.shields.io/badge/Lowji%20Shield-Desktop-4285F4?style=for-the-badge)](https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Lowji_Shield_Desktop.txt)
 
 ```text
-https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Global_AdBlock_Desktop.txt
+https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Lowji_Shield_Desktop.txt
 ```
 
-### 📱 Global AdBlock Filter – Mobile
+### 📱 Lowji Shield – Mobile
 
 Phiên bản mở rộng dành cho trình chặn nội dung trên thiết bị di động hoặc môi trường hỗ trợ danh sách lớn. Không bắt buộc sử dụng trên Android; khả năng nhập và giới hạn phụ thuộc phần mềm.
 
-[![Mobile](https://img.shields.io/badge/Global%20AdBlock%20Filter-Mobile-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Global_AdBlock_Mobile.txt)
+[![Mobile](https://img.shields.io/badge/Lowji%20Shield-Mobile-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Lowji_Shield_Mobile.txt)
 
 ```text
-https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Global_AdBlock_Mobile.txt
+https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Lowji_Shield_Mobile.txt
 ```
 
 | So sánh | Desktop | Mobile |
@@ -153,7 +153,7 @@ Tên menu có thể khác tùy hệ điều hành, ngôn ngữ và phiên bản.
 
 **Tại sao số quy tắc trong extension thấp hơn số dòng TXT?** Mỗi engine có cách phân tích, gộp, loại bỏ quy tắc không tương thích và giới hạn tài nguyên khác nhau.
 
-**Website bị lỗi sau khi bật bộ lọc thì làm gì?** Thử tắt riêng Global AdBlock Filter, tải lại trang để xác định nguyên nhân, sau đó báo URL, trình duyệt, phiên bản extension và ảnh lỗi tại [GitHub Issues](https://github.com/lowji194/AdsBlock-Filter/issues). Không gửi cookie, token hoặc thông tin đăng nhập.
+**Website bị lỗi sau khi bật bộ lọc thì làm gì?** Thử tắt riêng Lowji Shield, tải lại trang để xác định nguyên nhân, sau đó báo URL, trình duyệt, phiên bản extension và ảnh lỗi tại [GitHub Issues](https://github.com/lowji194/AdsBlock-Filter/issues). Không gửi cookie, token hoặc thông tin đăng nhập.
 
 **Bộ lọc có chặn được mọi quảng cáo không?** Không. Quảng cáo phía máy chủ, quảng cáo nằm trong nội dung và kỹ thuật chống chặn có thể không được xử lý bởi mọi trình chặn.
 
