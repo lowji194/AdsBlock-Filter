@@ -2,16 +2,16 @@
 
 <div align="center">
 
-# 🇻🇳 Lowji194 – Vietnam Filter
+# 🌐 Global AdBlock Filter
 
-**Vietnam-focused ad blocking and privacy protection**
+**Worldwide ad blocking and privacy protection**
 
 Block ads, reduce tracking and improve your browsing experience.
 
 [![GitHub stars](https://img.shields.io/github/stars/lowji194/AdsBlock-Filter?style=flat-square)](https://github.com/lowji194/AdsBlock-Filter/stargazers)
 [![Updates](https://img.shields.io/badge/Updates-Every%207%20days-2ea44f?style=flat-square)](https://github.com/lowji194/AdsBlock-Filter/actions)
 [![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square)](#license)
-[![Vietnam](https://img.shields.io/badge/Region-Vietnam-da251d?style=flat-square)](#introduction)
+[![Global](https://img.shields.io/badge/Coverage-Global-2563eb?style=flat-square)](#introduction)
 
 [Subscriptions](#filter-subscriptions) · [Installation](#installation-guide) · [Report an issue](https://github.com/lowji194/AdsBlock-Filter/issues)
 
@@ -23,7 +23,7 @@ Block ads, reduce tracking and improve your browsing experience.
 
 ## 📖 Introduction
 
-**Lowji194 – Vietnam Filter** is a combined content filtering list maintained by **Nguyen The Loi (Lowji194)**. It prioritizes Vietnamese websites while covering international websites. The project is independent of any specific ad blocker brand and can be used with applications and extensions that support ABP-style filter subscriptions via URL.
+**Global AdBlock Filter** is a combined content filtering list maintained by **Nguyen The Loi (Lowji194)**. It is designed for worldwide browsing without country-specific rule prioritization. The project is independent of any specific ad blocker brand and can be used with applications and extensions that support ABP-style filter subscriptions via URL.
 
 The goal is to balance ad blocking, privacy protection, compatibility and performance. Two editions are provided to suit different filtering environments and resource limits without requiring users to combine many lists themselves.
 
@@ -31,7 +31,7 @@ The goal is to balance ad blocking, privacy protection, compatibility and perfor
 
 - **Ad blocking:** filters advertising network requests, banners, interstitials and other advertising elements within the scope of supported rules.
 - **Privacy protection:** reduces requests to tracking, analytics and behavioral data collection services identified by the lists.
-- **Vietnam-first coverage:** prioritizes websites and services popular with Vietnamese users while retaining international coverage.
+- **Worldwide coverage:** combines international advertising and tracking rules without prioritizing a particular country.
 - **Cosmetic filtering:** supports hiding page elements where the filtering engine supports cosmetic rules.
 - **Two editions:** a rule-budgeted Desktop edition and an extended Mobile edition.
 - **Automatic updates:** lists are refreshed every seven days; the client must update its subscription to receive changes.
@@ -41,9 +41,9 @@ The goal is to balance ad blocking, privacy protection, compatibility and perfor
 
 | Property | Information |
 | --- | --- |
-| Name | Lowji194 – Vietnam Filter |
+| Name | Global AdBlock Filter |
 | Maintainer | Nguyen The Loi (Lowji194) |
-| Coverage | Vietnam and international websites |
+| Coverage | Worldwide websites |
 | Format | TXT content filters, ABP-style syntax and supported extensions |
 | Updates | Automatically every 7 days |
 | Website | [theloi.io.vn](https://theloi.io.vn/) · [lowji194.github.io](https://lowji194.github.io/) |
@@ -54,34 +54,34 @@ The goal is to balance ad blocking, privacy protection, compatibility and perfor
 
 ## 🔗 Filter subscriptions
 
-### 🖥️ Vietnam Filter – Desktop
+### 🖥️ Global AdBlock Filter – Desktop
 
 Designed primarily for browser extensions with rule-count limits. Suitable as a supplemental list alongside the essential built-in filters of your application.
 
-[![Desktop](https://img.shields.io/badge/🇻🇳%20Vietnam%20Filter-Desktop-4285F4?style=for-the-badge)](https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Vietnam_Filter_Desktop.txt)
+[![Desktop](https://img.shields.io/badge/Global%20AdBlock%20Filter-Desktop-4285F4?style=for-the-badge)](https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Global_AdBlock_Desktop.txt)
 
 ```text
-https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Vietnam_Filter_Desktop.txt
+https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Global_AdBlock_Desktop.txt
 ```
 
-### 📱 Vietnam Filter – Mobile
+### 📱 Global AdBlock Filter – Mobile
 
 An extended edition intended for mobile content blockers or environments supporting larger filter lists. It is not restricted to Android; importing and rule limits depend on the application.
 
-[![Mobile](https://img.shields.io/badge/🇻🇳%20Vietnam%20Filter-Mobile-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Vietnam_Filter_Mobile.txt)
+[![Mobile](https://img.shields.io/badge/Global%20AdBlock%20Filter-Mobile-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Global_AdBlock_Mobile.txt)
 
 ```text
-https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Vietnam_Filter_Mobile.txt
+https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Global_AdBlock_Mobile.txt
 ```
 
 | Comparison | Desktop | Mobile |
 | --- | --- | --- |
 | List size | Rule-budgeted | Extended |
 | Recommended for | Browser extensions | Applications supporting large lists |
-| Coverage | Essential and Vietnam-prioritized rules | Broader combined coverage |
+| Coverage | Essential global rules | Broader combined coverage |
 | Updates | Every 7 days | Every 7 days |
 
-> Subscribe to one suitable edition, not both. If you previously subscribed to an old URL, remove that subscription and add the corresponding new URL above.
+> Subscribe to one suitable edition, not both. Legacy URLs continue to receive updates; new users should subscribe using the URLs above.
 
 ## 🧩 Compatibility
 
@@ -108,7 +108,7 @@ These are options based on subscription support, not a guarantee that every rule
 4. Paste the Desktop URL and select **Add**.
 5. Verify that the list is enabled and use the refresh button when needed.
 
-A dashboard version that supports country flags displays the Vietnamese flag from the list title. Manually imported lists remain in the custom category.
+Manually imported lists remain in the custom category.
 
 ### 2. uBlock Origin
 
@@ -144,7 +144,6 @@ Menu names may differ by operating system, language and version. Do not mark the
 - Content filtering format, which may include network rules, exceptions and cosmetic rules.
 - The number of rule lines in the TXT file is not necessarily the number of compiled network rules in an extension.
 - Manifest V3 blockers have Declarative Net Request (DNR) limits and may omit or combine rules.
-- The country flag is included in the title; rendering depends on the blocker UI.
 - Not intended for direct DNS, Private DNS or hosts-based filtering.
 - Version, last modification and expiration metadata are available in the TXT headers. See the [update history](https://github.com/lowji194/AdsBlock-Filter/commits/main/) for changes.
 
@@ -154,9 +153,7 @@ Menu names may differ by operating system, language and version. Do not mark the
 
 **Why does my extension show fewer rules than the TXT file?** Each engine parses, combines and discards unsupported rules differently and has its own resource limits.
 
-**Why is the Vietnamese flag missing?** Refresh the list and update the application. Some interfaces do not render flags or support them only for built-in regional lists.
-
-**What if a website breaks?** Temporarily disable Vietnam Filter and reload the website to isolate the issue. Report the URL, browser, extension version and screenshot through [GitHub Issues](https://github.com/lowji194/AdsBlock-Filter/issues). Do not share cookies, tokens or credentials.
+**What if a website breaks?** Temporarily disable Global AdBlock Filter and reload the website to isolate the issue. Report the URL, browser, extension version and screenshot through [GitHub Issues](https://github.com/lowji194/AdsBlock-Filter/issues). Do not share cookies, tokens or credentials.
 
 **Does the filter block every ad?** No. Server-side ads, ads embedded in content and anti-blocking techniques may not be handled by every blocker.
 

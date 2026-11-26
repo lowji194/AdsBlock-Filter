@@ -2,16 +2,16 @@
 
 <div align="center">
 
-# 🇻🇳 Lowji194 – Vietnam Filter
+# 🌐 Global AdBlock Filter
 
-**Bộ lọc quảng cáo dành cho người Việt · Ad blocking & Privacy protection**
+**Bộ lọc quảng cáo toàn cầu · Ad blocking & Privacy protection**
 
 Chặn quảng cáo, hạn chế theo dõi và nâng cao trải nghiệm duyệt web.
 
 [![GitHub stars](https://img.shields.io/github/stars/lowji194/AdsBlock-Filter?style=flat-square)](https://github.com/lowji194/AdsBlock-Filter/stargazers)
 [![Update](https://img.shields.io/badge/C%E1%BA%ADp%20nh%E1%BA%ADt-7%20ng%C3%A0y-2ea44f?style=flat-square)](https://github.com/lowji194/AdsBlock-Filter/actions)
 [![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square)](README-EN.md#license)
-[![Vietnam](https://img.shields.io/badge/Region-Vietnam-da251d?style=flat-square)](#gioi-thieu)
+[![Global](https://img.shields.io/badge/Coverage-Global-2563eb?style=flat-square)](#gioi-thieu)
 
 [Đăng ký bộ lọc](#duong-dan-bo-loc) · [Hướng dẫn cài đặt](#huong-dan-cai-dat) · [Báo lỗi](https://github.com/lowji194/AdsBlock-Filter/issues)
 
@@ -23,7 +23,7 @@ Chặn quảng cáo, hạn chế theo dõi và nâng cao trải nghiệm duyệt
 
 ## 📖 Giới thiệu
 
-**Lowji194 – Vietnam Filter** là bộ lọc nội dung tổng hợp do **Nguyễn Thế Lợi (Lowji194)** duy trì, ưu tiên môi trường duyệt web tại Việt Nam đồng thời hỗ trợ các website quốc tế. Dự án không giới hạn ở một thương hiệu trình chặn quảng cáo: bạn có thể sử dụng danh sách trên những ứng dụng và extension hỗ trợ nhập bộ lọc dạng ABP qua URL.
+**Global AdBlock Filter** là bộ lọc nội dung tổng hợp do **Nguyễn Thế Lợi (Lowji194)** duy trì, hướng đến môi trường duyệt web toàn cầu, không ưu tiên riêng quốc gia nào. Dự án không giới hạn ở một thương hiệu trình chặn quảng cáo: bạn có thể sử dụng danh sách trên những ứng dụng và extension hỗ trợ nhập bộ lọc dạng ABP qua URL.
 
 Mục tiêu của dự án là cân bằng giữa khả năng chặn quảng cáo, bảo vệ quyền riêng tư, tính tương thích và hiệu suất. Hai phiên bản được cung cấp để người dùng lựa chọn theo môi trường lọc và giới hạn của phần mềm, thay vì phải tự tổng hợp nhiều danh sách.
 
@@ -31,7 +31,7 @@ Mục tiêu của dự án là cân bằng giữa khả năng chặn quảng cá
 
 - **Chặn quảng cáo:** lọc các yêu cầu mạng quảng cáo, banner, quảng cáo chen ngang và các thành phần quảng cáo trên website theo phạm vi quy tắc hỗ trợ.
 - **Hạn chế theo dõi:** giảm các yêu cầu tới dịch vụ theo dõi, thống kê và thu thập hành vi được nhận diện trong danh sách.
-- **Ưu tiên Việt Nam:** tập trung vào các website và dịch vụ phổ biến đối với người dùng Việt, đồng thời có phạm vi quốc tế.
+- **Phạm vi toàn cầu:** kết hợp quy tắc chặn quảng cáo và theo dõi từ nhiều nguồn quốc tế, không ưu tiên riêng quốc gia nào.
 - **Lọc giao diện:** hỗ trợ các quy tắc ẩn phần tử trên trang khi trình chặn hỗ trợ cosmetic filtering.
 - **Danh sách riêng cho từng nhu cầu:** phiên bản Desktop có ngân sách quy tắc, Mobile có phạm vi mở rộng.
 - **Cập nhật tự động:** danh sách được làm mới theo chu kỳ 7 ngày; phần mềm sử dụng danh sách cần cập nhật đăng ký để nhận thay đổi.
@@ -41,9 +41,9 @@ Mục tiêu của dự án là cân bằng giữa khả năng chặn quảng cá
 
 | Thuộc tính | Thông tin |
 | --- | --- |
-| Tên | Lowji194 – Vietnam Filter |
+| Tên | Global AdBlock Filter |
 | Tác giả | Nguyễn Thế Lợi (Lowji194) |
-| Phạm vi | Việt Nam và quốc tế |
+| Phạm vi | Toàn cầu |
 | Định dạng | Danh sách TXT, cú pháp lọc nội dung ABP và phần mở rộng tương thích |
 | Cập nhật | Tự động mỗi 7 ngày |
 | Website | [theloi.io.vn](https://theloi.io.vn/) · [lowji194.github.io](https://lowji194.github.io/) |
@@ -54,34 +54,34 @@ Mục tiêu của dự án là cân bằng giữa khả năng chặn quảng cá
 
 ## 🔗 Đường dẫn bộ lọc
 
-### 🖥️ Vietnam Filter – Desktop
+### 🖥️ Global AdBlock Filter – Desktop
 
 Phiên bản ưu tiên cho trình duyệt và extension có giới hạn số quy tắc. Phù hợp làm danh sách bổ sung bên cạnh các bộ lọc cơ bản có sẵn trong ứng dụng.
 
-[![Desktop](https://img.shields.io/badge/🇻🇳%20Vietnam%20Filter-Desktop-4285F4?style=for-the-badge)](https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Vietnam_Filter_Desktop.txt)
+[![Desktop](https://img.shields.io/badge/Global%20AdBlock%20Filter-Desktop-4285F4?style=for-the-badge)](https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Global_AdBlock_Desktop.txt)
 
 ```text
-https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Vietnam_Filter_Desktop.txt
+https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Global_AdBlock_Desktop.txt
 ```
 
-### 📱 Vietnam Filter – Mobile
+### 📱 Global AdBlock Filter – Mobile
 
 Phiên bản mở rộng dành cho trình chặn nội dung trên thiết bị di động hoặc môi trường hỗ trợ danh sách lớn. Không bắt buộc sử dụng trên Android; khả năng nhập và giới hạn phụ thuộc phần mềm.
 
-[![Mobile](https://img.shields.io/badge/🇻🇳%20Vietnam%20Filter-Mobile-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Vietnam_Filter_Mobile.txt)
+[![Mobile](https://img.shields.io/badge/Global%20AdBlock%20Filter-Mobile-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Global_AdBlock_Mobile.txt)
 
 ```text
-https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Vietnam_Filter_Mobile.txt
+https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Global_AdBlock_Mobile.txt
 ```
 
 | So sánh | Desktop | Mobile |
 | --- | --- | --- |
 | Dung lượng danh sách | Giới hạn ngân sách quy tắc | Mở rộng |
 | Khuyến nghị | Extension trình duyệt | Ứng dụng hỗ trợ danh sách lớn |
-| Phạm vi | Ưu tiên quy tắc thiết yếu và Việt Nam | Phạm vi tổng hợp rộng hơn |
+| Phạm vi | Quy tắc thiết yếu toàn cầu | Phạm vi tổng hợp rộng hơn |
 | Cập nhật | 7 ngày | 7 ngày |
 
-> Chỉ đăng ký một phiên bản phù hợp, không bật đồng thời cả hai. Nếu đã sử dụng URL cũ, hãy xóa đăng ký cũ và thêm URL mới bên trên.
+> Chỉ đăng ký một phiên bản phù hợp, không bật đồng thời cả hai. URL cũ vẫn được cập nhật để tương thích; người dùng mới nên sử dụng URL bên trên.
 
 ## 🧩 Khả năng tương thích
 
@@ -108,7 +108,7 @@ https://raw.githubusercontent.com/lowji194/AdsBlock-Filter/main/filters/Vietnam_
 4. Dán URL Desktop và chọn **Thêm (Add)**.
 5. Kiểm tra danh sách đã bật; sử dụng nút cập nhật danh sách khi cần.
 
-Phiên bản giao diện có hỗ trợ quốc kỳ sẽ hiển thị cờ Việt Nam từ tiêu đề danh sách. Danh sách nhập thủ công vẫn thuộc nhóm tùy chỉnh.
+Danh sách nhập thủ công thuộc nhóm bộ lọc tùy chỉnh.
 
 ### 2. uBlock Origin
 
@@ -144,7 +144,6 @@ Tên menu có thể khác tùy hệ điều hành, ngôn ngữ và phiên bản.
 - Định dạng bộ lọc nội dung, có thể gồm quy tắc mạng, ngoại lệ và quy tắc ẩn phần tử.
 - Số dòng quy tắc trong file không đồng nghĩa với số quy tắc mạng được biên dịch trong từng extension.
 - Trình chặn sử dụng Manifest V3 có giới hạn Declarative Net Request (DNR); một phần quy tắc có thể bị bỏ qua hoặc gộp lại.
-- Quốc kỳ nằm trong tiêu đề danh sách; cách hiển thị tùy giao diện của trình chặn.
 - Không dùng trực tiếp cho DNS, Private DNS hoặc bộ lọc hosts.
 - Có thể kiểm tra phiên bản, thời điểm sửa đổi và thời hạn cập nhật ở đầu file TXT hoặc theo dõi [lịch sử cập nhật](https://github.com/lowji194/AdsBlock-Filter/commits/main/).
 
@@ -154,9 +153,7 @@ Tên menu có thể khác tùy hệ điều hành, ngôn ngữ và phiên bản.
 
 **Tại sao số quy tắc trong extension thấp hơn số dòng TXT?** Mỗi engine có cách phân tích, gộp, loại bỏ quy tắc không tương thích và giới hạn tài nguyên khác nhau.
 
-**Tại sao không thấy cờ Việt Nam?** Hãy cập nhật danh sách và phần mềm. Một số giao diện không hỗ trợ hiển thị quốc kỳ hoặc chỉ hỗ trợ trong nhóm khu vực tích hợp.
-
-**Website bị lỗi sau khi bật bộ lọc thì làm gì?** Thử tắt riêng Vietnam Filter, tải lại trang để xác định nguyên nhân, sau đó báo URL, trình duyệt, phiên bản extension và ảnh lỗi tại [GitHub Issues](https://github.com/lowji194/AdsBlock-Filter/issues). Không gửi cookie, token hoặc thông tin đăng nhập.
+**Website bị lỗi sau khi bật bộ lọc thì làm gì?** Thử tắt riêng Global AdBlock Filter, tải lại trang để xác định nguyên nhân, sau đó báo URL, trình duyệt, phiên bản extension và ảnh lỗi tại [GitHub Issues](https://github.com/lowji194/AdsBlock-Filter/issues). Không gửi cookie, token hoặc thông tin đăng nhập.
 
 **Bộ lọc có chặn được mọi quảng cáo không?** Không. Quảng cáo phía máy chủ, quảng cáo nằm trong nội dung và kỹ thuật chống chặn có thể không được xử lý bởi mọi trình chặn.
 
